@@ -1,7 +1,13 @@
 {
   "report_date": "2026-08-14",
-  "generated_at": "2026-08-14T15:43:40.039464+08:00",
-  "message": "📊 Daily Market Brief\n日期：2026-08-14\n\n🕒 Data Snapshot\n- S&P 500: 08/13 ✅\n- Nasdaq Composite: 08/13 ✅\n- WTI: 08/11 ⚠️\n- Brent: 08/11 ⚠️\n- US 10Y: 08/13 ✅\n- FOMC: 07/29\n- AI官方新聞: 08/13 (8則)\n- CPI: 07月\n- 失業率: 07月\n- 非農就業: 07月\n- PCE: 06月\n- Core PCE: 06月\n- EIA原油庫存: 08/07\n- 台灣出口: 07月\n- USD/TWD: 08/13 ✅\n- TAIEX: 08/13 ✅\n- TSMC: 08/14 ✅\n- 外資/法人: 08/14 ✅\n\n🔑 Top 3\n1. 美股主要指數走勢：S&P 500 +0.65%，Nasdaq +0.81%。\n2. 美國 10 年期公債殖利率 4.63%，-5.0 bps。\n3. EIA 美國商業原油庫存（不含 SPR）為 424.4 百萬桶，週變動 +17.4 百萬桶。\n\n🇺🇸 Fed & Macro\n- FOMC（07/29）：The Federal Open Market Committee approved the following statement for release by a 9 – 3 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate.\n- CPI：MoM +0.07%，YoY +3.30%（2026-07）\n- PCE：MoM -0.11%，YoY +3.67%（2026-06）\n- Core PCE：MoM +0.13%，YoY +3.29%（2026-06）\n- 失業率：4.1%（2026-07）\n- 非農就業：月變動 -23k（2026-07）\n- US 10Y：4.63%，-5.0 bps\n\n🛢 Oil\n- WTI：84.77 美元/桶，+1.21%\n- Brent：93.26 美元/桶，+0.56%\n- EIA 原油庫存（不含 SPR）：424.4 百萬桶，週變動 +17.4 百萬桶\n→ 單週庫存變動只是供需線索，不能單獨用來解釋油價方向。\n\n🤖 AI\n- OpenAI 08/13：The builder’s guide to GPT‑5.6\n- OpenAI 08/13：Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed\n- Meta 08/13：The Future Is for Everyone: Free AI Glasses for Every Blind and Visually Impaired Adult Vision Ireland Supports\n- Meta 08/12：NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era\n→ 僅列官方公告，不由公告直接推論晶片訂單、營收或股價影響。\n\n🇹🇼 Taiwan\n- TAIEX：46021.48，+503.41 點（+1.11%）\n- TSMC：2,395.00 元，漲跌 -40.00 元。\n- 台灣出口：753.0 億美元，月增 +0.6%，年增 +32.9%（2026-07）\n- USD/TWD：32.168，-0.24%\n- 外資及陸資買賣超：+454 億元（08/14）\n- 投信買賣超：+72 億元（08/14）\n\n🧬 Historical Analog\n- Current 5-observation vector: S&P -0.11%, Nasdaq -0.52%, WTI +9.62%, Brent +7.85%\n- Analog 1: 2026-05-18 distance 0.15 | historical S&P next 5 obs +1.57%, historical S&P next 20 obs +1.46%\n- Analog 2: 2026-04-01 distance 0.16 | historical S&P next 5 obs +3.79%, historical S&P next 20 obs +9.64%\n- Analog 3: 2026-05-15 distance 0.17 | historical S&P next 5 obs +0.88%, historical S&P next 20 obs +1.97%\n\n🧭 Scenario Map\n- [HIGH] Inflation Pressure: elevated | CPI YoY 3.30%; PCE YoY 3.67%; Core PCE YoY 3.29%\n- [HIGH] Oil Inventory Signal: large-build | weekly +17.4 mb\n- [HIGH] Taiwan Export Momentum: high-growth | YoY +32.9%\n- [WATCH] Taiwan Foreign Flow: net-buy | +454 億元\n- [NEUTRAL] Labor Cooling: not-confirmed | unemployment 4.1%, -0.1 pp\n\n📈 Historical Trends\n- S&P 500: 5 obs +1.15%, 20 obs +3.52%\n- Nasdaq Composite: 5 obs +1.73%, 20 obs +3.56%\n- WTI Spot: 5 obs +9.62%, 20 obs +5.38%\n- Brent Spot: 5 obs +7.85%, 20 obs +11.44%\n\n🚨 Event Focus\n- [WATCH] 2026-08-19 EIA 週度石油庫存 (5d) | related: WTI, Brent, EIA Crude Inventory\n- [MONITOR] 2026-08-28 PCE / Core PCE (14d estimated-window) | related: PCE, Core PCE, US 10Y Treasury\n- [MONITOR] 2026-09-08 台灣出口 (25d estimated-window) | related: Taiwan Exports, TAIEX, TSMC 2330, TWSE Institutional Flows\n\n📅 Upcoming\n- 08-19 EIA 週度石油庫存\n- 08-28 PCE / Core PCE（估計）\n- 09-08 台灣出口（估計）\n- 09-10 美國 CPI（估計）\n\n👀 Watch Next\n- FedWatch / 市場利率預期\n- 下一批 CPI、PCE 與就業資料\n- 下一期 EIA 庫存與 OPEC+ 訊息\n- AI 公司官方公告與財測\n- 台灣出口品項結構與法人資金連續性\n\n🎯 Bottom Line\n本版為自動備援摘要：只整理已驗證的市場與官方資料，不建立未經證實的因果關係。Gemini 本次因服務或配額限制未能產生分析版內容。\n\n📚 Sources\nEIA｜Federal Reserve｜OpenAI｜Google｜Meta｜TSMC｜BEA via FRED｜BLS｜U.S. Treasury｜Taiwan MOF｜CBC Taiwan｜TWSE",
+  "generated_at": "2026-08-14T16:36:38.259916+08:00",
+  "message": "📊 Daily Market Brief\n日期：2026-08-14\n\n🔑 Today in 3\n1. [HIGH] EIA Crude Inventory: +17.4 mb\n2. [HIGH] Taiwan Exports YoY: +32.9%\n3. [WATCH] S&P 500: +0.65%\n\n🌐 Cross-Market\n- S&P 500 +0.65%（08/13）\n- US 10Y 4.63%，-5.0 bps\n- EIA 原油庫存週變動 +17.4 百萬桶\n- 台灣出口 YoY +32.9%（07月）\n- 外資及陸資 +454 億元\n\n🚨 Event Focus\n- 08-19 EIA 週度石油庫存\n- 08-28 PCE / Core PCE（估計）\n\n👀 Watch Next\n- 下一批通膨 / 就業與利率資料更新\n- EIA 庫存、台灣出口與法人資金延續性\n\n🎯 Bottom Line\n本版為精簡備援摘要；只整理已驗證資料，不建立未經證實的因果關係。\n\n📚 Sources\nEIA｜Federal Reserve｜OpenAI｜Google｜Meta｜TSMC｜BEA via FRED｜BLS｜U.S. Treasury｜Taiwan MOF｜CBC Taiwan｜TWSE",
+  "data_health": {
+    "total": 20,
+    "success": 20,
+    "failed_count": 0,
+    "failed_items": []
+  },
   "signals": {
     "signals": [
       {
@@ -602,15 +608,15 @@
       "data": {
         "source": "CBC Taiwan",
         "latest": {
+          "date": "2026-08-14",
+          "value": 32.046
+        },
+        "previous": {
           "date": "2026-08-13",
           "value": 32.168
         },
-        "previous": {
-          "date": "2026-08-12",
-          "value": 32.246
-        },
-        "change": -0.07800000000000296,
-        "change_pct": -0.2418904670346801
+        "change": -0.12199999999999989,
+        "change_pct": -0.379258890823178
       }
     },
     "Taiwan Exports": {
