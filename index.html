@@ -185,6 +185,64 @@ details.card[open] summary { margin-bottom:12px; }
 }
 .archive-kpi span { display:block; color:var(--muted); font-size:12px; }
 .archive-kpi strong { display:block; margin-top:2px; }
+.context-group {
+  margin-bottom:18px;
+}
+.context-group-title {
+  display:flex;
+  justify-content:space-between;
+  gap:12px;
+  align-items:end;
+  margin:0 0 9px;
+}
+.context-group-title h3 {
+  margin:0;
+  font-size:17px;
+}
+.context-group-title span {
+  color:var(--muted);
+  font-size:12px;
+}
+.context-grid {
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:12px;
+}
+.context-card {
+  background:var(--card);
+  border:1px solid var(--border);
+  border-radius:14px;
+  padding:15px;
+}
+.context-card h3 {
+  margin:3px 0 12px;
+  font-size:16px;
+  line-height:1.4;
+}
+.context-source {
+  color:var(--muted);
+  font-size:11px;
+  font-weight:700;
+}
+.context-block {
+  border-top:1px solid var(--border);
+  padding-top:9px;
+  margin-top:9px;
+}
+.context-block p {
+  margin:4px 0 0;
+  font-size:13px;
+}
+.context-label {
+  display:inline-block;
+  font-size:10px;
+  font-weight:800;
+  text-transform:uppercase;
+  letter-spacing:.06em;
+  color:var(--accent);
+}
+.context-block.fact .context-label { color:#166534; }
+.context-block.limits .context-label { color:#9a3412; }
 .trend-grid {
   display:grid;
   grid-template-columns:repeat(2,minmax(0,1fr));
@@ -237,6 +295,7 @@ footer {
   .kpi-value { font-size:18px; }
   .timeline-item { grid-template-columns:58px 1fr; }
   .trend-grid { grid-template-columns:1fr; }
+  .context-grid { grid-template-columns:1fr; }
   .archive-grid { grid-template-columns:1fr 1fr; }
 }
 </style>
@@ -245,7 +304,7 @@ footer {
 <header class="hero">
   <div class="container">
     <h1>Daily Market Intelligence</h1>
-    <p>2026-08-14 · generated 17:09 CST</p>
+    <p>2026-08-14 · generated 17:12 CST</p>
     <div class="health">All systems healthy · 20/20 datasets</div>
     <div class="archive-tools">
       <label for="archiveSelect">歷史報告：</label>
@@ -261,6 +320,7 @@ footer {
   <div class="container nav-inner">
     <a href="#overview">Overview</a>
     <a href="#brief">Brief</a>
+    <a href="#context">News & Context</a>
     <a href="#signals">Signals</a>
     <a href="#scenarios">Scenarios</a>
     <a href="#events">Events</a>
@@ -313,6 +373,14 @@ footer {
 
 📚 Sources
 EIA｜Federal Reserve｜OpenAI｜Google｜Meta｜TSMC｜BEA via FRED｜BLS｜U.S. Treasury｜Taiwan MOF｜CBC Taiwan｜TWSE</pre></div>
+  </section>
+
+  <section id="context" class="section">
+    <div class="section-title">
+      <h2>News & Event Context</h2>
+      <span>Fact → Context → Limits</span>
+    </div>
+    <div class="context-group"><div class="context-group-title"><h3>Fed / Macro</h3><span>政策與總體資料背景</span></div><div class="context-grid"><article class="context-card"><div class="context-head"><div><span class="context-source">Federal Reserve · 2026-07-29</span><h3>Latest FOMC Statement</h3></div></div><div class="context-block fact"><span class="context-label">Fact</span><p>The Federal Open Market Committee approved the following statement for release by a 9 – 3 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve&#x27;s dual mandate.</p></div><div class="context-block"><span class="context-label">Context</span><p>這是目前可驗證的 Fed 政策背景；可與 CPI、PCE、就業及美債殖利率一起觀察政策環境。</p></div><div class="context-block limits"><span class="context-label">Limits</span><p>單一 FOMC statement 或單一通膨／就業數據，都不能保證下一次會議的升息或降息結果。</p></div></article><article class="context-card"><div class="context-head"><div><span class="context-source">BLS / BEA via FRED</span><h3>Macro Pulse</h3></div></div><div class="context-block fact"><span class="context-label">Fact</span><p>CPI 2026-07: MoM +0.07%, YoY +3.30%；Core PCE 2026-06: YoY +3.29%；Unemployment 2026-07: 4.1%；NFP 2026-07: -23k</p></div><div class="context-block"><span class="context-label">Context</span><p>通膨與就業資料提供 Fed 雙重使命的當期背景，也可搭配 US 10Y 的變化觀察市場利率環境。</p></div><div class="context-block limits"><span class="context-label">Limits</span><p>不同資料的發布月份可能不同，不能把不同期別直接視為同一天的因果關係。</p></div></article></div></div><div class="context-group"><div class="context-group-title"><h3>Oil</h3><span>庫存與能源市場背景</span></div><div class="context-grid"><article class="context-card"><div class="context-head"><div><span class="context-source">EIA · 2026-08-07</span><h3>EIA Crude Inventory</h3></div></div><div class="context-block fact"><span class="context-label">Fact</span><p>美國商業原油庫存（不含 SPR）424.4 百萬桶，週變動 +17.4 百萬桶（week ending 2026-08-07）</p></div><div class="context-block"><span class="context-label">Context</span><p>庫存的大幅增減是原油供需平衡的重要觀察線索，可與 WTI、Brent 的同期走勢一起閱讀。</p></div><div class="context-block limits"><span class="context-label">Limits</span><p>單一週庫存變動不能單獨解釋油價方向；仍可能同時受到地緣政治、供給政策與需求預期影響。</p></div></article></div></div><div class="context-group"><div class="context-group-title"><h3>AI / Tech</h3><span>官方公司與產業事件</span></div><div class="context-grid"><article class="context-card"><div class="context-head"><div><span class="context-source">OpenAI · 2026-08-13</span><h3>The builder’s guide to GPT‑5.6</h3></div></div><div class="context-block fact"><span class="context-label">Fact</span><p>The builder’s guide to GPT‑5.6 — Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.</p></div><div class="context-block"><span class="context-label">Context</span><p>這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。</p></div><div class="context-block limits"><span class="context-label">Limits</span><p>官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。</p></div></article><article class="context-card"><div class="context-head"><div><span class="context-source">OpenAI · 2026-08-13</span><h3>Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed</h3></div></div><div class="context-block fact"><span class="context-label">Fact</span><p>Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed — Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.</p></div><div class="context-block"><span class="context-label">Context</span><p>這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。</p></div><div class="context-block limits"><span class="context-label">Limits</span><p>官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。</p></div></article><article class="context-card"><div class="context-head"><div><span class="context-source">Meta · 2026-08-13</span><h3>The Future Is for Everyone: Free AI Glasses for Every Blind and Visually Impaired Adult Vision Ireland Supports</h3></div></div><div class="context-block fact"><span class="context-label">Fact</span><p>The Future Is for Everyone: Free AI Glasses for Every Blind and Visually Impaired Adult Vision Ireland Supports — “What I really like about the glasses is the speed at which I get the information I need – instead of waiting for someone to read a letter or waiting for someone to tell me what I have in the fridge, I’ll just do it on impulse. Now I’m doing things for myse...</p></div><div class="context-block"><span class="context-label">Context</span><p>這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。</p></div><div class="context-block limits"><span class="context-label">Limits</span><p>官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。</p></div></article><article class="context-card"><div class="context-head"><div><span class="context-source">Meta · 2026-08-12</span><h3>NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era</h3></div></div><div class="context-block fact"><span class="context-label">Fact</span><p>NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era — Meta and North America&#x27;s Building Trades Unions (NABTU) are partnering to invest in skilled trades workers building America&#x27;s AI infrastructure. The post NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era appeared first on Me...</p></div><div class="context-block"><span class="context-label">Context</span><p>這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。</p></div><div class="context-block limits"><span class="context-label">Limits</span><p>官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。</p></div></article><article class="context-card"><div class="context-head"><div><span class="context-source">Google · 2026-08-11</span><h3>AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.</h3></div></div><div class="context-block fact"><span class="context-label">Fact</span><p>AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. — Google introduces AMIE for real-time clinical video consultations in simulated settings.</p></div><div class="context-block"><span class="context-label">Context</span><p>這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。</p></div><div class="context-block limits"><span class="context-label">Limits</span><p>官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。</p></div></article><article class="context-card"><div class="context-head"><div><span class="context-source">TSMC · 2026-08-11</span><h3>Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors</h3></div></div><div class="context-block fact"><span class="context-label">Fact</span><p>Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors</p></div><div class="context-block"><span class="context-label">Context</span><p>這是台積電官方公司／技術訊息，可作為公司事件背景；若要判斷營運影響，仍需搭配正式財報、法說或公司指引。</p></div><div class="context-block limits"><span class="context-label">Limits</span><p>官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。</p></div></article></div></div><div class="context-group"><div class="context-group-title"><h3>Taiwan</h3><span>出口與資金面背景</span></div><div class="context-grid"><article class="context-card"><div class="context-head"><div><span class="context-source">Taiwan MOF · 2026-08-07</span><h3>Taiwan Export Momentum</h3></div></div><div class="context-block fact"><span class="context-label">Fact</span><p>2026-07 台灣出口 USD 75.3 bn，MoM +0.6%，YoY +32.9%；主要品項：資通與視聽產品 +29.5%、電子零組件 +50.5%、基本金屬及其製品 +24.8%</p></div><div class="context-block"><span class="context-label">Context</span><p>出口總額與品項結構可用來觀察台灣外需環境與產業出口動能。</p></div><div class="context-block limits"><span class="context-label">Limits</span><p>出口成長不能直接等同於台積電、AI 伺服器或任何特定公司的訂單、營收、獲利或股價表現。</p></div></article><article class="context-card"><div class="context-head"><div><span class="context-source">TWSE BFI82U · 2026-08-14</span><h3>TWSE Institutional Flow</h3></div></div><div class="context-block fact"><span class="context-label">Fact</span><p>外資及陸資 +454 億元；三大法人合計 +509 億元</p></div><div class="context-block"><span class="context-label">Context</span><p>法人買賣超提供當日資金方向資訊，可與大盤及匯率同時觀察，但不預設彼此存在因果關係。</p></div><div class="context-block limits"><span class="context-label">Limits</span><p>單日法人流向不能代表長期趨勢，也不能單獨解釋匯率、景氣或未來股市方向。</p></div></article></div></div>
   </section>
 
   <section class="grid-2">
