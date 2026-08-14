@@ -1,6 +1,6 @@
 {
   "report_date": "2026-08-14",
-  "generated_at": "2026-08-14T17:12:34.558005+08:00",
+  "generated_at": "2026-08-14T23:24:05.918016+08:00",
   "message": "📊 Daily Market Brief\n日期：2026-08-14\n\n🔑 Today in 3\n1. [HIGH] EIA Crude Inventory: +17.4 mb\n2. [HIGH] Taiwan Exports YoY: +32.9%\n3. [WATCH] S&P 500: +0.65%\n\n🌐 Cross-Market\n- S&P 500 +0.65%（08/13）\n- US 10Y 4.63%，-5.0 bps\n- EIA 原油庫存週變動 +17.4 百萬桶\n- 台灣出口 YoY +32.9%（07月）\n- 外資及陸資 +454 億元\n\n🚨 Event Focus\n- 08-19 EIA 週度石油庫存\n- 08-28 PCE / Core PCE（估計）\n\n👀 Watch Next\n- 下一批通膨 / 就業與利率資料更新\n- EIA 庫存、台灣出口與法人資金延續性\n\n🎯 Bottom Line\n本版為精簡備援摘要；只整理已驗證資料，不建立未經證實的因果關係。\n\n📚 Sources\nEIA｜Federal Reserve｜OpenAI｜Google｜Meta｜TSMC｜BEA via FRED｜BLS｜U.S. Treasury｜Taiwan MOF｜CBC Taiwan｜TWSE",
   "data_health": {
     "total": 20,
@@ -193,52 +193,64 @@
     ],
     "AI / Tech": [
       {
-        "title": "The builder’s guide to GPT‑5.6",
+        "title": "OpenAI 官方 AI / 科技更新",
         "source": "OpenAI",
         "date": "2026-08-13",
         "fact": "The builder’s guide to GPT‑5.6 — Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
         "context": "這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。",
-        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。"
+        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
+        "original_title": "The builder’s guide to GPT‑5.6",
+        "original_summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
       },
       {
-        "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+        "title": "OpenAI 官方 AI / 科技更新",
         "source": "OpenAI",
         "date": "2026-08-13",
         "fact": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed — Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
         "context": "這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。",
-        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。"
+        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
+        "original_title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+        "original_summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
       },
       {
-        "title": "The Future Is for Everyone: Free AI Glasses for Every Blind and Visually Impaired Adult Vision Ireland Supports",
+        "title": "Meta 官方 AI / 科技更新",
         "source": "Meta",
         "date": "2026-08-13",
         "fact": "The Future Is for Everyone: Free AI Glasses for Every Blind and Visually Impaired Adult Vision Ireland Supports — “What I really like about the glasses is the speed at which I get the information I need – instead of waiting for someone to read a letter or waiting for someone to tell me what I have in the fridge, I’ll just do it on impulse. Now I’m doing things for myse...",
         "context": "這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。",
-        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。"
+        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
+        "original_title": "The Future Is for Everyone: Free AI Glasses for Every Blind and Visually Impaired Adult Vision Ireland Supports",
+        "original_summary": "“What I really like about the glasses is the speed at which I get the information I need – instead of waiting for someone to read a letter or waiting for someone to tell me what I have in the fridge, I’ll just do it on impulse. Now I’m doing things for myse..."
       },
       {
-        "title": "NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era",
+        "title": "Meta 官方 AI / 科技更新",
         "source": "Meta",
         "date": "2026-08-12",
         "fact": "NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era — Meta and North America's Building Trades Unions (NABTU) are partnering to invest in skilled trades workers building America's AI infrastructure. The post NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era appeared first on Me...",
         "context": "這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。",
-        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。"
+        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
+        "original_title": "NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era",
+        "original_summary": "Meta and North America's Building Trades Unions (NABTU) are partnering to invest in skilled trades workers building America's AI infrastructure. The post NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era appeared first on Me..."
       },
       {
-        "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+        "title": "Google 官方 AI / 科技更新",
         "source": "Google",
         "date": "2026-08-11",
         "fact": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. — Google introduces AMIE for real-time clinical video consultations in simulated settings.",
         "context": "這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。",
-        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。"
+        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
+        "original_title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+        "original_summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings."
       },
       {
-        "title": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+        "title": "TSMC 官方 AI / 科技更新",
         "source": "TSMC",
         "date": "2026-08-11",
         "fact": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
         "context": "這是台積電官方公司／技術訊息，可作為公司事件背景；若要判斷營運影響，仍需搭配正式財報、法說或公司指引。",
-        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。"
+        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
+        "original_title": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+        "original_summary": ""
       }
     ],
     "Taiwan": [
@@ -254,7 +266,7 @@
         "title": "TWSE Institutional Flow",
         "source": "TWSE BFI82U",
         "date": "2026-08-14",
-        "fact": "外資及陸資 +454 億元；三大法人合計 +509 億元",
+        "fact": "外資及陸資 +454 億元；三大法人合計 +517 億元",
         "context": "法人買賣超提供當日資金方向資訊，可與大盤及匯率同時觀察，但不預設彼此存在因果關係。",
         "limits": "單日法人流向不能代表長期趨勢，也不能單獨解釋匯率、景氣或未來股市方向。"
       }
@@ -541,14 +553,6 @@
             "summary": "",
             "link": "https://pr.tsmc.com/english/latest-news",
             "sort_key": 1786406400.0
-          },
-          {
-            "source": "Google",
-            "date": "2026-08-10",
-            "title": "Evolve your marketing with new AI tools",
-            "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
-            "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-            "sort_key": 1786372200.0
           }
         ],
         "source_status": {
@@ -562,7 +566,7 @@
           },
           "Google": {
             "ok": true,
-            "count": 2
+            "count": 1
           },
           "Meta": {
             "ok": true,
@@ -791,10 +795,10 @@
         "source": "TWSE BFI82U",
         "date": "2026-08-14",
         "foreign_net_twd": 45351330421.0,
-        "investment_trust_net_twd": 7196319190.0,
+        "investment_trust_net_twd": 7972599882.0,
         "dealer_proprietary_net_twd": -2735988376.0,
         "dealer_hedge_net_twd": 1074800267.0,
-        "institutional_total_net_twd": 50886461502.0
+        "institutional_total_net_twd": 51662742194.0
       }
     }
   }

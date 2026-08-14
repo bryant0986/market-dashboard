@@ -76,6 +76,50 @@ main { padding:24px 0 48px; }
   margin-bottom:10px;
 }
 .section-title h2 { margin:0; font-size:21px; }
+.zh-subtitle {
+  margin-top:2px;
+  color:var(--muted);
+  font-size:13px;
+  font-weight:650;
+}
+.zh-group-subtitle {
+  margin-top:1px;
+  color:var(--muted);
+  font-size:12px;
+  font-weight:650;
+}
+.original-title {
+  margin-top:-6px;
+  margin-bottom:10px;
+  color:var(--muted);
+  font-size:12px;
+  font-style:italic;
+  line-height:1.4;
+}
+.original-summary {
+  margin:8px 0 10px;
+  padding:9px 10px;
+  border-left:3px solid #cbd5e1;
+  background:#f8fafc;
+  border-radius:0 8px 8px 0;
+}
+.original-summary span {
+  display:block;
+  color:var(--muted);
+  font-size:10px;
+  font-weight:800;
+  text-transform:uppercase;
+  letter-spacing:.05em;
+}
+.original-summary p {
+  margin:4px 0 0;
+  color:#475467;
+  font-size:12px;
+}
+.summary-zh {
+  color:var(--muted);
+  font-weight:650;
+}
 .section-title span { color:var(--muted); font-size:13px; }
 .grid-kpi {
   display:grid;
@@ -304,7 +348,7 @@ footer {
 <header class="hero">
   <div class="container">
     <h1>Daily Market Intelligence</h1>
-    <p>2026-08-14 · generated 17:12 CST</p>
+    <p>2026-08-14 · generated 23:24 CST</p>
     <div class="health">All systems healthy · 20/20 datasets</div>
     <div class="archive-tools">
       <label for="archiveSelect">歷史報告：</label>
@@ -337,14 +381,14 @@ footer {
   </section>
   <section id="overview" class="section">
     <div class="section-title">
-      <h2>Market Overview</h2>
+      <div><h2>Market Overview</h2><div class="zh-subtitle">市場總覽</div></div>
       <span>latest available official/free data</span>
     </div>
     <div class="grid-kpi"><div class="kpi-card"><div class="kpi-label">S&amp;P 500</div><div class="kpi-value">7,798.99</div><div class="kpi-delta">+0.65%</div><div class="kpi-meta">08/13</div></div><div class="kpi-card"><div class="kpi-label">Nasdaq</div><div class="kpi-value">26,803.03</div><div class="kpi-delta">+0.81%</div><div class="kpi-meta">08/13</div></div><div class="kpi-card"><div class="kpi-label">US 10Y</div><div class="kpi-value">4.63%</div><div class="kpi-delta">-5.0 bps</div><div class="kpi-meta">08/13</div></div><div class="kpi-card"><div class="kpi-label">TAIEX</div><div class="kpi-value">46021.48</div><div class="kpi-delta">+1.11%</div><div class="kpi-meta">08/13</div></div><div class="kpi-card"><div class="kpi-label">TSMC 2330</div><div class="kpi-value">2,395.00 TWD</div><div class="kpi-delta">-40.00 TWD</div><div class="kpi-meta">08/14</div></div><div class="kpi-card"><div class="kpi-label">USD/TWD</div><div class="kpi-value">32.046</div><div class="kpi-delta">-0.38%</div><div class="kpi-meta">08/14</div></div><div class="kpi-card"><div class="kpi-label">Taiwan Exports</div><div class="kpi-value">USD 75.3B</div><div class="kpi-delta">YoY +32.9%</div><div class="kpi-meta">2026-07</div></div><div class="kpi-card"><div class="kpi-label">Foreign Flow</div><div class="kpi-value">+454 億元</div><div class="kpi-meta">08/14</div></div></div>
   </section>
 
   <section id="brief" class="section">
-    <div class="section-title"><h2>Executive Brief</h2><span>LINE version</span></div>
+    <div class="section-title"><div><h2>Executive Brief</h2><div class="zh-subtitle">今日重點</div></div><span>LINE version</span></div>
     <div class="card"><pre>📊 Daily Market Brief
 日期：2026-08-14
 
@@ -377,38 +421,38 @@ EIA｜Federal Reserve｜OpenAI｜Google｜Meta｜TSMC｜BEA via FRED｜BLS｜U.S
 
   <section id="context" class="section">
     <div class="section-title">
-      <h2>News & Event Context</h2>
+      <div><h2>News & Event Context</h2><div class="zh-subtitle">新聞與事件解讀</div></div>
       <span>Fact → Context → Limits</span>
     </div>
-    <div class="context-group"><div class="context-group-title"><h3>Fed / Macro</h3><span>政策與總體資料背景</span></div><div class="context-grid"><article class="context-card"><div class="context-head"><div><span class="context-source">Federal Reserve · 2026-07-29</span><h3>Latest FOMC Statement</h3></div></div><div class="context-block fact"><span class="context-label">Fact</span><p>The Federal Open Market Committee approved the following statement for release by a 9 – 3 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve&#x27;s dual mandate.</p></div><div class="context-block"><span class="context-label">Context</span><p>這是目前可驗證的 Fed 政策背景；可與 CPI、PCE、就業及美債殖利率一起觀察政策環境。</p></div><div class="context-block limits"><span class="context-label">Limits</span><p>單一 FOMC statement 或單一通膨／就業數據，都不能保證下一次會議的升息或降息結果。</p></div></article><article class="context-card"><div class="context-head"><div><span class="context-source">BLS / BEA via FRED</span><h3>Macro Pulse</h3></div></div><div class="context-block fact"><span class="context-label">Fact</span><p>CPI 2026-07: MoM +0.07%, YoY +3.30%；Core PCE 2026-06: YoY +3.29%；Unemployment 2026-07: 4.1%；NFP 2026-07: -23k</p></div><div class="context-block"><span class="context-label">Context</span><p>通膨與就業資料提供 Fed 雙重使命的當期背景，也可搭配 US 10Y 的變化觀察市場利率環境。</p></div><div class="context-block limits"><span class="context-label">Limits</span><p>不同資料的發布月份可能不同，不能把不同期別直接視為同一天的因果關係。</p></div></article></div></div><div class="context-group"><div class="context-group-title"><h3>Oil</h3><span>庫存與能源市場背景</span></div><div class="context-grid"><article class="context-card"><div class="context-head"><div><span class="context-source">EIA · 2026-08-07</span><h3>EIA Crude Inventory</h3></div></div><div class="context-block fact"><span class="context-label">Fact</span><p>美國商業原油庫存（不含 SPR）424.4 百萬桶，週變動 +17.4 百萬桶（week ending 2026-08-07）</p></div><div class="context-block"><span class="context-label">Context</span><p>庫存的大幅增減是原油供需平衡的重要觀察線索，可與 WTI、Brent 的同期走勢一起閱讀。</p></div><div class="context-block limits"><span class="context-label">Limits</span><p>單一週庫存變動不能單獨解釋油價方向；仍可能同時受到地緣政治、供給政策與需求預期影響。</p></div></article></div></div><div class="context-group"><div class="context-group-title"><h3>AI / Tech</h3><span>官方公司與產業事件</span></div><div class="context-grid"><article class="context-card"><div class="context-head"><div><span class="context-source">OpenAI · 2026-08-13</span><h3>The builder’s guide to GPT‑5.6</h3></div></div><div class="context-block fact"><span class="context-label">Fact</span><p>The builder’s guide to GPT‑5.6 — Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.</p></div><div class="context-block"><span class="context-label">Context</span><p>這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。</p></div><div class="context-block limits"><span class="context-label">Limits</span><p>官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。</p></div></article><article class="context-card"><div class="context-head"><div><span class="context-source">OpenAI · 2026-08-13</span><h3>Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed</h3></div></div><div class="context-block fact"><span class="context-label">Fact</span><p>Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed — Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.</p></div><div class="context-block"><span class="context-label">Context</span><p>這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。</p></div><div class="context-block limits"><span class="context-label">Limits</span><p>官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。</p></div></article><article class="context-card"><div class="context-head"><div><span class="context-source">Meta · 2026-08-13</span><h3>The Future Is for Everyone: Free AI Glasses for Every Blind and Visually Impaired Adult Vision Ireland Supports</h3></div></div><div class="context-block fact"><span class="context-label">Fact</span><p>The Future Is for Everyone: Free AI Glasses for Every Blind and Visually Impaired Adult Vision Ireland Supports — “What I really like about the glasses is the speed at which I get the information I need – instead of waiting for someone to read a letter or waiting for someone to tell me what I have in the fridge, I’ll just do it on impulse. Now I’m doing things for myse...</p></div><div class="context-block"><span class="context-label">Context</span><p>這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。</p></div><div class="context-block limits"><span class="context-label">Limits</span><p>官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。</p></div></article><article class="context-card"><div class="context-head"><div><span class="context-source">Meta · 2026-08-12</span><h3>NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era</h3></div></div><div class="context-block fact"><span class="context-label">Fact</span><p>NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era — Meta and North America&#x27;s Building Trades Unions (NABTU) are partnering to invest in skilled trades workers building America&#x27;s AI infrastructure. The post NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era appeared first on Me...</p></div><div class="context-block"><span class="context-label">Context</span><p>這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。</p></div><div class="context-block limits"><span class="context-label">Limits</span><p>官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。</p></div></article><article class="context-card"><div class="context-head"><div><span class="context-source">Google · 2026-08-11</span><h3>AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.</h3></div></div><div class="context-block fact"><span class="context-label">Fact</span><p>AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. — Google introduces AMIE for real-time clinical video consultations in simulated settings.</p></div><div class="context-block"><span class="context-label">Context</span><p>這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。</p></div><div class="context-block limits"><span class="context-label">Limits</span><p>官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。</p></div></article><article class="context-card"><div class="context-head"><div><span class="context-source">TSMC · 2026-08-11</span><h3>Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors</h3></div></div><div class="context-block fact"><span class="context-label">Fact</span><p>Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors</p></div><div class="context-block"><span class="context-label">Context</span><p>這是台積電官方公司／技術訊息，可作為公司事件背景；若要判斷營運影響，仍需搭配正式財報、法說或公司指引。</p></div><div class="context-block limits"><span class="context-label">Limits</span><p>官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。</p></div></article></div></div><div class="context-group"><div class="context-group-title"><h3>Taiwan</h3><span>出口與資金面背景</span></div><div class="context-grid"><article class="context-card"><div class="context-head"><div><span class="context-source">Taiwan MOF · 2026-08-07</span><h3>Taiwan Export Momentum</h3></div></div><div class="context-block fact"><span class="context-label">Fact</span><p>2026-07 台灣出口 USD 75.3 bn，MoM +0.6%，YoY +32.9%；主要品項：資通與視聽產品 +29.5%、電子零組件 +50.5%、基本金屬及其製品 +24.8%</p></div><div class="context-block"><span class="context-label">Context</span><p>出口總額與品項結構可用來觀察台灣外需環境與產業出口動能。</p></div><div class="context-block limits"><span class="context-label">Limits</span><p>出口成長不能直接等同於台積電、AI 伺服器或任何特定公司的訂單、營收、獲利或股價表現。</p></div></article><article class="context-card"><div class="context-head"><div><span class="context-source">TWSE BFI82U · 2026-08-14</span><h3>TWSE Institutional Flow</h3></div></div><div class="context-block fact"><span class="context-label">Fact</span><p>外資及陸資 +454 億元；三大法人合計 +509 億元</p></div><div class="context-block"><span class="context-label">Context</span><p>法人買賣超提供當日資金方向資訊，可與大盤及匯率同時觀察，但不預設彼此存在因果關係。</p></div><div class="context-block limits"><span class="context-label">Limits</span><p>單日法人流向不能代表長期趨勢，也不能單獨解釋匯率、景氣或未來股市方向。</p></div></article></div></div>
+    <div class="context-group"><div class="context-group-title"><div><h3>Fed / Macro</h3><div class="zh-group-subtitle">聯準會 / 總體經濟</div></div><span>政策與總體資料背景</span></div><div class="context-grid"><article class="context-card"><div class="context-head"><div><span class="context-source">Federal Reserve · 2026-07-29</span><h3>Latest FOMC Statement</h3></div></div><div class="context-block fact"><span class="context-label">Fact｜事實</span><p>The Federal Open Market Committee approved the following statement for release by a 9 – 3 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve&#x27;s dual mandate.</p></div><div class="context-block"><span class="context-label">Context｜為何重要</span><p>這是目前可驗證的 Fed 政策背景；可與 CPI、PCE、就業及美債殖利率一起觀察政策環境。</p></div><div class="context-block limits"><span class="context-label">Limits｜解讀限制</span><p>單一 FOMC statement 或單一通膨／就業數據，都不能保證下一次會議的升息或降息結果。</p></div></article><article class="context-card"><div class="context-head"><div><span class="context-source">BLS / BEA via FRED</span><h3>Macro Pulse</h3></div></div><div class="context-block fact"><span class="context-label">Fact｜事實</span><p>CPI 2026-07: MoM +0.07%, YoY +3.30%；Core PCE 2026-06: YoY +3.29%；Unemployment 2026-07: 4.1%；NFP 2026-07: -23k</p></div><div class="context-block"><span class="context-label">Context｜為何重要</span><p>通膨與就業資料提供 Fed 雙重使命的當期背景，也可搭配 US 10Y 的變化觀察市場利率環境。</p></div><div class="context-block limits"><span class="context-label">Limits｜解讀限制</span><p>不同資料的發布月份可能不同，不能把不同期別直接視為同一天的因果關係。</p></div></article></div></div><div class="context-group"><div class="context-group-title"><div><h3>Oil</h3><div class="zh-group-subtitle">原油 / 能源</div></div><span>庫存與能源市場背景</span></div><div class="context-grid"><article class="context-card"><div class="context-head"><div><span class="context-source">EIA · 2026-08-07</span><h3>EIA Crude Inventory</h3></div></div><div class="context-block fact"><span class="context-label">Fact｜事實</span><p>美國商業原油庫存（不含 SPR）424.4 百萬桶，週變動 +17.4 百萬桶（week ending 2026-08-07）</p></div><div class="context-block"><span class="context-label">Context｜為何重要</span><p>庫存的大幅增減是原油供需平衡的重要觀察線索，可與 WTI、Brent 的同期走勢一起閱讀。</p></div><div class="context-block limits"><span class="context-label">Limits｜解讀限制</span><p>單一週庫存變動不能單獨解釋油價方向；仍可能同時受到地緣政治、供給政策與需求預期影響。</p></div></article></div></div><div class="context-group"><div class="context-group-title"><div><h3>AI / Tech</h3><div class="zh-group-subtitle">AI / 科技</div></div><span>官方公司與產業事件</span></div><div class="context-grid"><article class="context-card"><div class="context-head"><div><span class="context-source">OpenAI · 2026-08-13</span><h3>OpenAI 官方 AI / 科技更新</h3><div class="original-title">Original: The builder’s guide to GPT‑5.6</div><div class="original-summary"><span>Original summary</span><p>Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.</p></div></div></div><div class="context-block fact"><span class="context-label">Fact｜事實</span><p>The builder’s guide to GPT‑5.6 — Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.</p></div><div class="context-block"><span class="context-label">Context｜為何重要</span><p>這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。</p></div><div class="context-block limits"><span class="context-label">Limits｜解讀限制</span><p>官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。</p></div></article><article class="context-card"><div class="context-head"><div><span class="context-source">OpenAI · 2026-08-13</span><h3>OpenAI 官方 AI / 科技更新</h3><div class="original-title">Original: Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed</div><div class="original-summary"><span>Original summary</span><p>Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.</p></div></div></div><div class="context-block fact"><span class="context-label">Fact｜事實</span><p>Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed — Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.</p></div><div class="context-block"><span class="context-label">Context｜為何重要</span><p>這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。</p></div><div class="context-block limits"><span class="context-label">Limits｜解讀限制</span><p>官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。</p></div></article><article class="context-card"><div class="context-head"><div><span class="context-source">Meta · 2026-08-13</span><h3>Meta 官方 AI / 科技更新</h3><div class="original-title">Original: The Future Is for Everyone: Free AI Glasses for Every Blind and Visually Impaired Adult Vision Ireland Supports</div><div class="original-summary"><span>Original summary</span><p>“What I really like about the glasses is the speed at which I get the information I need – instead of waiting for someone to read a letter or waiting for someone to tell me what I have in the fridge, I’ll just do it on impulse. Now I’m doing things for myse...</p></div></div></div><div class="context-block fact"><span class="context-label">Fact｜事實</span><p>The Future Is for Everyone: Free AI Glasses for Every Blind and Visually Impaired Adult Vision Ireland Supports — “What I really like about the glasses is the speed at which I get the information I need – instead of waiting for someone to read a letter or waiting for someone to tell me what I have in the fridge, I’ll just do it on impulse. Now I’m doing things for myse...</p></div><div class="context-block"><span class="context-label">Context｜為何重要</span><p>這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。</p></div><div class="context-block limits"><span class="context-label">Limits｜解讀限制</span><p>官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。</p></div></article><article class="context-card"><div class="context-head"><div><span class="context-source">Meta · 2026-08-12</span><h3>Meta 官方 AI / 科技更新</h3><div class="original-title">Original: NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era</div><div class="original-summary"><span>Original summary</span><p>Meta and North America&#x27;s Building Trades Unions (NABTU) are partnering to invest in skilled trades workers building America&#x27;s AI infrastructure. The post NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era appeared first on Me...</p></div></div></div><div class="context-block fact"><span class="context-label">Fact｜事實</span><p>NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era — Meta and North America&#x27;s Building Trades Unions (NABTU) are partnering to invest in skilled trades workers building America&#x27;s AI infrastructure. The post NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era appeared first on Me...</p></div><div class="context-block"><span class="context-label">Context｜為何重要</span><p>這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。</p></div><div class="context-block limits"><span class="context-label">Limits｜解讀限制</span><p>官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。</p></div></article><article class="context-card"><div class="context-head"><div><span class="context-source">Google · 2026-08-11</span><h3>Google 官方 AI / 科技更新</h3><div class="original-title">Original: AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.</div><div class="original-summary"><span>Original summary</span><p>Google introduces AMIE for real-time clinical video consultations in simulated settings.</p></div></div></div><div class="context-block fact"><span class="context-label">Fact｜事實</span><p>AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. — Google introduces AMIE for real-time clinical video consultations in simulated settings.</p></div><div class="context-block"><span class="context-label">Context｜為何重要</span><p>這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。</p></div><div class="context-block limits"><span class="context-label">Limits｜解讀限制</span><p>官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。</p></div></article><article class="context-card"><div class="context-head"><div><span class="context-source">TSMC · 2026-08-11</span><h3>TSMC 官方 AI / 科技更新</h3><div class="original-title">Original: Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors</div></div></div><div class="context-block fact"><span class="context-label">Fact｜事實</span><p>Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors</p></div><div class="context-block"><span class="context-label">Context｜為何重要</span><p>這是台積電官方公司／技術訊息，可作為公司事件背景；若要判斷營運影響，仍需搭配正式財報、法說或公司指引。</p></div><div class="context-block limits"><span class="context-label">Limits｜解讀限制</span><p>官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。</p></div></article></div></div><div class="context-group"><div class="context-group-title"><div><h3>Taiwan</h3><div class="zh-group-subtitle">台灣市場</div></div><span>出口與資金面背景</span></div><div class="context-grid"><article class="context-card"><div class="context-head"><div><span class="context-source">Taiwan MOF · 2026-08-07</span><h3>Taiwan Export Momentum</h3></div></div><div class="context-block fact"><span class="context-label">Fact｜事實</span><p>2026-07 台灣出口 USD 75.3 bn，MoM +0.6%，YoY +32.9%；主要品項：資通與視聽產品 +29.5%、電子零組件 +50.5%、基本金屬及其製品 +24.8%</p></div><div class="context-block"><span class="context-label">Context｜為何重要</span><p>出口總額與品項結構可用來觀察台灣外需環境與產業出口動能。</p></div><div class="context-block limits"><span class="context-label">Limits｜解讀限制</span><p>出口成長不能直接等同於台積電、AI 伺服器或任何特定公司的訂單、營收、獲利或股價表現。</p></div></article><article class="context-card"><div class="context-head"><div><span class="context-source">TWSE BFI82U · 2026-08-14</span><h3>TWSE Institutional Flow</h3></div></div><div class="context-block fact"><span class="context-label">Fact｜事實</span><p>外資及陸資 +454 億元；三大法人合計 +517 億元</p></div><div class="context-block"><span class="context-label">Context｜為何重要</span><p>法人買賣超提供當日資金方向資訊，可與大盤及匯率同時觀察，但不預設彼此存在因果關係。</p></div><div class="context-block limits"><span class="context-label">Limits｜解讀限制</span><p>單日法人流向不能代表長期趨勢，也不能單獨解釋匯率、景氣或未來股市方向。</p></div></article></div></div>
   </section>
 
   <section class="grid-2">
     <div id="signals" class="section">
-      <div class="section-title"><h2>Rule-based Signals</h2><span>attention, not prediction</span></div>
+      <div class="section-title"><div><h2>Rule-based Signals</h2><div class="zh-subtitle">規則式訊號</div></div><span>attention, not prediction</span></div>
       <div class="stack"><div class="mini-card"><span class="badge high">HIGH</span><strong>EIA Crude Inventory</strong><div>+17.4 mb</div><small>build</small></div><div class="mini-card"><span class="badge high">HIGH</span><strong>Taiwan Exports YoY</strong><div>+32.9%</div><small>up</small></div><div class="mini-card"><span class="badge watch">WATCH</span><strong>S&amp;P 500</strong><div>+0.65%</div><small>up</small></div><div class="mini-card"><span class="badge watch">WATCH</span><strong>Nasdaq</strong><div>+0.81%</div><small>up</small></div><div class="mini-card"><span class="badge watch">WATCH</span><strong>TWSE Foreign Flow</strong><div>+454 億元</div><small>buy</small></div></div>
     </div>
     <div id="scenarios" class="section">
-      <div class="section-title"><h2>Scenario Map</h2><span>current evidence classification</span></div>
+      <div class="section-title"><div><h2>Scenario Map</h2><div class="zh-subtitle">情境地圖</div></div><span>current evidence classification</span></div>
       <div class="stack"><div class="mini-card"><span class="badge high">HIGH</span><strong>Inflation Pressure</strong><div>elevated</div><small>CPI YoY 3.30%; PCE YoY 3.67%; Core PCE YoY 3.29%</small></div><div class="mini-card"><span class="badge high">HIGH</span><strong>Oil Inventory Signal</strong><div>large-build</div><small>weekly +17.4 mb</small></div><div class="mini-card"><span class="badge high">HIGH</span><strong>Taiwan Export Momentum</strong><div>high-growth</div><small>YoY +32.9%</small></div><div class="mini-card"><span class="badge watch">WATCH</span><strong>Taiwan Foreign Flow</strong><div>net-buy</div><small>+454 億元</small></div><div class="mini-card"><span class="badge neutral">NEUTRAL</span><strong>Labor Cooling</strong><div>not-confirmed</div><small>unemployment 4.1%, -0.1 pp</small></div></div>
     </div>
   </section>
 
   <section id="trends" class="section">
-    <div class="section-title"><h2>Trend Matrix</h2><span>5 / 20 observation returns</span></div>
+    <div class="section-title"><div><h2>Trend Matrix</h2><div class="zh-subtitle">趨勢矩陣</div></div><span>5 / 20 observation returns</span></div>
     <div class="trend-grid"><div class="trend-card"><div class="trend-name">S&amp;P 500</div><small>2026-08-13</small><div class="trend-row"><span>5 obs</span><div class="trend-track"><div class="trend-fill positive" style="width:6.9%"></div></div><strong>+1.15%</strong></div><div class="trend-row"><span>20 obs</span><div class="trend-track"><div class="trend-fill positive" style="width:21.1%"></div></div><strong>+3.52%</strong></div></div><div class="trend-card"><div class="trend-name">Nasdaq Composite</div><small>2026-08-13</small><div class="trend-row"><span>5 obs</span><div class="trend-track"><div class="trend-fill positive" style="width:10.4%"></div></div><strong>+1.73%</strong></div><div class="trend-row"><span>20 obs</span><div class="trend-track"><div class="trend-fill positive" style="width:21.4%"></div></div><strong>+3.56%</strong></div></div><div class="trend-card"><div class="trend-name">WTI Spot</div><small>2026-08-11</small><div class="trend-row"><span>5 obs</span><div class="trend-track"><div class="trend-fill positive" style="width:57.7%"></div></div><strong>+9.62%</strong></div><div class="trend-row"><span>20 obs</span><div class="trend-track"><div class="trend-fill positive" style="width:32.3%"></div></div><strong>+5.38%</strong></div></div><div class="trend-card"><div class="trend-name">Brent Spot</div><small>2026-08-11</small><div class="trend-row"><span>5 obs</span><div class="trend-track"><div class="trend-fill positive" style="width:47.1%"></div></div><strong>+7.85%</strong></div><div class="trend-row"><span>20 obs</span><div class="trend-track"><div class="trend-fill positive" style="width:68.6%"></div></div><strong>+11.44%</strong></div></div></div>
   </section>
 
   <section id="events" class="section">
-    <div class="section-title"><h2>Event Timeline</h2><span>estimated windows remain estimates</span></div>
+    <div class="section-title"><div><h2>Event Timeline</h2><div class="zh-subtitle">事件時間軸</div></div><span>estimated windows remain estimates</span></div>
     <div class="timeline"><div class="timeline-item"><div class="timeline-date">08-19</div><div class="timeline-body"><div><span class="badge watch">WATCH</span> <strong>EIA 週度石油庫存</strong></div><small>5 天後 · 排程事件</small></div></div><div class="timeline-item"><div class="timeline-date">08-28</div><div class="timeline-body"><div><span class="badge monitor">MONITOR</span> <strong>PCE / Core PCE</strong></div><small>14 天後 · 估計發布窗口</small></div></div><div class="timeline-item"><div class="timeline-date">09-08</div><div class="timeline-body"><div><span class="badge monitor">MONITOR</span> <strong>台灣出口</strong></div><small>25 天後 · 估計發布窗口</small></div></div><div class="timeline-item"><div class="timeline-date">09-10</div><div class="timeline-body"><div><span class="badge monitor">MONITOR</span> <strong>美國 CPI</strong></div><small>27 天後 · 估計發布窗口</small></div></div></div>
   </section>
 
   <section id="research" class="section">
-    <div class="section-title"><h2>Research Workspace</h2><span>deeper context</span></div>
+    <div class="section-title"><div><h2>Research Workspace</h2><div class="zh-subtitle">研究資料區</div></div><span>deeper context</span></div>
 
     <details class="card" open>
-      <summary>Historical Trends</summary>
+      <summary>Historical Trends <span class="summary-zh">｜歷史趨勢</span></summary>
       <pre>- S&amp;P 500: 5 obs +1.15%, 20 obs +3.52%
 - Nasdaq Composite: 5 obs +1.73%, 20 obs +3.56%
 - WTI Spot: 5 obs +9.62%, 20 obs +5.38%
@@ -416,7 +460,7 @@ EIA｜Federal Reserve｜OpenAI｜Google｜Meta｜TSMC｜BEA via FRED｜BLS｜U.S
     </details>
 
     <details class="card">
-      <summary>Historical Analogs</summary>
+      <summary>Historical Analogs <span class="summary-zh">｜歷史相似情境</span></summary>
       <p>僅供歷史型態比較，不代表現在市場將重演過去。</p>
       <pre>- Current 5-observation vector: S&amp;P -0.11%, Nasdaq -0.52%, WTI +9.62%, Brent +7.85%
 - Analog 1: 2026-05-18 distance 0.15 | historical S&amp;P next 5 obs +1.57%, historical S&amp;P next 20 obs +1.46%
@@ -425,14 +469,14 @@ EIA｜Federal Reserve｜OpenAI｜Google｜Meta｜TSMC｜BEA via FRED｜BLS｜U.S
     </details>
 
     <details class="card">
-      <summary>Data Snapshot</summary>
+      <summary>Data Snapshot <span class="summary-zh">｜資料快照</span></summary>
       <pre>- S&amp;P 500: 08/13 ✅
 - Nasdaq Composite: 08/13 ✅
 - WTI: 08/11 ⚠️
 - Brent: 08/11 ⚠️
 - US 10Y: 08/13 ✅
 - FOMC: 07/29
-- AI官方新聞: 08/13 (8則)
+- AI官方新聞: 08/13 (7則)
 - CPI: 07月
 - 失業率: 07月
 - 非農就業: 07月
@@ -447,14 +491,14 @@ EIA｜Federal Reserve｜OpenAI｜Google｜Meta｜TSMC｜BEA via FRED｜BLS｜U.S
     </details>
 
     <details class="card">
-      <summary>Data Health</summary>
+      <summary>Data Health <span class="summary-zh">｜資料健康狀態</span></summary>
       <pre>- Successful datasets: 20/20
 - Failed datasets: 0
 - Failed items: none</pre>
     </details>
 
     <details class="card">
-      <summary>Raw Rule / Scenario / Event Text</summary>
+      <summary>Raw Rule / Scenario / Event Text <span class="summary-zh">｜原始規則 / 情境 / 事件文字</span></summary>
       <pre>- [HIGH] EIA Crude Inventory: +17.4 mb (build)
 - [HIGH] Taiwan Exports YoY: +32.9% (up)
 - [WATCH] S&amp;P 500: +0.65% (up)
