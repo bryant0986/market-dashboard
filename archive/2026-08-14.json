@@ -1,0 +1,697 @@
+{
+  "report_date": "2026-08-14",
+  "generated_at": "2026-08-14T15:43:40.039464+08:00",
+  "message": "📊 Daily Market Brief\n日期：2026-08-14\n\n🕒 Data Snapshot\n- S&P 500: 08/13 ✅\n- Nasdaq Composite: 08/13 ✅\n- WTI: 08/11 ⚠️\n- Brent: 08/11 ⚠️\n- US 10Y: 08/13 ✅\n- FOMC: 07/29\n- AI官方新聞: 08/13 (8則)\n- CPI: 07月\n- 失業率: 07月\n- 非農就業: 07月\n- PCE: 06月\n- Core PCE: 06月\n- EIA原油庫存: 08/07\n- 台灣出口: 07月\n- USD/TWD: 08/13 ✅\n- TAIEX: 08/13 ✅\n- TSMC: 08/14 ✅\n- 外資/法人: 08/14 ✅\n\n🔑 Top 3\n1. 美股主要指數走勢：S&P 500 +0.65%，Nasdaq +0.81%。\n2. 美國 10 年期公債殖利率 4.63%，-5.0 bps。\n3. EIA 美國商業原油庫存（不含 SPR）為 424.4 百萬桶，週變動 +17.4 百萬桶。\n\n🇺🇸 Fed & Macro\n- FOMC（07/29）：The Federal Open Market Committee approved the following statement for release by a 9 – 3 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate.\n- CPI：MoM +0.07%，YoY +3.30%（2026-07）\n- PCE：MoM -0.11%，YoY +3.67%（2026-06）\n- Core PCE：MoM +0.13%，YoY +3.29%（2026-06）\n- 失業率：4.1%（2026-07）\n- 非農就業：月變動 -23k（2026-07）\n- US 10Y：4.63%，-5.0 bps\n\n🛢 Oil\n- WTI：84.77 美元/桶，+1.21%\n- Brent：93.26 美元/桶，+0.56%\n- EIA 原油庫存（不含 SPR）：424.4 百萬桶，週變動 +17.4 百萬桶\n→ 單週庫存變動只是供需線索，不能單獨用來解釋油價方向。\n\n🤖 AI\n- OpenAI 08/13：The builder’s guide to GPT‑5.6\n- OpenAI 08/13：Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed\n- Meta 08/13：The Future Is for Everyone: Free AI Glasses for Every Blind and Visually Impaired Adult Vision Ireland Supports\n- Meta 08/12：NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era\n→ 僅列官方公告，不由公告直接推論晶片訂單、營收或股價影響。\n\n🇹🇼 Taiwan\n- TAIEX：46021.48，+503.41 點（+1.11%）\n- TSMC：2,395.00 元，漲跌 -40.00 元。\n- 台灣出口：753.0 億美元，月增 +0.6%，年增 +32.9%（2026-07）\n- USD/TWD：32.168，-0.24%\n- 外資及陸資買賣超：+454 億元（08/14）\n- 投信買賣超：+72 億元（08/14）\n\n🧬 Historical Analog\n- Current 5-observation vector: S&P -0.11%, Nasdaq -0.52%, WTI +9.62%, Brent +7.85%\n- Analog 1: 2026-05-18 distance 0.15 | historical S&P next 5 obs +1.57%, historical S&P next 20 obs +1.46%\n- Analog 2: 2026-04-01 distance 0.16 | historical S&P next 5 obs +3.79%, historical S&P next 20 obs +9.64%\n- Analog 3: 2026-05-15 distance 0.17 | historical S&P next 5 obs +0.88%, historical S&P next 20 obs +1.97%\n\n🧭 Scenario Map\n- [HIGH] Inflation Pressure: elevated | CPI YoY 3.30%; PCE YoY 3.67%; Core PCE YoY 3.29%\n- [HIGH] Oil Inventory Signal: large-build | weekly +17.4 mb\n- [HIGH] Taiwan Export Momentum: high-growth | YoY +32.9%\n- [WATCH] Taiwan Foreign Flow: net-buy | +454 億元\n- [NEUTRAL] Labor Cooling: not-confirmed | unemployment 4.1%, -0.1 pp\n\n📈 Historical Trends\n- S&P 500: 5 obs +1.15%, 20 obs +3.52%\n- Nasdaq Composite: 5 obs +1.73%, 20 obs +3.56%\n- WTI Spot: 5 obs +9.62%, 20 obs +5.38%\n- Brent Spot: 5 obs +7.85%, 20 obs +11.44%\n\n🚨 Event Focus\n- [WATCH] 2026-08-19 EIA 週度石油庫存 (5d) | related: WTI, Brent, EIA Crude Inventory\n- [MONITOR] 2026-08-28 PCE / Core PCE (14d estimated-window) | related: PCE, Core PCE, US 10Y Treasury\n- [MONITOR] 2026-09-08 台灣出口 (25d estimated-window) | related: Taiwan Exports, TAIEX, TSMC 2330, TWSE Institutional Flows\n\n📅 Upcoming\n- 08-19 EIA 週度石油庫存\n- 08-28 PCE / Core PCE（估計）\n- 09-08 台灣出口（估計）\n- 09-10 美國 CPI（估計）\n\n👀 Watch Next\n- FedWatch / 市場利率預期\n- 下一批 CPI、PCE 與就業資料\n- 下一期 EIA 庫存與 OPEC+ 訊息\n- AI 公司官方公告與財測\n- 台灣出口品項結構與法人資金連續性\n\n🎯 Bottom Line\n本版為自動備援摘要：只整理已驗證的市場與官方資料，不建立未經證實的因果關係。Gemini 本次因服務或配額限制未能產生分析版內容。\n\n📚 Sources\nEIA｜Federal Reserve｜OpenAI｜Google｜Meta｜TSMC｜BEA via FRED｜BLS｜U.S. Treasury｜Taiwan MOF｜CBC Taiwan｜TWSE",
+  "signals": {
+    "signals": [
+      {
+        "name": "EIA Crude Inventory",
+        "score": 2,
+        "direction": "build",
+        "evidence": "+17.4 mb"
+      },
+      {
+        "name": "Taiwan Exports YoY",
+        "score": 2,
+        "direction": "up",
+        "evidence": "+32.9%"
+      },
+      {
+        "name": "S&P 500",
+        "score": 1,
+        "direction": "up",
+        "evidence": "+0.65%"
+      },
+      {
+        "name": "Nasdaq",
+        "score": 1,
+        "direction": "up",
+        "evidence": "+0.81%"
+      },
+      {
+        "name": "TWSE Foreign Flow",
+        "score": 1,
+        "direction": "buy",
+        "evidence": "+454 億元"
+      },
+      {
+        "name": "US 10Y",
+        "score": 0,
+        "direction": "down",
+        "evidence": "-5.0 bps"
+      }
+    ],
+    "notable": [
+      {
+        "name": "EIA Crude Inventory",
+        "score": 2,
+        "direction": "build",
+        "evidence": "+17.4 mb"
+      },
+      {
+        "name": "Taiwan Exports YoY",
+        "score": 2,
+        "direction": "up",
+        "evidence": "+32.9%"
+      },
+      {
+        "name": "S&P 500",
+        "score": 1,
+        "direction": "up",
+        "evidence": "+0.65%"
+      },
+      {
+        "name": "Nasdaq",
+        "score": 1,
+        "direction": "up",
+        "evidence": "+0.81%"
+      },
+      {
+        "name": "TWSE Foreign Flow",
+        "score": 1,
+        "direction": "buy",
+        "evidence": "+454 億元"
+      }
+    ]
+  },
+  "scenarios": [
+    {
+      "name": "Inflation Pressure",
+      "score": 2,
+      "label": "elevated",
+      "evidence": "CPI YoY 3.30%; PCE YoY 3.67%; Core PCE YoY 3.29%"
+    },
+    {
+      "name": "Oil Inventory Signal",
+      "score": 2,
+      "label": "large-build",
+      "evidence": "weekly +17.4 mb"
+    },
+    {
+      "name": "Taiwan Export Momentum",
+      "score": 2,
+      "label": "high-growth",
+      "evidence": "YoY +32.9%"
+    },
+    {
+      "name": "Taiwan Foreign Flow",
+      "score": 1,
+      "label": "net-buy",
+      "evidence": "+454 億元"
+    },
+    {
+      "name": "Labor Cooling",
+      "score": 0,
+      "label": "not-confirmed",
+      "evidence": "unemployment 4.1%, -0.1 pp"
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-08-19",
+      "label": "EIA 週度石油庫存",
+      "certainty": "scheduled-cadence",
+      "days_ahead": 5,
+      "priority": "WATCH",
+      "related_data": [
+        "WTI",
+        "Brent",
+        "EIA Crude Inventory"
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "label": "PCE / Core PCE",
+      "certainty": "estimated-window",
+      "days_ahead": 14,
+      "priority": "MONITOR",
+      "related_data": [
+        "PCE",
+        "Core PCE",
+        "US 10Y Treasury"
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "label": "台灣出口",
+      "certainty": "estimated-window",
+      "days_ahead": 25,
+      "priority": "MONITOR",
+      "related_data": [
+        "Taiwan Exports",
+        "TAIEX",
+        "TSMC 2330",
+        "TWSE Institutional Flows"
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "label": "美國 CPI",
+      "certainty": "estimated-window",
+      "days_ahead": 27,
+      "priority": "MONITOR",
+      "related_data": [
+        "CPI",
+        "US 10Y Treasury"
+      ]
+    }
+  ],
+  "historical_similarity": {
+    "ok": true,
+    "data": {
+      "source": "FRED / EIA",
+      "current_date": "2026-08-11",
+      "current_features": {
+        "sp": -0.10754189222028274,
+        "nd": -0.524882649946458,
+        "wti": 9.62110435794646,
+        "brent": 7.852434370301846
+      },
+      "analogs": [
+        {
+          "date": "2026-05-18",
+          "distance": 0.14908331369969394,
+          "sp_5d_after": 1.5678672979380082,
+          "sp_20d_after": 1.4629105571352372,
+          "features": {
+            "sp": -0.13206814122522492,
+            "nd": -0.6980250154810128,
+            "wti": 10.525797558093736,
+            "brent": 10.00848176420696
+          }
+        },
+        {
+          "date": "2026-04-01",
+          "distance": 0.15698506544465488,
+          "sp_5d_after": 3.7920587895342,
+          "sp_20d_after": 9.637401677789075,
+          "features": {
+            "sp": -0.2515208058374661,
+            "nd": -0.4052926994874151,
+            "wti": 11.353950387935745,
+            "brent": 9.547370350009164
+          }
+        },
+        {
+          "date": "2026-05-15",
+          "distance": 0.17496121140985899,
+          "sp_5d_after": 0.8769656475669872,
+          "sp_20d_after": 1.9678747384760744,
+          "features": {
+            "sp": 0.12934302662681912,
+            "nd": -0.08359025080124086,
+            "wti": 10.235662991807413,
+            "brent": 10.127560881329716
+          }
+        }
+      ],
+      "method": "Nearest historical 5-observation cross-asset return patterns; descriptive only."
+    }
+  },
+  "market_data": {
+    "S&P 500": {
+      "ok": true,
+      "data": {
+        "latest": {
+          "date": "2026-08-13",
+          "value": 7798.99
+        },
+        "previous": {
+          "date": "2026-08-12",
+          "value": 7748.5
+        },
+        "change": 50.48999999999978,
+        "change_pct": 0.651609989030132
+      }
+    },
+    "Nasdaq Composite": {
+      "ok": true,
+      "data": {
+        "latest": {
+          "date": "2026-08-13",
+          "value": 26803.03
+        },
+        "previous": {
+          "date": "2026-08-12",
+          "value": 26588.49
+        },
+        "change": 214.53999999999724,
+        "change_pct": 0.8068905003631166
+      }
+    },
+    "WTI": {
+      "ok": true,
+      "data": {
+        "source": "EIA",
+        "series_id": "PET.RWTC.D",
+        "instrument_name": "WTI Spot",
+        "latest": {
+          "date": "2026-08-11",
+          "value": 84.77
+        },
+        "previous": {
+          "date": "2026-08-10",
+          "value": 83.76
+        },
+        "change": 1.009999999999991,
+        "change_pct": 1.2058261700095403
+      },
+      "used_fallback": false
+    },
+    "Brent": {
+      "ok": true,
+      "data": {
+        "source": "EIA",
+        "series_id": "PET.RBRTE.D",
+        "instrument_name": "Brent Spot",
+        "latest": {
+          "date": "2026-08-11",
+          "value": 93.26
+        },
+        "previous": {
+          "date": "2026-08-10",
+          "value": 92.74
+        },
+        "change": 0.5200000000000102,
+        "change_pct": 0.5607073538926141
+      },
+      "used_fallback": false
+    },
+    "Market Trends": {
+      "ok": true,
+      "data": {
+        "source": "FRED / EIA",
+        "trends": [
+          {
+            "label": "S&P 500",
+            "latest_date": "2026-08-13",
+            "latest_value": 7798.99,
+            "ret_5": 1.1547401024129793,
+            "ret_20": 3.520415409549261
+          },
+          {
+            "label": "Nasdaq Composite",
+            "latest_date": "2026-08-13",
+            "latest_value": 26803.03,
+            "ret_5": 1.7256488546721154,
+            "ret_20": 3.5587735854524025
+          },
+          {
+            "label": "WTI Spot",
+            "latest_date": "2026-08-11",
+            "latest_value": 84.77,
+            "ret_5": 9.62110435794646,
+            "ret_20": 5.382894082545995
+          },
+          {
+            "label": "Brent Spot",
+            "latest_date": "2026-08-11",
+            "latest_value": 93.26,
+            "ret_5": 7.852434370301846,
+            "ret_20": 11.435057951965597
+          }
+        ],
+        "failures": []
+      }
+    },
+    "Historical Similarity": {
+      "ok": true,
+      "data": {
+        "source": "FRED / EIA",
+        "current_date": "2026-08-11",
+        "current_features": {
+          "sp": -0.10754189222028274,
+          "nd": -0.524882649946458,
+          "wti": 9.62110435794646,
+          "brent": 7.852434370301846
+        },
+        "analogs": [
+          {
+            "date": "2026-05-18",
+            "distance": 0.14908331369969394,
+            "sp_5d_after": 1.5678672979380082,
+            "sp_20d_after": 1.4629105571352372,
+            "features": {
+              "sp": -0.13206814122522492,
+              "nd": -0.6980250154810128,
+              "wti": 10.525797558093736,
+              "brent": 10.00848176420696
+            }
+          },
+          {
+            "date": "2026-04-01",
+            "distance": 0.15698506544465488,
+            "sp_5d_after": 3.7920587895342,
+            "sp_20d_after": 9.637401677789075,
+            "features": {
+              "sp": -0.2515208058374661,
+              "nd": -0.4052926994874151,
+              "wti": 11.353950387935745,
+              "brent": 9.547370350009164
+            }
+          },
+          {
+            "date": "2026-05-15",
+            "distance": 0.17496121140985899,
+            "sp_5d_after": 0.8769656475669872,
+            "sp_20d_after": 1.9678747384760744,
+            "features": {
+              "sp": 0.12934302662681912,
+              "nd": -0.08359025080124086,
+              "wti": 10.235662991807413,
+              "brent": 10.127560881329716
+            }
+          }
+        ],
+        "method": "Nearest historical 5-observation cross-asset return patterns; descriptive only."
+      }
+    },
+    "FOMC Statement": {
+      "ok": true,
+      "data": {
+        "source": "Federal Reserve",
+        "title": "Federal Reserve issues FOMC statement",
+        "date": "2026-07-29",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+        "policy_action": "The Federal Open Market Committee approved the following statement for release by a 9 – 3 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate.",
+        "summary_text": "The Federal Open Market Committee approved the following statement for release by a 9 – 3 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate. Economic activity is expanding at a solid pace despite elevated uncertainty that owes, in part, to the conflict in the Middle East. Job gains have kept pace with the workforce, and the unemployment rate has changed little. Inflation remains elevated relative to the Committee's 2 percent goal, in part reflecting supply shocks that have driven price increases in certain sectors, including energy."
+      }
+    },
+    "AI Official News": {
+      "ok": true,
+      "data": {
+        "source": "Official company news",
+        "items": [
+          {
+            "source": "OpenAI",
+            "date": "2026-08-13",
+            "title": "The builder’s guide to GPT‑5.6",
+            "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+            "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+            "sort_key": 1786618800.0
+          },
+          {
+            "source": "OpenAI",
+            "date": "2026-08-13",
+            "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+            "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+            "link": "https://openai.com/index/previewing-ultrafast",
+            "sort_key": 1786615200.0
+          },
+          {
+            "source": "Meta",
+            "date": "2026-08-13",
+            "title": "The Future Is for Everyone: Free AI Glasses for Every Blind and Visually Impaired Adult Vision Ireland Supports",
+            "summary": "“What I really like about the glasses is the speed at which I get the information I need – instead of waiting for someone to read a letter or waiting for someone to tell me what I have in the fridge, I’ll just do it on impulse. Now I’m doing things for myself independently, that maybe before I wouldn’t have done.” — Brian Manning, Vision Ireland Meta is donating 15,000 Ray-Ban Meta glasses to Vision Ireland, Ireland’s national sight loss charity. This is enough for every blind and visually im...",
+            "link": "https://about.fb.com/news/2026/08/the-future-is-for-everyone-free-ai-glasses-for-every-blind-and-visually-impaired-adult-vision-ireland-supports/",
+            "sort_key": 1786597208.0
+          },
+          {
+            "source": "Meta",
+            "date": "2026-08-12",
+            "title": "NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era",
+            "summary": "Meta and North America's Building Trades Unions (NABTU) are partnering to invest in skilled trades workers building America's AI infrastructure. The post NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era appeared first on Meta Newsroom .",
+            "link": "https://about.fb.com/news/2026/08/nabtu-and-meta-partnership-to-invest-in-skilled-trades-for-ai-era/",
+            "sort_key": 1786542679.0
+          },
+          {
+            "source": "Google",
+            "date": "2026-08-11",
+            "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+            "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+            "sort_key": 1786467600.0
+          },
+          {
+            "source": "TSMC",
+            "date": "2026-08-11",
+            "title": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+            "summary": "",
+            "link": "https://pr.tsmc.com/english/latest-news",
+            "sort_key": 1786406400.0
+          },
+          {
+            "source": "TSMC",
+            "date": "2026-08-11",
+            "title": "TSMC Board of Directors Meeting Resolutions",
+            "summary": "",
+            "link": "https://pr.tsmc.com/english/latest-news",
+            "sort_key": 1786406400.0
+          },
+          {
+            "source": "Google",
+            "date": "2026-08-10",
+            "title": "Evolve your marketing with new AI tools",
+            "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
+            "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+            "sort_key": 1786372200.0
+          }
+        ],
+        "source_status": {
+          "OpenAI": {
+            "ok": true,
+            "count": 2
+          },
+          "NVIDIA": {
+            "ok": true,
+            "count": 0
+          },
+          "Google": {
+            "ok": true,
+            "count": 2
+          },
+          "Meta": {
+            "ok": true,
+            "count": 2
+          },
+          "TSMC": {
+            "ok": true,
+            "count": 2
+          }
+        }
+      }
+    },
+    "CPI": {
+      "ok": true,
+      "data": {
+        "source": "BLS",
+        "series_id": "CUSR0000SA0",
+        "latest": {
+          "date": "2026-07",
+          "value": 332.813
+        },
+        "previous": {
+          "date": "2026-06",
+          "value": 332.568
+        },
+        "year_ago": {
+          "date": "2025-07",
+          "value": 322.169
+        },
+        "mom_pct": 0.07366914435544146,
+        "yoy_pct": 3.303856050706308
+      }
+    },
+    "Unemployment Rate": {
+      "ok": true,
+      "data": {
+        "source": "BLS",
+        "series_id": "LNS14000000",
+        "latest": {
+          "date": "2026-07",
+          "value": 4.1
+        },
+        "previous": {
+          "date": "2026-06",
+          "value": 4.2
+        },
+        "change_pp": -0.10000000000000053
+      }
+    },
+    "Nonfarm Payrolls": {
+      "ok": true,
+      "data": {
+        "source": "BLS",
+        "series_id": "CES0000000001",
+        "latest": {
+          "date": "2026-07",
+          "value": 158858.0
+        },
+        "previous": {
+          "date": "2026-06",
+          "value": 158881.0
+        },
+        "change_thousands": -23.0
+      }
+    },
+    "PCE": {
+      "ok": true,
+      "data": {
+        "latest": {
+          "date": "2026-06-01",
+          "value": 131.392
+        },
+        "previous": {
+          "date": "2026-05-01",
+          "value": 131.535
+        },
+        "year_ago": {
+          "date": "2025-06-01",
+          "value": 126.743
+        },
+        "mom_pct": -0.10871631124795733,
+        "yoy_pct": 3.6680526735204317,
+        "source": "BEA via FRED",
+        "series_id": "PCEPI"
+      }
+    },
+    "Core PCE": {
+      "ok": true,
+      "data": {
+        "latest": {
+          "date": "2026-06-01",
+          "value": 130.266
+        },
+        "previous": {
+          "date": "2026-05-01",
+          "value": 130.094
+        },
+        "year_ago": {
+          "date": "2025-06-01",
+          "value": 126.121
+        },
+        "mom_pct": 0.13221209279443866,
+        "yoy_pct": 3.286526430967084,
+        "source": "BEA via FRED",
+        "series_id": "PCEPILFE"
+      }
+    },
+    "EIA Crude Inventory": {
+      "ok": true,
+      "data": {
+        "source": "EIA",
+        "series_id": "PET.WCESTUS1.W",
+        "latest": {
+          "date": "2026-08-07",
+          "value_mmbbl": 424.41
+        },
+        "previous": {
+          "date": "2026-07-31",
+          "value_mmbbl": 406.987
+        },
+        "change_mmbbl": 17.423
+      }
+    },
+    "US 10Y Treasury": {
+      "ok": true,
+      "data": {
+        "source": "U.S. Treasury",
+        "latest": {
+          "date": "2026-08-13",
+          "value": 4.63
+        },
+        "previous": {
+          "date": "2026-08-12",
+          "value": 4.68
+        },
+        "change_bps": -4.999999999999982
+      }
+    },
+    "USD/TWD": {
+      "ok": true,
+      "data": {
+        "source": "CBC Taiwan",
+        "latest": {
+          "date": "2026-08-13",
+          "value": 32.168
+        },
+        "previous": {
+          "date": "2026-08-12",
+          "value": 32.246
+        },
+        "change": -0.07800000000000296,
+        "change_pct": -0.2418904670346801
+      }
+    },
+    "Taiwan Exports": {
+      "ok": true,
+      "data": {
+        "source": "Taiwan MOF",
+        "period": "2026-07",
+        "release_date": "2026-08-07",
+        "value_usd_bn": 75.3,
+        "mom_pct": 0.6,
+        "yoy_pct": 32.9,
+        "cumulative": {
+          "through_month": 7,
+          "value_usd_bn": 491.95,
+          "yoy_pct": 44.7
+        },
+        "categories": [
+          {
+            "name": "資通與視聽產品",
+            "yoy_pct": 29.52371527852175,
+            "value_usd_bn": 31.373891,
+            "share_pct": 41.666318826376816
+          },
+          {
+            "name": "電子零組件",
+            "yoy_pct": 50.526382007874346,
+            "value_usd_bn": 27.732803,
+            "share_pct": 36.83074604125766
+          },
+          {
+            "name": "基本金屬及其製品",
+            "yoy_pct": 24.776391421408018,
+            "value_usd_bn": 2.8028969999999997
+          },
+          {
+            "name": "機械",
+            "yoy_pct": 10.82355746677772,
+            "value_usd_bn": 2.546732
+          },
+          {
+            "name": "塑膠、橡膠及其製品",
+            "yoy_pct": 3.8412330609844836,
+            "value_usd_bn": 1.546981
+          }
+        ],
+        "article_url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=77ae31130e3f4024a69d5f89bd109bdc"
+      }
+    },
+    "TAIEX": {
+      "ok": true,
+      "data": {
+        "source": "TWSE OpenAPI",
+        "date": "1150813",
+        "close": "46021.48",
+        "direction": "+",
+        "change": "503.41",
+        "change_pct": "1.11"
+      }
+    },
+    "TSMC 2330": {
+      "ok": true,
+      "data": {
+        "date": "115/08/14",
+        "open": "2,435.00",
+        "high": "2,440.00",
+        "low": "2,395.00",
+        "close": "2,395.00",
+        "change": "-40.00"
+      }
+    },
+    "TWSE Institutional Flows": {
+      "ok": true,
+      "data": {
+        "source": "TWSE BFI82U",
+        "date": "2026-08-14",
+        "foreign_net_twd": 45351330421.0,
+        "investment_trust_net_twd": 7196319190.0,
+        "dealer_proprietary_net_twd": -2735988376.0,
+        "dealer_hedge_net_twd": 1074800267.0,
+        "institutional_total_net_twd": 50886461502.0
+      }
+    }
+  }
+}
