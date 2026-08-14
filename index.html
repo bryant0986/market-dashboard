@@ -147,6 +147,78 @@ details.card[open] summary { margin-bottom:12px; }
   font-weight:650;
 }
 .empty { color:var(--muted); }
+.archive-tools {
+  margin-top:16px;
+  display:flex;
+  gap:10px;
+  align-items:center;
+  flex-wrap:wrap;
+}
+.archive-tools select {
+  background:#111c32;
+  color:#fff;
+  border:1px solid #475569;
+  border-radius:9px;
+  padding:8px 10px;
+  min-width:180px;
+}
+.archive-status { color:#cbd5e1; font-size:13px; }
+.archive-panel {
+  display:none;
+  margin-bottom:24px;
+  border:1px solid #bfdbfe;
+  background:#eff6ff;
+}
+.archive-panel.active { display:block; }
+.archive-panel h2 { margin-top:0; }
+.archive-grid {
+  display:grid;
+  grid-template-columns:repeat(4,minmax(0,1fr));
+  gap:10px;
+  margin:12px 0 16px;
+}
+.archive-kpi {
+  background:white;
+  border:1px solid #dbeafe;
+  border-radius:10px;
+  padding:10px;
+}
+.archive-kpi span { display:block; color:var(--muted); font-size:12px; }
+.archive-kpi strong { display:block; margin-top:2px; }
+.trend-grid {
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:12px;
+}
+.trend-card {
+  background:var(--card);
+  border:1px solid var(--border);
+  border-radius:14px;
+  padding:14px;
+}
+.trend-name { font-weight:800; }
+.trend-card small { color:var(--muted); }
+.trend-row {
+  display:grid;
+  grid-template-columns:52px 1fr 68px;
+  gap:8px;
+  align-items:center;
+  margin-top:10px;
+  font-size:12px;
+}
+.trend-track {
+  height:8px;
+  border-radius:999px;
+  background:#eef2f6;
+  overflow:hidden;
+}
+.trend-fill {
+  height:100%;
+  border-radius:999px;
+  background:#94a3b8;
+}
+.trend-fill.positive { background:#2563eb; }
+.trend-fill.negative { background:#dc2626; }
 footer {
   padding:0 0 40px;
   color:var(--muted);
@@ -155,6 +227,7 @@ footer {
 @media (max-width:900px) {
   .grid-kpi { grid-template-columns:repeat(2,minmax(0,1fr)); }
   .grid-2 { grid-template-columns:1fr; }
+  .archive-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
 }
 @media (max-width:520px) {
   .container { width:min(100% - 20px,1180px); }
@@ -163,6 +236,8 @@ footer {
   .kpi-card { padding:12px; }
   .kpi-value { font-size:18px; }
   .timeline-item { grid-template-columns:58px 1fr; }
+  .trend-grid { grid-template-columns:1fr; }
+  .archive-grid { grid-template-columns:1fr 1fr; }
 }
 </style>
 </head>
@@ -170,8 +245,15 @@ footer {
 <header class="hero">
   <div class="container">
     <h1>Daily Market Intelligence</h1>
-    <p>2026-08-14 · generated 16:36 CST</p>
+    <p>2026-08-14 · generated 16:47 CST</p>
     <div class="health">All systems healthy · 20/20 datasets</div>
+    <div class="archive-tools">
+      <label for="archiveSelect">歷史報告：</label>
+      <select id="archiveSelect">
+        <option value="">最新報告</option>
+      </select>
+      <span id="archiveStatus" class="archive-status">loading archive…</span>
+    </div>
   </div>
 </header>
 
@@ -182,11 +264,17 @@ footer {
     <a href="#signals">Signals</a>
     <a href="#scenarios">Scenarios</a>
     <a href="#events">Events</a>
+    <a href="#trends">Trends</a>
     <a href="#research">Research</a>
   </div>
 </nav>
 
 <main class="container">
+  <section id="archivePanel" class="card archive-panel">
+    <h2 id="archiveTitle">Historical Report</h2>
+    <div id="archiveKpis" class="archive-grid"></div>
+    <pre id="archiveBrief"></pre>
+  </section>
   <section id="overview" class="section">
     <div class="section-title">
       <h2>Market Overview</h2>
@@ -236,6 +324,11 @@ EIA｜Federal Reserve｜OpenAI｜Google｜Meta｜TSMC｜BEA via FRED｜BLS｜U.S
       <div class="section-title"><h2>Scenario Map</h2><span>current evidence classification</span></div>
       <div class="stack"><div class="mini-card"><span class="badge high">HIGH</span><strong>Inflation Pressure</strong><div>elevated</div><small>CPI YoY 3.30%; PCE YoY 3.67%; Core PCE YoY 3.29%</small></div><div class="mini-card"><span class="badge high">HIGH</span><strong>Oil Inventory Signal</strong><div>large-build</div><small>weekly +17.4 mb</small></div><div class="mini-card"><span class="badge high">HIGH</span><strong>Taiwan Export Momentum</strong><div>high-growth</div><small>YoY +32.9%</small></div><div class="mini-card"><span class="badge watch">WATCH</span><strong>Taiwan Foreign Flow</strong><div>net-buy</div><small>+454 億元</small></div><div class="mini-card"><span class="badge neutral">NEUTRAL</span><strong>Labor Cooling</strong><div>not-confirmed</div><small>unemployment 4.1%, -0.1 pp</small></div></div>
     </div>
+  </section>
+
+  <section id="trends" class="section">
+    <div class="section-title"><h2>Trend Matrix</h2><span>5 / 20 observation returns</span></div>
+    <div class="trend-grid"><div class="trend-card"><div class="trend-name">S&amp;P 500</div><small>2026-08-13</small><div class="trend-row"><span>5 obs</span><div class="trend-track"><div class="trend-fill positive" style="width:6.9%"></div></div><strong>+1.15%</strong></div><div class="trend-row"><span>20 obs</span><div class="trend-track"><div class="trend-fill positive" style="width:21.1%"></div></div><strong>+3.52%</strong></div></div><div class="trend-card"><div class="trend-name">Nasdaq Composite</div><small>2026-08-13</small><div class="trend-row"><span>5 obs</span><div class="trend-track"><div class="trend-fill positive" style="width:10.4%"></div></div><strong>+1.73%</strong></div><div class="trend-row"><span>20 obs</span><div class="trend-track"><div class="trend-fill positive" style="width:21.4%"></div></div><strong>+3.56%</strong></div></div><div class="trend-card"><div class="trend-name">WTI Spot</div><small>2026-08-11</small><div class="trend-row"><span>5 obs</span><div class="trend-track"><div class="trend-fill positive" style="width:57.7%"></div></div><strong>+9.62%</strong></div><div class="trend-row"><span>20 obs</span><div class="trend-track"><div class="trend-fill positive" style="width:32.3%"></div></div><strong>+5.38%</strong></div></div><div class="trend-card"><div class="trend-name">Brent Spot</div><small>2026-08-11</small><div class="trend-row"><span>5 obs</span><div class="trend-track"><div class="trend-fill positive" style="width:47.1%"></div></div><strong>+7.85%</strong></div><div class="trend-row"><span>20 obs</span><div class="trend-track"><div class="trend-fill positive" style="width:68.6%"></div></div><strong>+11.44%</strong></div></div></div>
   </section>
 
   <section id="events" class="section">
@@ -315,6 +408,7 @@ EIA｜Federal Reserve｜OpenAI｜Google｜Meta｜TSMC｜BEA via FRED｜BLS｜U.S
     <div class="card actions">
       <strong>Research Data</strong><br>
       <a href="latest.json">latest.json</a>
+      <a href="archive/index.json">archive/index.json</a>
       <span>每日資料同步保存在 archive/YYYY-MM-DD.json。</span>
     </div>
   </section>
@@ -323,5 +417,117 @@ EIA｜Federal Reserve｜OpenAI｜Google｜Meta｜TSMC｜BEA via FRED｜BLS｜U.S
 <footer class="container">
   Built from official/free sources used by this project. Historical analogs and rule-based signals are descriptive, not forecasts.
 </footer>
+<script>
+const archiveSelect = document.getElementById("archiveSelect");
+const archiveStatus = document.getElementById("archiveStatus");
+const archivePanel = document.getElementById("archivePanel");
+const archiveTitle = document.getElementById("archiveTitle");
+const archiveKpis = document.getElementById("archiveKpis");
+const archiveBrief = document.getElementById("archiveBrief");
+
+function htmlEscape(value) {
+  return String(value ?? "")
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
+}
+
+function getOkData(payload, key) {
+  const item = payload?.market_data?.[key];
+  return item && item.ok ? item.data : null;
+}
+
+function addArchiveKpi(label, value) {
+  return `<div class="archive-kpi"><span>${htmlEscape(label)}</span><strong>${htmlEscape(value)}</strong></div>`;
+}
+
+function archiveKpisFrom(payload) {
+  const cards = [];
+
+  const sp = getOkData(payload, "S&P 500");
+  if (sp?.latest) {
+    cards.push(addArchiveKpi("S&P 500", `${Number(sp.latest.value).toLocaleString()} (${sp.change_pct >= 0 ? "+" : ""}${Number(sp.change_pct).toFixed(2)}%)`));
+  }
+
+  const nd = getOkData(payload, "Nasdaq Composite");
+  if (nd?.latest) {
+    cards.push(addArchiveKpi("Nasdaq", `${Number(nd.latest.value).toLocaleString()} (${nd.change_pct >= 0 ? "+" : ""}${Number(nd.change_pct).toFixed(2)}%)`));
+  }
+
+  const us10 = getOkData(payload, "US 10Y Treasury");
+  if (us10?.latest) {
+    cards.push(addArchiveKpi("US 10Y", `${Number(us10.latest.value).toFixed(2)}%`));
+  }
+
+  const tw = getOkData(payload, "TAIEX");
+  if (tw) {
+    cards.push(addArchiveKpi("TAIEX", `${tw.close ?? "N/A"}`));
+  }
+
+  const ex = getOkData(payload, "Taiwan Exports");
+  if (ex) {
+    cards.push(addArchiveKpi("Taiwan Exports", `YoY ${Number(ex.yoy_pct) >= 0 ? "+" : ""}${Number(ex.yoy_pct).toFixed(1)}%`));
+  }
+
+  const fx = getOkData(payload, "USD/TWD");
+  if (fx?.latest) {
+    cards.push(addArchiveKpi("USD/TWD", Number(fx.latest.value).toFixed(3)));
+  }
+
+  return cards.join("");
+}
+
+async function loadArchiveIndex() {
+  try {
+    const res = await fetch(`archive/index.json?v=${Date.now()}`, {cache: "no-store"});
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    const dates = Array.isArray(data.dates) ? data.dates : [];
+
+    for (const date of dates) {
+      const option = document.createElement("option");
+      option.value = date;
+      option.textContent = date;
+      archiveSelect.appendChild(option);
+    }
+
+    archiveStatus.textContent = dates.length ? `${dates.length} archived report(s)` : "no archive yet";
+  } catch (err) {
+    archiveStatus.textContent = "archive index unavailable";
+  }
+}
+
+async function loadArchive(date) {
+  if (!date) {
+    archivePanel.classList.remove("active");
+    return;
+  }
+
+  archiveStatus.textContent = `loading ${date}…`;
+
+  try {
+    const res = await fetch(`archive/${encodeURIComponent(date)}.json?v=${Date.now()}`, {cache: "no-store"});
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const payload = await res.json();
+
+    archiveTitle.textContent = `Historical Report · ${payload.report_date || date}`;
+    archiveKpis.innerHTML = archiveKpisFrom(payload);
+    archiveBrief.textContent = payload.message || "No executive brief in this archive.";
+    archivePanel.classList.add("active");
+    archiveStatus.textContent = `showing ${date}`;
+    archivePanel.scrollIntoView({behavior: "smooth", block: "start"});
+  } catch (err) {
+    archiveStatus.textContent = `failed to load ${date}`;
+  }
+}
+
+archiveSelect.addEventListener("change", (event) => {
+  loadArchive(event.target.value);
+});
+
+loadArchiveIndex();
+</script>
 </body>
 </html>
