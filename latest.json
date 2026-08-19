@@ -1,10 +1,10 @@
 {
   "report_date": "2026-08-19",
-  "generated_at": "2026-08-19T11:28:47.639239+08:00",
-  "message": "📊 Daily Market Brief\n日期：2026-08-19\n\n🔑 Today in 3\n1. 標普500指數收盤下跌百分之0.69，台股加權指數單日亦下跌548.59點，最新市場呈現拉回走勢。\n2. 台灣7月出口金額年增率達百分之32.9，其中電子零組件品項年增率達百分之50.5，維持高成長態勢。\n3. 美國7月通膨與6月核心PCE數據顯示物價壓力依然存在，聯準會於7月底維持基準利率在3.5%至3.75%區間。\n\n🌐 Cross-Market\n* 股市：美股標普500指數收在7,691.76點，另根據較早前8月17日資料，那斯達克綜合指數收在26,644.91點。\n* 債市：根據8月17日較舊資料，美國10年期公債殖利率單日上漲4.0個基點（bps），收在4.72%。\n* 籌碼：三大法人於台股合計淨賣超258億元，其中外資淨賣超120億元，投信則呈現淨買超38億元。\n* 匯市：新台幣兌美元收在31.945元，單日貶值0.093元。\n* 油市：根據8月11日較舊資料，西德州原油與布蘭特原油單日分別上漲百分之1.21與百分之0.56。\n\n🚨 Event Focus\n* 8月28日 PCE與核心PCE（估計發布窗口）：為評估美國通膨走勢及聯準會政策方向性影響的關鍵數據。\n* 8月26日 EIA週度石油庫存：將更新最新原油庫存變動數據。\n\n👀 Watch Next\n1. 觀察後續美國通膨與就業市場數據更新，以評估其對聯準會未來利率路徑預期的影響。\n2. 追蹤個別企業後續發布之官方財報、營收與產業數據，以驗證其實際營運與基本面表現。\n\n🎯 Bottom Line\n當前市場主線呈現美股與台股同步拉回，伴隨通膨壓力依然存在。最大不確定性在於高利率環境對實體經濟的滯後效應，以及未來通膨與就業市場的實際降溫進度。\n\n📚 Sources\nEIA｜Federal Reserve｜OpenAI｜Google｜Meta｜BEA via FRED｜BLS｜U.S. Treasury｜Taiwan MOF｜CBC Taiwan｜TWSE",
+  "generated_at": "2026-08-19T13:59:50.965497+08:00",
+  "message": "📊 Daily Market Brief\n日期：2026-08-19\n\n🔑 Today in 3\n1. 美股主要指數在八月十八日雙雙收跌，其中那斯達克綜合指數跌幅達百分之一點三三。\n2. 台灣七月出口年增率達百分之三十二點九，其中電子零組件與資通視聽產品均呈現成長。\n3. 截至八月七日當週的美國EIA原油庫存增加一千七百四十萬桶，顯示週度庫存有所累積。\n\n🌐 Cross-Market\n- 根據截至八月十一日的較早數據，WTI與布蘭特原油現貨價分別收在每桶84.77美元與93.26美元。\n- 截至八月十七日的較早數據顯示，美國十年期公債殖利率上升4.0 bps至4.72%。\n- 根據八月十八日資料，新台幣兌美元匯率收在31.945，當日台灣加權指數收在45308.68點，外資在台股市場呈現淨賣超。\n- 八月十九日台積電收盤價為2350元新台幣，較前一日下跌30元。\n- 人工智慧方面，OpenAI與CodeAI展開合作，旨在協助學生建立人工智慧素養與負責任的使用技能。\n\n🚨 Event Focus\n- 美國預計於八月二十六日公布EIA週度石油庫存。\n- 美國個人消費支出物價指數（PCE及核心PCE）預計於八月二十八日進入估計發布窗口。\n\n👀 Watch Next\n- 觀察美國通膨數據：後續需關注八月二十八日估計發布窗口的PCE數據，以評估其對聯準會未來利率決策方向的影響。\n- 驗證企業基本面：關於科技及半導體產業的實際需求，後續需等待各企業官方財報、營收及財測等數據進行獨立驗證。\n\n🎯 Bottom Line\n最新數據呈現美股主要指數走弱與台灣七月外需出口增長並存的局面。市場最大不確定性仍聚焦於高企的通膨壓力，以及聯準會後續的利率政策動向。\n\n📚 Sources\nEIA｜Federal Reserve｜OpenAI｜Google｜Meta｜BEA via FRED｜BLS｜U.S. Treasury｜Taiwan MOF｜CBC Taiwan｜TWSE",
   "data_health": {
-    "total": 20,
-    "success": 20,
+    "total": 38,
+    "success": 38,
     "failed_count": 0,
     "failed_items": []
   },
@@ -30,9 +30,9 @@
       },
       {
         "name": "Nasdaq",
-        "score": 0,
+        "score": 1,
         "direction": "down",
-        "evidence": "-0.32%"
+        "evidence": "-1.33%"
       },
       {
         "name": "US 10Y",
@@ -65,6 +65,12 @@
         "score": 1,
         "direction": "down",
         "evidence": "-0.69%"
+      },
+      {
+        "name": "Nasdaq",
+        "score": 1,
+        "direction": "down",
+        "evidence": "-1.33%"
       }
     ]
   },
@@ -89,9 +95,9 @@
     },
     {
       "name": "Labor Cooling",
-      "score": 0,
-      "label": "not-confirmed",
-      "evidence": "unemployment 4.1%, -0.1 pp"
+      "score": 1,
+      "label": "mixed",
+      "evidence": "unemployment 4.1%, -0.1 pp; NFP monthly -23k"
     },
     {
       "name": "Taiwan Foreign Flow",
@@ -150,6 +156,1396 @@
       ]
     }
   ],
+  "macro_intelligence": {
+    "version": "V28 Macro Intelligence",
+    "scope": "Official/free macro data expansion for dashboard and archive only.",
+    "panels": {
+      "Inflation": [
+        {
+          "label": "Headline CPI",
+          "status": "available",
+          "date": "2026-07",
+          "frequency": "monthly",
+          "value": 332.813,
+          "value_text": "332.813 index",
+          "mom_pct": 0.07366914435544146,
+          "yoy_pct": 3.303856050706308,
+          "source": "BLS",
+          "source_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/CUSR0000SA0",
+          "series_id": "CUSR0000SA0",
+          "interpretation_limits": "Index data only; no consensus, surprise, causality, or forecast."
+        },
+        {
+          "label": "Core CPI",
+          "status": "available",
+          "date": "2026-07",
+          "frequency": "monthly",
+          "value": 336.789,
+          "value_text": "336.789 index",
+          "mom_pct": 0.21543451415648446,
+          "yoy_pct": 2.4665177892309194,
+          "source": "BLS",
+          "source_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/CUSR0000SA0L1E",
+          "series_id": "CUSR0000SA0L1E",
+          "interpretation_limits": "BLS index data only; no consensus, surprise, policy causality, or forecast is inferred."
+        },
+        {
+          "label": "PPI final demand",
+          "status": "available",
+          "date": "2026-07",
+          "frequency": "monthly",
+          "value": 156.563,
+          "value_text": "156.563 index",
+          "mom_pct": -0.028095806700857012,
+          "yoy_pct": 4.656510491520538,
+          "source": "BLS",
+          "source_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/WPSFD4",
+          "series_id": "WPSFD4",
+          "interpretation_limits": "BLS index data only; no consensus, surprise, policy causality, or forecast is inferred."
+        },
+        {
+          "label": "PCE price index",
+          "status": "available",
+          "date": "2026-06-01",
+          "frequency": "monthly",
+          "value": 131.392,
+          "value_text": "131.392 index",
+          "mom_pct": -0.10871631124795733,
+          "yoy_pct": 3.6680526735204317,
+          "source": "BEA via FRED",
+          "source_url": null,
+          "series_id": "PCEPI",
+          "interpretation_limits": "Index data only; no consensus, surprise, causality, or forecast."
+        },
+        {
+          "label": "Core PCE price index",
+          "status": "available",
+          "date": "2026-06-01",
+          "frequency": "monthly",
+          "value": 130.266,
+          "value_text": "130.266 index",
+          "mom_pct": 0.13221209279443866,
+          "yoy_pct": 3.286526430967084,
+          "source": "BEA via FRED",
+          "source_url": null,
+          "series_id": "PCEPILFE",
+          "interpretation_limits": "Index data only; no consensus, surprise, causality, or forecast."
+        }
+      ],
+      "Labor": [
+        {
+          "label": "Initial jobless claims",
+          "status": "available",
+          "date": "2026-08-01",
+          "frequency": "weekly",
+          "value": 188718,
+          "value_text": "188,718 claims",
+          "weekly_change": 16665,
+          "source": "DOL ETA",
+          "source_url": "https://oui.doleta.gov/unemploy/csv/ar539.csv",
+          "aggregation": "sum of jurisdiction rows",
+          "series_id": "ETA 539 c3",
+          "interpretation_limits": "Official weekly claims data only; no consensus, surprise, seasonal-adjustment assumption, causality, or forecast is inferred."
+        },
+        {
+          "label": "Unemployment rate",
+          "status": "available",
+          "date": "2026-07",
+          "frequency": "monthly",
+          "value": 4.1,
+          "value_text": "4.1%",
+          "change_pp": -0.10000000000000053,
+          "source": "BLS",
+          "source_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/LNS14000000",
+          "series_id": "LNS14000000",
+          "interpretation_limits": "BLS labor-force series only; no policy causality or forecast."
+        },
+        {
+          "label": "Nonfarm payrolls",
+          "status": "available",
+          "date": "2026-07",
+          "frequency": "monthly",
+          "value": 158858.0,
+          "value_text": "158,858k payroll level",
+          "change_thousands": -23.0,
+          "source": "BLS",
+          "source_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/CES0000000001",
+          "series_id": "CES0000000001",
+          "interpretation_limits": "BLS payroll level/change only; no policy causality or forecast."
+        }
+      ],
+      "Rates": [
+        {
+          "label": "US 2Y Treasury",
+          "status": "available",
+          "date": "2026-08-18",
+          "frequency": "daily",
+          "value": 4.19,
+          "value_text": "4.19%",
+          "change_bps": 0.0,
+          "source": "U.S. Treasury",
+          "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml"
+        },
+        {
+          "label": "US 10Y Treasury",
+          "status": "available",
+          "date": "2026-08-17",
+          "frequency": "daily",
+          "value": 4.72,
+          "value_text": "4.72%",
+          "change_bps": 4.0000000000000036,
+          "source": "U.S. Treasury",
+          "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml"
+        },
+        {
+          "label": "2Y-10Y yield spread",
+          "status": "available",
+          "date": "2026-08-18",
+          "frequency": "daily",
+          "spread_bps": 51.99999999999996,
+          "value_text": "+52.0 bps",
+          "two_year": 4.19,
+          "ten_year": 4.71,
+          "change_bps": -0.9999999999999787,
+          "source": "U.S. Treasury",
+          "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml",
+          "interpretation_limits": "Spread is computed only from same-date official Treasury curve fields; it is not a recession forecast."
+        }
+      ],
+      "Retail": [
+        {
+          "label": "Retail and food services sales",
+          "status": "available",
+          "date": "2026-07",
+          "frequency": "monthly",
+          "value_usd_bn": 763.602,
+          "value_text": "USD 763.6B",
+          "mom_pct": -0.581976689685342,
+          "yoy_pct": 5.009241229083468,
+          "source": "U.S. Census Bureau MARTS",
+          "source_url": "https://www.census.gov/retail/marts/www/adv44X72.txt",
+          "interpretation_limits": "Adjusted sales data are not price-adjusted; no consensus, surprise, causality, or forecast is inferred."
+        }
+      ]
+    },
+    "guardrails": [
+      "Native dates and frequencies are retained.",
+      "Monthly, weekly, and daily series are not treated as same-day causes.",
+      "Missing values, consensus, surprise, causality, and forecasts are not inferred.",
+      "Partial data-source failure remains visible at the dataset level."
+    ]
+  },
+  "fed_intelligence": {
+    "ok": true,
+    "data": {
+      "version": "V29 Fed Intelligence",
+      "source": "Federal Reserve",
+      "source_url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+      "frequency": "event",
+      "statements": [
+        {
+          "source": "Federal Reserve",
+          "title": "Federal Reserve issues FOMC statement",
+          "date": "2026-07-29",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+          "frequency": "event",
+          "fields": {
+            "policy_action": "The Federal Open Market Committee approved the following statement for release by a 9 – 3 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate.",
+            "economic_activity": "Economic activity is expanding at a solid pace despite elevated uncertainty that owes, in part, to the conflict in the Middle East.",
+            "labor_market": "Job gains have kept pace with the workforce, and the unemployment rate has changed little.",
+            "inflation": "Inflation remains elevated relative to the Committee's 2 percent goal, in part reflecting supply shocks that have driven price increases in certain sectors, including energy.",
+            "balance_sheet": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S."
+          },
+          "policy_action": {
+            "action": "hold",
+            "rate_range": {
+              "low": 3.5,
+              "high": 3.75,
+              "text": "3.50-3.75%"
+            },
+            "official_text": "The Federal Open Market Committee approved the following statement for release by a 9 – 3 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate."
+          }
+        },
+        {
+          "source": "Federal Reserve",
+          "title": "Federal Reserve issues FOMC statement",
+          "date": "2026-06-17",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+          "frequency": "event",
+          "fields": {
+            "policy_action": "The Federal Open Market Committee approved the following statement for release by a 12 – 0 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate.",
+            "economic_activity": "Economic activity is expanding at a solid pace despite elevated uncertainty that owes, in part, to the conflict in the Middle East.",
+            "labor_market": "Job gains have kept pace with the workforce, and the unemployment rate has changed little.",
+            "inflation": "Inflation remains elevated relative to the Committee's 2 percent goal, in part reflecting supply shocks that have driven price increases in certain sectors, including energy.",
+            "balance_sheet": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S."
+          },
+          "policy_action": {
+            "action": "hold",
+            "rate_range": {
+              "low": 3.5,
+              "high": 3.75,
+              "text": "3.50-3.75%"
+            },
+            "official_text": "The Federal Open Market Committee approved the following statement for release by a 12 – 0 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate."
+          }
+        },
+        {
+          "source": "Federal Reserve",
+          "title": "Federal Reserve issues FOMC statement",
+          "date": "2026-04-29",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm",
+          "frequency": "event",
+          "fields": {
+            "policy_action": "In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 3‑1/2 to 3‑3/4 percent.",
+            "economic_activity": "Recent indicators suggest that economic activity has been expanding at a solid pace.",
+            "labor_market": "Job gains have remained low, on average, and the unemployment rate has been little changed in recent months.",
+            "inflation": "Inflation is elevated, in part reflecting the recent increase in global energy prices.",
+            "balance_sheet": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S."
+          },
+          "policy_action": {
+            "action": "hold",
+            "rate_range": null,
+            "official_text": "In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 3‑1/2 to 3‑3/4 percent."
+          }
+        },
+        {
+          "source": "Federal Reserve",
+          "title": "Federal Reserve issues FOMC statement",
+          "date": "2026-03-18",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm",
+          "frequency": "event",
+          "fields": {
+            "policy_action": "In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 3‑1/2 to 3‑3/4 percent.",
+            "economic_activity": "Available indicators suggest that economic activity has been expanding at a solid pace.",
+            "labor_market": "Job gains have remained low, and the unemployment rate has been little changed in recent months.",
+            "inflation": "Inflation remains somewhat elevated.",
+            "balance_sheet": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S."
+          },
+          "policy_action": {
+            "action": "hold",
+            "rate_range": null,
+            "official_text": "In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 3‑1/2 to 3‑3/4 percent."
+          }
+        }
+      ],
+      "comparisons": [
+        {
+          "newer_date": "2026-07-29",
+          "older_date": "2026-06-17",
+          "policy_action": {
+            "status": "unchanged",
+            "newer_action": {
+              "action": "hold",
+              "rate_range": {
+                "low": 3.5,
+                "high": 3.75,
+                "text": "3.50-3.75%"
+              },
+              "official_text": "The Federal Open Market Committee approved the following statement for release by a 9 – 3 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate."
+            },
+            "older_action": {
+              "action": "hold",
+              "rate_range": {
+                "low": 3.5,
+                "high": 3.75,
+                "text": "3.50-3.75%"
+              },
+              "official_text": "The Federal Open Market Committee approved the following statement for release by a 12 – 0 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate."
+            }
+          },
+          "wording_changes": [
+            {
+              "field": "economic_activity",
+              "status": "unchanged",
+              "newer_text": "Economic activity is expanding at a solid pace despite elevated uncertainty that owes, in part, to the conflict in the Middle East.",
+              "older_text": "Economic activity is expanding at a solid pace despite elevated uncertainty that owes, in part, to the conflict in the Middle East."
+            },
+            {
+              "field": "labor_market",
+              "status": "unchanged",
+              "newer_text": "Job gains have kept pace with the workforce, and the unemployment rate has changed little.",
+              "older_text": "Job gains have kept pace with the workforce, and the unemployment rate has changed little."
+            },
+            {
+              "field": "inflation",
+              "status": "unchanged",
+              "newer_text": "Inflation remains elevated relative to the Committee's 2 percent goal, in part reflecting supply shocks that have driven price increases in certain sectors, including energy.",
+              "older_text": "Inflation remains elevated relative to the Committee's 2 percent goal, in part reflecting supply shocks that have driven price increases in certain sectors, including energy."
+            },
+            {
+              "field": "balance_sheet",
+              "status": "unchanged",
+              "newer_text": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S.",
+              "older_text": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S."
+            }
+          ],
+          "market_interpretation": {
+            "label": "limited wording change",
+            "text": "No material wording change was detected in the extracted fields; this does not rule out market movement from other information.",
+            "limits": "This is a constrained textual interpretation from official statements only, not a price reaction, forecast, or causal claim."
+          }
+        },
+        {
+          "newer_date": "2026-06-17",
+          "older_date": "2026-04-29",
+          "policy_action": {
+            "status": "changed",
+            "newer_action": {
+              "action": "hold",
+              "rate_range": {
+                "low": 3.5,
+                "high": 3.75,
+                "text": "3.50-3.75%"
+              },
+              "official_text": "The Federal Open Market Committee approved the following statement for release by a 12 – 0 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate."
+            },
+            "older_action": {
+              "action": "hold",
+              "rate_range": null,
+              "official_text": "In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 3‑1/2 to 3‑3/4 percent."
+            }
+          },
+          "wording_changes": [
+            {
+              "field": "economic_activity",
+              "status": "changed",
+              "newer_text": "Economic activity is expanding at a solid pace despite elevated uncertainty that owes, in part, to the conflict in the Middle East.",
+              "older_text": "Recent indicators suggest that economic activity has been expanding at a solid pace."
+            },
+            {
+              "field": "labor_market",
+              "status": "changed",
+              "newer_text": "Job gains have kept pace with the workforce, and the unemployment rate has changed little.",
+              "older_text": "Job gains have remained low, on average, and the unemployment rate has been little changed in recent months."
+            },
+            {
+              "field": "inflation",
+              "status": "changed",
+              "newer_text": "Inflation remains elevated relative to the Committee's 2 percent goal, in part reflecting supply shocks that have driven price increases in certain sectors, including energy.",
+              "older_text": "Inflation is elevated, in part reflecting the recent increase in global energy prices."
+            },
+            {
+              "field": "balance_sheet",
+              "status": "unchanged",
+              "newer_text": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S.",
+              "older_text": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S."
+            }
+          ],
+          "market_interpretation": {
+            "label": "policy action changed",
+            "text": "Market reading should separate the official rate decision from statement wording; any asset-price reaction requires separate market data.",
+            "limits": "This is a constrained textual interpretation from official statements only, not a price reaction, forecast, or causal claim."
+          }
+        },
+        {
+          "newer_date": "2026-04-29",
+          "older_date": "2026-03-18",
+          "policy_action": {
+            "status": "unchanged",
+            "newer_action": {
+              "action": "hold",
+              "rate_range": null,
+              "official_text": "In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 3‑1/2 to 3‑3/4 percent."
+            },
+            "older_action": {
+              "action": "hold",
+              "rate_range": null,
+              "official_text": "In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 3‑1/2 to 3‑3/4 percent."
+            }
+          },
+          "wording_changes": [
+            {
+              "field": "economic_activity",
+              "status": "changed",
+              "newer_text": "Recent indicators suggest that economic activity has been expanding at a solid pace.",
+              "older_text": "Available indicators suggest that economic activity has been expanding at a solid pace."
+            },
+            {
+              "field": "labor_market",
+              "status": "changed",
+              "newer_text": "Job gains have remained low, on average, and the unemployment rate has been little changed in recent months.",
+              "older_text": "Job gains have remained low, and the unemployment rate has been little changed in recent months."
+            },
+            {
+              "field": "inflation",
+              "status": "changed",
+              "newer_text": "Inflation is elevated, in part reflecting the recent increase in global energy prices.",
+              "older_text": "Inflation remains somewhat elevated."
+            },
+            {
+              "field": "balance_sheet",
+              "status": "unchanged",
+              "newer_text": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S.",
+              "older_text": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S."
+            }
+          ],
+          "market_interpretation": {
+            "label": "wording changed without identified rate-action change",
+            "text": "The official action appears unchanged, so market interpretation should focus on changed wording fields: economic_activity, labor_market, inflation.",
+            "limits": "This is a constrained textual interpretation from official statements only, not a price reaction, forecast, or causal claim."
+          }
+        }
+      ],
+      "guardrails": [
+        "Policy action, wording changes, and market interpretation are separated.",
+        "Only official Federal Reserve statements are used for policy text.",
+        "Market interpretation is textual and constrained; it is not a price reaction, forecast, or causal claim."
+      ]
+    }
+  },
+  "oil_intelligence": {
+    "ok": true,
+    "data": {
+      "version": "V30 Oil Intelligence",
+      "source": "EIA",
+      "frequency": "weekly",
+      "panels": {
+        "Inventories": [
+          {
+            "label": "Commercial crude oil inventories ex-SPR",
+            "status": "available",
+            "date": "2026-08-07",
+            "frequency": "weekly",
+            "value": 424.41,
+            "value_text": "424.4 million barrels",
+            "change": 17.423,
+            "change_unit": "million barrels",
+            "source": "EIA",
+            "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCESTUS1&f=W",
+            "series_id": "PET.WCESTUS1.W",
+            "group": "Inventories",
+            "interpretation_limits": "EIA weekly petroleum data only; no consensus, surprise, price causality, or forecast is inferred."
+          },
+          {
+            "label": "Total motor gasoline stocks",
+            "status": "available",
+            "date": "2026-08-07",
+            "frequency": "weekly",
+            "value": 208.69,
+            "value_text": "208.7 million barrels",
+            "change": -0.9680000000000177,
+            "change_unit": "million barrels",
+            "source": "EIA",
+            "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WGTSTUS1&f=W",
+            "series_id": "PET.WGTSTUS1.W",
+            "group": "Inventories",
+            "interpretation_limits": "EIA weekly petroleum data only; no inventory-surprise, demand causality, price forecast, or market reaction is inferred."
+          },
+          {
+            "label": "Distillate fuel oil stocks",
+            "status": "available",
+            "date": "2026-08-07",
+            "frequency": "weekly",
+            "value": 107.149,
+            "value_text": "107.1 million barrels",
+            "change": -0.010000000000005116,
+            "change_unit": "million barrels",
+            "source": "EIA",
+            "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WDISTUS1&f=W",
+            "series_id": "PET.WDISTUS1.W",
+            "group": "Inventories",
+            "interpretation_limits": "EIA weekly petroleum data only; no inventory-surprise, demand causality, price forecast, or market reaction is inferred."
+          }
+        ],
+        "Supply": [
+          {
+            "label": "U.S. crude oil field production",
+            "status": "available",
+            "date": "2026-08-07",
+            "frequency": "weekly",
+            "value": 13.805,
+            "value_text": "13.805 million barrels per day",
+            "change": 0.0009999999999994458,
+            "change_unit": "million barrels per day",
+            "source": "EIA",
+            "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCRFPUS2&f=W",
+            "series_id": "PET.WCRFPUS2.W",
+            "group": "Supply",
+            "interpretation_limits": "EIA weekly petroleum data only; no inventory-surprise, demand causality, price forecast, or market reaction is inferred."
+          },
+          {
+            "label": "U.S. crude oil imports",
+            "status": "available",
+            "date": "2026-08-07",
+            "frequency": "weekly",
+            "value": 7.339,
+            "value_text": "7.339 million barrels per day",
+            "change": 1.141,
+            "change_unit": "million barrels per day",
+            "source": "EIA",
+            "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCRIMUS2&f=W",
+            "series_id": "PET.WCRIMUS2.W",
+            "group": "Supply",
+            "interpretation_limits": "EIA weekly petroleum data only; no inventory-surprise, demand causality, price forecast, or market reaction is inferred."
+          }
+        ],
+        "Refining": [
+          {
+            "label": "Refinery operable capacity utilization",
+            "status": "available",
+            "date": "2026-08-07",
+            "frequency": "weekly",
+            "value": 96.2,
+            "value_text": "96.2 percent",
+            "change": -0.29999999999999716,
+            "change_unit": "percentage points",
+            "source": "EIA",
+            "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WPULEUS3&f=W",
+            "series_id": "PET.WPULEUS3.W",
+            "group": "Refining",
+            "interpretation_limits": "EIA weekly petroleum data only; no inventory-surprise, demand causality, price forecast, or market reaction is inferred."
+          }
+        ]
+      },
+      "guardrails": [
+        "All oil data uses official EIA weekly series.",
+        "Inventory and flow series are not mixed into same-unit calculations.",
+        "No inventory surprise, consensus estimate, causal price claim, or forecast is generated.",
+        "Partial source failures remain visible at the individual dataset level."
+      ]
+    }
+  },
+  "taiwan_intelligence": {
+    "ok": true,
+    "data": {
+      "version": "V31 Taiwan Intelligence",
+      "source": "TWSE / Taiwan MOF",
+      "frequency": "mixed",
+      "panels": {
+        "Equity Index": [
+          {
+            "label": "TAIEX multi-day history",
+            "status": "available",
+            "source": "TWSE MI_INDEX",
+            "source_url": "https://www.twse.com.tw/exchangeReport/MI_INDEX",
+            "frequency": "daily",
+            "latest": {
+              "date": "2026-08-19",
+              "close": 44719.35,
+              "official_direction": "<p style ='color:green'>-</p>",
+              "official_change": 589.33,
+              "official_change_pct": -1.3,
+              "previous_close": 45308.68,
+              "consecutive_close_change": -589.3300000000017,
+              "consecutive_close_change_pct": -1.300699998322621
+            },
+            "history": [
+              {
+                "date": "2026-08-19",
+                "close": 44719.35,
+                "official_direction": "<p style ='color:green'>-</p>",
+                "official_change": 589.33,
+                "official_change_pct": -1.3,
+                "previous_close": 45308.68,
+                "consecutive_close_change": -589.3300000000017,
+                "consecutive_close_change_pct": -1.300699998322621
+              },
+              {
+                "date": "2026-08-18",
+                "close": 45308.68,
+                "official_direction": "<p style ='color:green'>-</p>",
+                "official_change": 548.59,
+                "official_change_pct": -1.2,
+                "previous_close": 45857.27,
+                "consecutive_close_change": -548.5899999999965,
+                "consecutive_close_change_pct": -1.196298863844264
+              },
+              {
+                "date": "2026-08-17",
+                "close": 45857.27,
+                "official_direction": "<p style ='color:red'>+</p>",
+                "official_change": 46.26,
+                "official_change_pct": 0.1,
+                "previous_close": 45811.01,
+                "consecutive_close_change": 46.25999999999476,
+                "consecutive_close_change_pct": 0.10098009190365977
+              },
+              {
+                "date": "2026-08-14",
+                "close": 45811.01,
+                "official_direction": "<p style ='color:green'>-</p>",
+                "official_change": 210.47,
+                "official_change_pct": -0.46,
+                "previous_close": 46021.48,
+                "consecutive_close_change": -210.47000000000116,
+                "consecutive_close_change_pct": -0.4573299250697742
+              },
+              {
+                "date": "2026-08-13",
+                "close": 46021.48,
+                "official_direction": "<p style ='color:red'>+</p>",
+                "official_change": 503.41,
+                "official_change_pct": 1.11,
+                "previous_close": 45518.07,
+                "consecutive_close_change": 503.4100000000035,
+                "consecutive_close_change_pct": 1.105956381718301
+              },
+              {
+                "date": "2026-08-12",
+                "close": 45518.07,
+                "official_direction": "<p style ='color:red'>+</p>",
+                "official_change": 397.35,
+                "official_change_pct": 0.88,
+                "previous_close": 45120.72,
+                "consecutive_close_change": 397.34999999999854,
+                "consecutive_close_change_pct": 0.8806375430179272
+              },
+              {
+                "date": "2026-08-11",
+                "close": 45120.72,
+                "official_direction": "<p style ='color:red'>+</p>",
+                "official_change": 191.96,
+                "official_change_pct": 0.43,
+                "previous_close": 44928.76,
+                "consecutive_close_change": 191.95999999999913,
+                "consecutive_close_change_pct": 0.427254168599354
+              },
+              {
+                "date": "2026-08-10",
+                "close": 44928.76,
+                "official_direction": "<p style ='color:red'>+</p>",
+                "official_change": 702.85,
+                "official_change_pct": 1.59,
+                "previous_close": 44225.91,
+                "consecutive_close_change": 702.8499999999985,
+                "consecutive_close_change_pct": 1.5892267677476812
+              },
+              {
+                "date": "2026-08-07",
+                "close": 44225.91,
+                "official_direction": "<p style ='color:green'>-</p>",
+                "official_change": 170.79,
+                "official_change_pct": -0.38,
+                "previous_close": 44396.7,
+                "consecutive_close_change": -170.7899999999936,
+                "consecutive_close_change_pct": -0.3846907540425158
+              },
+              {
+                "date": "2026-08-06",
+                "close": 44396.7,
+                "official_direction": "<p style ='color:green'>-</p>",
+                "official_change": 214.9,
+                "official_change_pct": -0.48
+              }
+            ],
+            "interpretation_limits": "TAIEX history is daily market data; it does not explain monthly exports or fund flows without same-date evidence."
+          }
+        ],
+        "TSMC": [
+          {
+            "label": "TSMC 2330 multi-day history",
+            "status": "available",
+            "source": "TWSE STOCK_DAY",
+            "source_url": "https://www.twse.com.tw/exchangeReport/STOCK_DAY",
+            "frequency": "daily",
+            "latest": {
+              "date": "2026-08-19",
+              "open": 2340.0,
+              "high": 2355.0,
+              "low": 2335.0,
+              "close": 2350.0,
+              "official_change": -30.0,
+              "volume_shares": 19998000.0,
+              "previous_close": 2380.0,
+              "consecutive_close_change": -30.0,
+              "consecutive_close_change_pct": -1.2605042016806722
+            },
+            "history": [
+              {
+                "date": "2026-08-19",
+                "open": 2340.0,
+                "high": 2355.0,
+                "low": 2335.0,
+                "close": 2350.0,
+                "official_change": -30.0,
+                "volume_shares": 19998000.0,
+                "previous_close": 2380.0,
+                "consecutive_close_change": -30.0,
+                "consecutive_close_change_pct": -1.2605042016806722
+              },
+              {
+                "date": "2026-08-18",
+                "open": 2415.0,
+                "high": 2415.0,
+                "low": 2375.0,
+                "close": 2380.0,
+                "official_change": -20.0,
+                "volume_shares": 19997213.0,
+                "previous_close": 2400.0,
+                "consecutive_close_change": -20.0,
+                "consecutive_close_change_pct": -0.8333333333333334
+              },
+              {
+                "date": "2026-08-17",
+                "open": 2410.0,
+                "high": 2420.0,
+                "low": 2390.0,
+                "close": 2400.0,
+                "official_change": 5.0,
+                "volume_shares": 13482456.0,
+                "previous_close": 2395.0,
+                "consecutive_close_change": 5.0,
+                "consecutive_close_change_pct": 0.20876826722338201
+              },
+              {
+                "date": "2026-08-14",
+                "open": 2435.0,
+                "high": 2440.0,
+                "low": 2395.0,
+                "close": 2395.0,
+                "official_change": -40.0,
+                "volume_shares": 21162682.0,
+                "previous_close": 2435.0,
+                "consecutive_close_change": -40.0,
+                "consecutive_close_change_pct": -1.642710472279261
+              },
+              {
+                "date": "2026-08-13",
+                "open": 2440.0,
+                "high": 2445.0,
+                "low": 2425.0,
+                "close": 2435.0,
+                "official_change": 20.0,
+                "volume_shares": 26233385.0,
+                "previous_close": 2415.0,
+                "consecutive_close_change": 20.0,
+                "consecutive_close_change_pct": 0.8281573498964804
+              },
+              {
+                "date": "2026-08-12",
+                "open": 2405.0,
+                "high": 2415.0,
+                "low": 2390.0,
+                "close": 2415.0,
+                "official_change": 20.0,
+                "volume_shares": 19448153.0,
+                "previous_close": 2395.0,
+                "consecutive_close_change": 20.0,
+                "consecutive_close_change_pct": 0.8350730688935281
+              },
+              {
+                "date": "2026-08-11",
+                "open": 2390.0,
+                "high": 2405.0,
+                "low": 2375.0,
+                "close": 2395.0,
+                "official_change": 15.0,
+                "volume_shares": 18247582.0,
+                "previous_close": 2380.0,
+                "consecutive_close_change": 15.0,
+                "consecutive_close_change_pct": 0.6302521008403361
+              },
+              {
+                "date": "2026-08-10",
+                "open": 2390.0,
+                "high": 2410.0,
+                "low": 2380.0,
+                "close": 2380.0,
+                "official_change": 10.0,
+                "volume_shares": 21498241.0,
+                "previous_close": 2370.0,
+                "consecutive_close_change": 10.0,
+                "consecutive_close_change_pct": 0.42194092827004215
+              },
+              {
+                "date": "2026-08-07",
+                "open": 2390.0,
+                "high": 2395.0,
+                "low": 2355.0,
+                "close": 2370.0,
+                "official_change": 5.0,
+                "volume_shares": 24414025.0,
+                "previous_close": 2365.0,
+                "consecutive_close_change": 5.0,
+                "consecutive_close_change_pct": 0.21141649048625794
+              },
+              {
+                "date": "2026-08-06",
+                "open": 2395.0,
+                "high": 2395.0,
+                "low": 2360.0,
+                "close": 2365.0,
+                "official_change": -40.0,
+                "volume_shares": 25536816.0,
+                "previous_close": 2405.0,
+                "consecutive_close_change": -40.0,
+                "consecutive_close_change_pct": -1.6632016632016633
+              },
+              {
+                "date": "2026-08-05",
+                "open": 2385.0,
+                "high": 2415.0,
+                "low": 2370.0,
+                "close": 2405.0,
+                "official_change": 85.0,
+                "volume_shares": 36782301.0,
+                "previous_close": 2320.0,
+                "consecutive_close_change": 85.0,
+                "consecutive_close_change_pct": 3.6637931034482754
+              },
+              {
+                "date": "2026-08-04",
+                "open": 2335.0,
+                "high": 2360.0,
+                "low": 2310.0,
+                "close": 2320.0,
+                "official_change": -50.0,
+                "volume_shares": 41021199.0,
+                "previous_close": 2370.0,
+                "consecutive_close_change": -50.0,
+                "consecutive_close_change_pct": -2.109704641350211
+              },
+              {
+                "date": "2026-08-03",
+                "open": 2390.0,
+                "high": 2395.0,
+                "low": 2365.0,
+                "close": 2370.0,
+                "official_change": -55.0,
+                "volume_shares": 35209944.0,
+                "previous_close": 2425.0,
+                "consecutive_close_change": -55.0,
+                "consecutive_close_change_pct": -2.268041237113402
+              },
+              {
+                "date": "2026-07-31",
+                "open": 2350.0,
+                "high": 2425.0,
+                "low": 2345.0,
+                "close": 2425.0,
+                "official_change": 220.0,
+                "volume_shares": 69478145.0,
+                "previous_close": 2205.0,
+                "consecutive_close_change": 220.0,
+                "consecutive_close_change_pct": 9.977324263038549
+              },
+              {
+                "date": "2026-07-30",
+                "open": 2205.0,
+                "high": 2260.0,
+                "low": 2190.0,
+                "close": 2205.0,
+                "official_change": 5.0,
+                "volume_shares": 51372177.0,
+                "previous_close": 2200.0,
+                "consecutive_close_change": 5.0,
+                "consecutive_close_change_pct": 0.22727272727272727
+              },
+              {
+                "date": "2026-07-29",
+                "open": 2260.0,
+                "high": 2280.0,
+                "low": 2180.0,
+                "close": 2200.0,
+                "official_change": -80.0,
+                "volume_shares": 68139691.0,
+                "previous_close": 2280.0,
+                "consecutive_close_change": -80.0,
+                "consecutive_close_change_pct": -3.508771929824561
+              },
+              {
+                "date": "2026-07-28",
+                "open": 2270.0,
+                "high": 2305.0,
+                "low": 2270.0,
+                "close": 2280.0,
+                "official_change": -70.0,
+                "volume_shares": 45333029.0,
+                "previous_close": 2350.0,
+                "consecutive_close_change": -70.0,
+                "consecutive_close_change_pct": -2.9787234042553195
+              },
+              {
+                "date": "2026-07-27",
+                "open": 2330.0,
+                "high": 2365.0,
+                "low": 2330.0,
+                "close": 2350.0,
+                "official_change": 0.0,
+                "volume_shares": 28939466.0,
+                "previous_close": 2350.0,
+                "consecutive_close_change": 0.0,
+                "consecutive_close_change_pct": 0.0
+              },
+              {
+                "date": "2026-07-24",
+                "open": 2355.0,
+                "high": 2365.0,
+                "low": 2345.0,
+                "close": 2350.0,
+                "official_change": -55.0,
+                "volume_shares": 24810509.0,
+                "previous_close": 2405.0,
+                "consecutive_close_change": -55.0,
+                "consecutive_close_change_pct": -2.2869022869022873
+              },
+              {
+                "date": "2026-07-23",
+                "open": 2385.0,
+                "high": 2405.0,
+                "low": 2370.0,
+                "close": 2405.0,
+                "official_change": 5.0,
+                "volume_shares": 28001492.0,
+                "previous_close": 2400.0,
+                "consecutive_close_change": 5.0,
+                "consecutive_close_change_pct": 0.20833333333333334
+              }
+            ],
+            "interpretation_limits": "TSMC price history describes one listed stock only; it is not used to infer orders, demand, or macro causality."
+          }
+        ],
+        "Institutional Flows": [
+          {
+            "label": "TWSE institutional-flow multi-day history",
+            "status": "available",
+            "source": "TWSE BFI82U",
+            "source_url": "https://www.twse.com.tw/rwd/zh/fund/BFI82U",
+            "frequency": "daily",
+            "latest": {
+              "date": "2026-08-18",
+              "foreign_net_twd": -11985811420.0,
+              "investment_trust_net_twd": 3827137607.0,
+              "dealer_proprietary_net_twd": -2173094177.0,
+              "dealer_hedge_net_twd": -15434048324.0,
+              "institutional_total_net_twd": -25765816314.0,
+              "foreign_net_change_twd": -57433096446.0,
+              "investment_trust_net_change_twd": 21603988792.0,
+              "dealer_proprietary_net_change_twd": -5713244017.0,
+              "dealer_hedge_net_change_twd": -13299201400.0,
+              "institutional_total_net_change_twd": -54841553071.0
+            },
+            "history": [
+              {
+                "date": "2026-08-18",
+                "foreign_net_twd": -11985811420.0,
+                "investment_trust_net_twd": 3827137607.0,
+                "dealer_proprietary_net_twd": -2173094177.0,
+                "dealer_hedge_net_twd": -15434048324.0,
+                "institutional_total_net_twd": -25765816314.0,
+                "foreign_net_change_twd": -57433096446.0,
+                "investment_trust_net_change_twd": 21603988792.0,
+                "dealer_proprietary_net_change_twd": -5713244017.0,
+                "dealer_hedge_net_change_twd": -13299201400.0,
+                "institutional_total_net_change_twd": -54841553071.0
+              },
+              {
+                "date": "2026-08-17",
+                "foreign_net_twd": 45447285026.0,
+                "investment_trust_net_twd": -17776851185.0,
+                "dealer_proprietary_net_twd": 3540149840.0,
+                "dealer_hedge_net_twd": -2134846924.0,
+                "institutional_total_net_twd": 29075736757.0,
+                "foreign_net_change_twd": 95954605.0,
+                "investment_trust_net_change_twd": -25749451067.0,
+                "dealer_proprietary_net_change_twd": 6276138216.0,
+                "dealer_hedge_net_change_twd": -3209647191.0,
+                "institutional_total_net_change_twd": -22587005437.0
+              },
+              {
+                "date": "2026-08-14",
+                "foreign_net_twd": 45351330421.0,
+                "investment_trust_net_twd": 7972599882.0,
+                "dealer_proprietary_net_twd": -2735988376.0,
+                "dealer_hedge_net_twd": 1074800267.0,
+                "institutional_total_net_twd": 51662742194.0,
+                "foreign_net_change_twd": -30343186154.0,
+                "investment_trust_net_change_twd": 9474338167.0,
+                "dealer_proprietary_net_change_twd": -5993964437.0,
+                "dealer_hedge_net_change_twd": -10727975077.0,
+                "institutional_total_net_change_twd": -37590787501.0
+              },
+              {
+                "date": "2026-08-13",
+                "foreign_net_twd": 75694516575.0,
+                "investment_trust_net_twd": -1501738285.0,
+                "dealer_proprietary_net_twd": 3257976061.0,
+                "dealer_hedge_net_twd": 11802775344.0,
+                "institutional_total_net_twd": 89253529695.0,
+                "foreign_net_change_twd": 64673704581.0,
+                "investment_trust_net_change_twd": -3778010984.0,
+                "dealer_proprietary_net_change_twd": 2136889595.0,
+                "dealer_hedge_net_change_twd": 4223193075.0,
+                "institutional_total_net_change_twd": 67255776267.0
+              },
+              {
+                "date": "2026-08-12",
+                "foreign_net_twd": 11020811994.0,
+                "investment_trust_net_twd": 2276272699.0,
+                "dealer_proprietary_net_twd": 1121086466.0,
+                "dealer_hedge_net_twd": 7579582269.0,
+                "institutional_total_net_twd": 21997753428.0,
+                "foreign_net_change_twd": -11307871301.0,
+                "investment_trust_net_change_twd": -947795034.0,
+                "dealer_proprietary_net_change_twd": 66491372.0,
+                "dealer_hedge_net_change_twd": 6174037761.0,
+                "institutional_total_net_change_twd": -6015137202.0
+              },
+              {
+                "date": "2026-08-11",
+                "foreign_net_twd": 22328683295.0,
+                "investment_trust_net_twd": 3224067733.0,
+                "dealer_proprietary_net_twd": 1054595094.0,
+                "dealer_hedge_net_twd": 1405544508.0,
+                "institutional_total_net_twd": 28012890630.0,
+                "foreign_net_change_twd": -29411831837.0,
+                "investment_trust_net_change_twd": -177001688.0,
+                "dealer_proprietary_net_change_twd": -4223566105.0,
+                "dealer_hedge_net_change_twd": -11784448638.0,
+                "institutional_total_net_change_twd": -45596848268.0
+              },
+              {
+                "date": "2026-08-10",
+                "foreign_net_twd": 51740515132.0,
+                "investment_trust_net_twd": 3401069421.0,
+                "dealer_proprietary_net_twd": 5278161199.0,
+                "dealer_hedge_net_twd": 13189993146.0,
+                "institutional_total_net_twd": 73609738898.0,
+                "foreign_net_change_twd": 92456258922.0,
+                "investment_trust_net_change_twd": 4602790823.0,
+                "dealer_proprietary_net_change_twd": 4560722875.0,
+                "dealer_hedge_net_change_twd": 14875503344.0,
+                "institutional_total_net_change_twd": 116495275964.0
+              },
+              {
+                "date": "2026-08-07",
+                "foreign_net_twd": -40715743790.0,
+                "investment_trust_net_twd": -1201721402.0,
+                "dealer_proprietary_net_twd": 717438324.0,
+                "dealer_hedge_net_twd": -1685510198.0,
+                "institutional_total_net_twd": -42885537066.0,
+                "foreign_net_change_twd": -42735561930.0,
+                "investment_trust_net_change_twd": -10610108026.0,
+                "dealer_proprietary_net_change_twd": 822459818.0,
+                "dealer_hedge_net_change_twd": 4522286895.0,
+                "institutional_total_net_change_twd": -48000923243.0
+              },
+              {
+                "date": "2026-08-06",
+                "foreign_net_twd": 2019818140.0,
+                "investment_trust_net_twd": 9408386624.0,
+                "dealer_proprietary_net_twd": -105021494.0,
+                "dealer_hedge_net_twd": -6207797093.0,
+                "institutional_total_net_twd": 5115386177.0,
+                "foreign_net_change_twd": -88288507684.0,
+                "investment_trust_net_change_twd": -1857755832.0,
+                "dealer_proprietary_net_change_twd": 2222205170.0,
+                "dealer_hedge_net_change_twd": -9991690899.0,
+                "institutional_total_net_change_twd": -97915749245.0
+              },
+              {
+                "date": "2026-08-05",
+                "foreign_net_twd": 90308325824.0,
+                "investment_trust_net_twd": 11266142456.0,
+                "dealer_proprietary_net_twd": -2327226664.0,
+                "dealer_hedge_net_twd": 3783893806.0,
+                "institutional_total_net_twd": 103031135422.0
+              }
+            ],
+            "interpretation_limits": "Institutional-flow history is descriptive daily trading data; it is not a causal explanation for TAIEX, TSMC, FX, or exports."
+          }
+        ],
+        "Export Categories": [
+          {
+            "label": "Taiwan export categories",
+            "status": "available",
+            "source": "Taiwan MOF",
+            "source_url": "https://service.mof.gov.tw/public/Data/statistic/trade/news/11507/表2.xlsx",
+            "article_url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=77ae31130e3f4024a69d5f89bd109bdc",
+            "frequency": "monthly",
+            "latest_period": "2026-07",
+            "periods": [
+              {
+                "period": "2026-07",
+                "categories": [
+                  {
+                    "name": "資通與視聽產品",
+                    "yoy_pct": 29.52371527852175,
+                    "value_usd_bn": 31.373891,
+                    "share_pct": 41.666318826376816,
+                    "value_change_usd_bn": -2.5450079999999957,
+                    "value_change_pct": -7.503215242924,
+                    "yoy_change_pp": -42.82252003568726,
+                    "share_change_pp": -3.661356043266146
+                  },
+                  {
+                    "name": "電子零組件",
+                    "yoy_pct": 50.526382007874346,
+                    "value_usd_bn": 27.732803,
+                    "share_pct": 36.83074604125766,
+                    "value_change_usd_bn": 2.347793000000003,
+                    "value_change_pct": 9.248737739319399,
+                    "yoy_change_pp": 17.733569525218883,
+                    "share_change_pp": 2.9073725307367226
+                  },
+                  {
+                    "name": "基本金屬及其製品",
+                    "yoy_pct": 24.776391421408018,
+                    "value_usd_bn": 2.8028969999999997,
+                    "value_change_usd_bn": 0.31334799999999996,
+                    "value_change_pct": 12.586536758264247,
+                    "yoy_change_pp": 26.0270463988998
+                  },
+                  {
+                    "name": "機械",
+                    "yoy_pct": 10.82355746677772,
+                    "value_usd_bn": 2.546732,
+                    "value_change_usd_bn": 0.024902999999999675,
+                    "value_change_pct": 0.9874975662505139,
+                    "yoy_change_pp": -3.9911376253579878
+                  },
+                  {
+                    "name": "塑膠、橡膠及其製品",
+                    "yoy_pct": 3.8412330609844836,
+                    "value_usd_bn": 1.546981,
+                    "value_change_usd_bn": 0.0020970000000000155,
+                    "value_change_pct": 0.13573834669787604,
+                    "yoy_change_pp": 4.255784586625634
+                  }
+                ]
+              },
+              {
+                "period": "2026-06",
+                "categories": [
+                  {
+                    "name": "資通與視聽產品",
+                    "yoy_pct": 72.34623531420901,
+                    "value_usd_bn": 33.918898999999996,
+                    "share_pct": 45.32767486964296,
+                    "value_change_usd_bn": -0.9285790000000063,
+                    "value_change_pct": -2.66469498883106,
+                    "yoy_change_pp": -2.8800089500474684,
+                    "share_change_pp": 0.9226474999583729
+                  },
+                  {
+                    "name": "電子零組件",
+                    "yoy_pct": 32.792812482655464,
+                    "value_usd_bn": 25.385009999999998,
+                    "share_pct": 33.92337351052094,
+                    "value_change_usd_bn": -1.445635000000003,
+                    "value_change_pct": -5.387999431247377,
+                    "yoy_change_pp": -23.148710212800154,
+                    "share_change_pp": -0.2660598129262013
+                  },
+                  {
+                    "name": "基本金屬及其製品",
+                    "yoy_pct": -1.2506549774917803,
+                    "value_usd_bn": 2.489549,
+                    "value_change_usd_bn": -0.256402,
+                    "value_change_pct": -9.337457223380898,
+                    "yoy_change_pp": -2.8498158259672106
+                  },
+                  {
+                    "name": "機械",
+                    "yoy_pct": 14.814695092135707,
+                    "value_usd_bn": 2.5218290000000003,
+                    "value_change_usd_bn": -0.2794629999999998,
+                    "value_change_pct": -9.976218116497664,
+                    "yoy_change_pp": -7.77161071853217
+                  },
+                  {
+                    "name": "塑膠、橡膠及其製品",
+                    "yoy_pct": -0.4145515256411496,
+                    "value_usd_bn": 1.544884,
+                    "value_change_usd_bn": -0.2235990000000001,
+                    "value_change_pct": -12.643548170946517,
+                    "yoy_change_pp": -6.370869662469607
+                  }
+                ]
+              },
+              {
+                "period": "2026-05",
+                "categories": [
+                  {
+                    "name": "資通與視聽產品",
+                    "yoy_pct": 75.22624426425648,
+                    "value_usd_bn": 34.847478,
+                    "share_pct": 44.40502736968459,
+                    "value_change_usd_bn": 4.2518870000000035,
+                    "value_change_pct": 13.897057912690766,
+                    "yoy_change_pp": 12.752581004505643,
+                    "share_change_pp": -0.8422388024843883
+                  },
+                  {
+                    "name": "電子零組件",
+                    "yoy_pct": 55.94152269545562,
+                    "value_usd_bn": 26.830645,
+                    "share_pct": 34.18943332344714,
+                    "value_change_usd_bn": 4.065578000000002,
+                    "value_change_pct": 17.85884486964173,
+                    "yoy_change_pp": 17.191983618056582,
+                    "share_change_pp": 0.5225874705181894
+                  },
+                  {
+                    "name": "基本金屬及其製品",
+                    "yoy_pct": 1.5991608484754303,
+                    "value_usd_bn": 2.745951,
+                    "value_change_usd_bn": 0.3390179999999998,
+                    "value_change_pct": 14.085061777789404,
+                    "yoy_change_pp": 2.0199948627197433
+                  },
+                  {
+                    "name": "機械",
+                    "yoy_pct": 22.586305810667877,
+                    "value_usd_bn": 2.801292,
+                    "value_change_usd_bn": 0.5649490000000004,
+                    "value_change_pct": 25.26218026483417,
+                    "yoy_change_pp": 9.73942805111193
+                  },
+                  {
+                    "name": "塑膠、橡膠及其製品",
+                    "yoy_pct": 5.9563181368284575,
+                    "value_usd_bn": 1.768483,
+                    "value_change_usd_bn": 0.1973170000000002,
+                    "value_change_pct": 12.558634797341606,
+                    "yoy_change_pp": 0.43797627203078804
+                  }
+                ]
+              },
+              {
+                "period": "2026-04",
+                "categories": [
+                  {
+                    "name": "資通與視聽產品",
+                    "yoy_pct": 62.473663259750836,
+                    "value_usd_bn": 30.595591,
+                    "share_pct": 45.24726617216898,
+                    "value_change_usd_bn": -9.188123999999995,
+                    "value_change_pct": -23.09518857150469,
+                    "yoy_change_pp": -72.32199329637938,
+                    "share_change_pp": -4.369977774472048
+                  },
+                  {
+                    "name": "電子零組件",
+                    "yoy_pct": 38.749539077399035,
+                    "value_usd_bn": 22.765067,
+                    "share_pct": 33.66684585292895,
+                    "value_change_usd_bn": -2.414263000000002,
+                    "value_change_pct": -9.588273397266732,
+                    "yoy_change_pp": -4.9160355382839,
+                    "share_change_pp": 2.263821800927353
+                  },
+                  {
+                    "name": "基本金屬及其製品",
+                    "yoy_pct": -0.4208340142443129,
+                    "value_usd_bn": 2.406933,
+                    "value_change_usd_bn": 0.055342,
+                    "value_change_pct": 2.3533854313951705,
+                    "yoy_change_pp": 6.872236277872729
+                  },
+                  {
+                    "name": "機械",
+                    "yoy_pct": 12.846877759555946,
+                    "value_usd_bn": 2.2363429999999997,
+                    "value_change_usd_bn": -0.1323240000000001,
+                    "value_change_pct": -5.5864332132798795,
+                    "yoy_change_pp": -3.6198729218137853
+                  },
+                  {
+                    "name": "塑膠、橡膠及其製品",
+                    "yoy_pct": 5.518341864797669,
+                    "value_usd_bn": 1.5711659999999998,
+                    "value_change_usd_bn": -0.10216800000000026,
+                    "value_change_pct": -6.105654937986095,
+                    "yoy_change_pp": 3.747901827430498
+                  }
+                ]
+              },
+              {
+                "period": "2026-03",
+                "categories": [
+                  {
+                    "name": "資通與視聽產品",
+                    "yoy_pct": 134.7956565561302,
+                    "value_usd_bn": 39.783714999999994,
+                    "share_pct": 49.617243946641025,
+                    "value_change_usd_bn": 20.272132999999997,
+                    "value_change_pct": 103.89794635821943,
+                    "yoy_change_pp": 96.12537892677184,
+                    "share_change_pp": 10.428740515585126
+                  },
+                  {
+                    "name": "電子零組件",
+                    "yoy_pct": 43.665574615682935,
+                    "value_usd_bn": 25.17933,
+                    "share_pct": 31.403024052001598,
+                    "value_change_usd_bn": 7.2015090000000015,
+                    "value_change_pct": 40.05774114671629,
+                    "yoy_change_pp": 19.118448009129896,
+                    "share_change_pp": -4.70496042313777
+                  },
+                  {
+                    "name": "基本金屬及其製品",
+                    "yoy_pct": -7.293070292117042,
+                    "value_usd_bn": 2.351591,
+                    "value_change_usd_bn": 0.26159599999999994,
+                    "value_change_pct": 12.516584967906619,
+                    "yoy_change_pp": -2.568839600208162
+                  },
+                  {
+                    "name": "機械",
+                    "yoy_pct": 16.46675068136973,
+                    "value_usd_bn": 2.368667,
+                    "value_change_usd_bn": 0.4724849999999998,
+                    "value_change_pct": 24.917703047492267,
+                    "yoy_change_pp": 6.343913943132026
+                  },
+                  {
+                    "name": "塑膠、橡膠及其製品",
+                    "yoy_pct": 1.7704400373671714,
+                    "value_usd_bn": 1.673334,
+                    "value_change_usd_bn": 0.4222480000000002,
+                    "value_change_pct": 33.75051755035227,
+                    "yoy_change_pp": 14.972588812949445
+                  }
+                ]
+              },
+              {
+                "period": "2026-02",
+                "categories": [
+                  {
+                    "name": "資通與視聽產品",
+                    "yoy_pct": 38.67027762935836,
+                    "value_usd_bn": 19.511581999999997,
+                    "share_pct": 39.1885034310559
+                  },
+                  {
+                    "name": "電子零組件",
+                    "yoy_pct": 24.54712660655304,
+                    "value_usd_bn": 17.977821,
+                    "share_pct": 36.10798447513937
+                  },
+                  {
+                    "name": "基本金屬及其製品",
+                    "yoy_pct": -4.72423069190888,
+                    "value_usd_bn": 2.089995
+                  },
+                  {
+                    "name": "機械",
+                    "yoy_pct": 10.122836738237705,
+                    "value_usd_bn": 1.896182
+                  },
+                  {
+                    "name": "塑膠、橡膠及其製品",
+                    "yoy_pct": -13.202148775582273,
+                    "value_usd_bn": 1.251086
+                  }
+                ]
+              }
+            ],
+            "interpretation_limits": "Monthly export-category data is descriptive; it is not a same-day explanation for equity, FX, or fund-flow moves."
+          }
+        ]
+      },
+      "guardrails": [
+        "TAIEX, TSMC, and institutional flows are daily TWSE data.",
+        "Export-category data is monthly Taiwan MOF goods-trade data.",
+        "Daily and monthly data are shown separately and must not be written as same-day causality.",
+        "No missing value, consensus, surprise, forecast, or causal relationship is inferred.",
+        "Partial source failures remain visible at the individual dataset level."
+      ]
+    }
+  },
   "news_event_context": {
     "Fed / Macro": [
       {
@@ -322,15 +1718,15 @@
       "ok": true,
       "data": {
         "latest": {
+          "date": "2026-08-18",
+          "value": 26289.71
+        },
+        "previous": {
           "date": "2026-08-17",
           "value": 26644.91
         },
-        "previous": {
-          "date": "2026-08-14",
-          "value": 26729.16
-        },
-        "change": -84.25,
-        "change_pct": -0.31519883153829
+        "change": -355.2000000000007,
+        "change_pct": -1.3330876328724726
       }
     },
     "WTI": {
@@ -385,10 +1781,10 @@
           },
           {
             "label": "Nasdaq Composite",
-            "latest_date": "2026-08-17",
-            "latest_value": 26644.91,
-            "ret_5": 0.1486542561348513,
-            "ret_20": 4.456785636859237
+            "latest_date": "2026-08-18",
+            "latest_value": 26289.71,
+            "ret_5": -0.5889103796683423,
+            "ret_20": 1.7513500877223198
           },
           {
             "label": "WTI Spot",
@@ -469,6 +1865,264 @@
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
         "policy_action": "The Federal Open Market Committee approved the following statement for release by a 9 – 3 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate.",
         "summary_text": "The Federal Open Market Committee approved the following statement for release by a 9 – 3 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate. Economic activity is expanding at a solid pace despite elevated uncertainty that owes, in part, to the conflict in the Middle East. Job gains have kept pace with the workforce, and the unemployment rate has changed little. Inflation remains elevated relative to the Committee's 2 percent goal, in part reflecting supply shocks that have driven price increases in certain sectors, including energy."
+      }
+    },
+    "Fed Intelligence": {
+      "ok": true,
+      "data": {
+        "version": "V29 Fed Intelligence",
+        "source": "Federal Reserve",
+        "source_url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+        "frequency": "event",
+        "statements": [
+          {
+            "source": "Federal Reserve",
+            "title": "Federal Reserve issues FOMC statement",
+            "date": "2026-07-29",
+            "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+            "frequency": "event",
+            "fields": {
+              "policy_action": "The Federal Open Market Committee approved the following statement for release by a 9 – 3 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate.",
+              "economic_activity": "Economic activity is expanding at a solid pace despite elevated uncertainty that owes, in part, to the conflict in the Middle East.",
+              "labor_market": "Job gains have kept pace with the workforce, and the unemployment rate has changed little.",
+              "inflation": "Inflation remains elevated relative to the Committee's 2 percent goal, in part reflecting supply shocks that have driven price increases in certain sectors, including energy.",
+              "balance_sheet": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S."
+            },
+            "policy_action": {
+              "action": "hold",
+              "rate_range": {
+                "low": 3.5,
+                "high": 3.75,
+                "text": "3.50-3.75%"
+              },
+              "official_text": "The Federal Open Market Committee approved the following statement for release by a 9 – 3 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate."
+            }
+          },
+          {
+            "source": "Federal Reserve",
+            "title": "Federal Reserve issues FOMC statement",
+            "date": "2026-06-17",
+            "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+            "frequency": "event",
+            "fields": {
+              "policy_action": "The Federal Open Market Committee approved the following statement for release by a 12 – 0 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate.",
+              "economic_activity": "Economic activity is expanding at a solid pace despite elevated uncertainty that owes, in part, to the conflict in the Middle East.",
+              "labor_market": "Job gains have kept pace with the workforce, and the unemployment rate has changed little.",
+              "inflation": "Inflation remains elevated relative to the Committee's 2 percent goal, in part reflecting supply shocks that have driven price increases in certain sectors, including energy.",
+              "balance_sheet": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S."
+            },
+            "policy_action": {
+              "action": "hold",
+              "rate_range": {
+                "low": 3.5,
+                "high": 3.75,
+                "text": "3.50-3.75%"
+              },
+              "official_text": "The Federal Open Market Committee approved the following statement for release by a 12 – 0 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate."
+            }
+          },
+          {
+            "source": "Federal Reserve",
+            "title": "Federal Reserve issues FOMC statement",
+            "date": "2026-04-29",
+            "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm",
+            "frequency": "event",
+            "fields": {
+              "policy_action": "In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 3‑1/2 to 3‑3/4 percent.",
+              "economic_activity": "Recent indicators suggest that economic activity has been expanding at a solid pace.",
+              "labor_market": "Job gains have remained low, on average, and the unemployment rate has been little changed in recent months.",
+              "inflation": "Inflation is elevated, in part reflecting the recent increase in global energy prices.",
+              "balance_sheet": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S."
+            },
+            "policy_action": {
+              "action": "hold",
+              "rate_range": null,
+              "official_text": "In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 3‑1/2 to 3‑3/4 percent."
+            }
+          },
+          {
+            "source": "Federal Reserve",
+            "title": "Federal Reserve issues FOMC statement",
+            "date": "2026-03-18",
+            "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm",
+            "frequency": "event",
+            "fields": {
+              "policy_action": "In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 3‑1/2 to 3‑3/4 percent.",
+              "economic_activity": "Available indicators suggest that economic activity has been expanding at a solid pace.",
+              "labor_market": "Job gains have remained low, and the unemployment rate has been little changed in recent months.",
+              "inflation": "Inflation remains somewhat elevated.",
+              "balance_sheet": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S."
+            },
+            "policy_action": {
+              "action": "hold",
+              "rate_range": null,
+              "official_text": "In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 3‑1/2 to 3‑3/4 percent."
+            }
+          }
+        ],
+        "comparisons": [
+          {
+            "newer_date": "2026-07-29",
+            "older_date": "2026-06-17",
+            "policy_action": {
+              "status": "unchanged",
+              "newer_action": {
+                "action": "hold",
+                "rate_range": {
+                  "low": 3.5,
+                  "high": 3.75,
+                  "text": "3.50-3.75%"
+                },
+                "official_text": "The Federal Open Market Committee approved the following statement for release by a 9 – 3 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate."
+              },
+              "older_action": {
+                "action": "hold",
+                "rate_range": {
+                  "low": 3.5,
+                  "high": 3.75,
+                  "text": "3.50-3.75%"
+                },
+                "official_text": "The Federal Open Market Committee approved the following statement for release by a 12 – 0 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate."
+              }
+            },
+            "wording_changes": [
+              {
+                "field": "economic_activity",
+                "status": "unchanged",
+                "newer_text": "Economic activity is expanding at a solid pace despite elevated uncertainty that owes, in part, to the conflict in the Middle East.",
+                "older_text": "Economic activity is expanding at a solid pace despite elevated uncertainty that owes, in part, to the conflict in the Middle East."
+              },
+              {
+                "field": "labor_market",
+                "status": "unchanged",
+                "newer_text": "Job gains have kept pace with the workforce, and the unemployment rate has changed little.",
+                "older_text": "Job gains have kept pace with the workforce, and the unemployment rate has changed little."
+              },
+              {
+                "field": "inflation",
+                "status": "unchanged",
+                "newer_text": "Inflation remains elevated relative to the Committee's 2 percent goal, in part reflecting supply shocks that have driven price increases in certain sectors, including energy.",
+                "older_text": "Inflation remains elevated relative to the Committee's 2 percent goal, in part reflecting supply shocks that have driven price increases in certain sectors, including energy."
+              },
+              {
+                "field": "balance_sheet",
+                "status": "unchanged",
+                "newer_text": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S.",
+                "older_text": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S."
+              }
+            ],
+            "market_interpretation": {
+              "label": "limited wording change",
+              "text": "No material wording change was detected in the extracted fields; this does not rule out market movement from other information.",
+              "limits": "This is a constrained textual interpretation from official statements only, not a price reaction, forecast, or causal claim."
+            }
+          },
+          {
+            "newer_date": "2026-06-17",
+            "older_date": "2026-04-29",
+            "policy_action": {
+              "status": "changed",
+              "newer_action": {
+                "action": "hold",
+                "rate_range": {
+                  "low": 3.5,
+                  "high": 3.75,
+                  "text": "3.50-3.75%"
+                },
+                "official_text": "The Federal Open Market Committee approved the following statement for release by a 12 – 0 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate."
+              },
+              "older_action": {
+                "action": "hold",
+                "rate_range": null,
+                "official_text": "In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 3‑1/2 to 3‑3/4 percent."
+              }
+            },
+            "wording_changes": [
+              {
+                "field": "economic_activity",
+                "status": "changed",
+                "newer_text": "Economic activity is expanding at a solid pace despite elevated uncertainty that owes, in part, to the conflict in the Middle East.",
+                "older_text": "Recent indicators suggest that economic activity has been expanding at a solid pace."
+              },
+              {
+                "field": "labor_market",
+                "status": "changed",
+                "newer_text": "Job gains have kept pace with the workforce, and the unemployment rate has changed little.",
+                "older_text": "Job gains have remained low, on average, and the unemployment rate has been little changed in recent months."
+              },
+              {
+                "field": "inflation",
+                "status": "changed",
+                "newer_text": "Inflation remains elevated relative to the Committee's 2 percent goal, in part reflecting supply shocks that have driven price increases in certain sectors, including energy.",
+                "older_text": "Inflation is elevated, in part reflecting the recent increase in global energy prices."
+              },
+              {
+                "field": "balance_sheet",
+                "status": "unchanged",
+                "newer_text": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S.",
+                "older_text": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S."
+              }
+            ],
+            "market_interpretation": {
+              "label": "policy action changed",
+              "text": "Market reading should separate the official rate decision from statement wording; any asset-price reaction requires separate market data.",
+              "limits": "This is a constrained textual interpretation from official statements only, not a price reaction, forecast, or causal claim."
+            }
+          },
+          {
+            "newer_date": "2026-04-29",
+            "older_date": "2026-03-18",
+            "policy_action": {
+              "status": "unchanged",
+              "newer_action": {
+                "action": "hold",
+                "rate_range": null,
+                "official_text": "In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 3‑1/2 to 3‑3/4 percent."
+              },
+              "older_action": {
+                "action": "hold",
+                "rate_range": null,
+                "official_text": "In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 3‑1/2 to 3‑3/4 percent."
+              }
+            },
+            "wording_changes": [
+              {
+                "field": "economic_activity",
+                "status": "changed",
+                "newer_text": "Recent indicators suggest that economic activity has been expanding at a solid pace.",
+                "older_text": "Available indicators suggest that economic activity has been expanding at a solid pace."
+              },
+              {
+                "field": "labor_market",
+                "status": "changed",
+                "newer_text": "Job gains have remained low, on average, and the unemployment rate has been little changed in recent months.",
+                "older_text": "Job gains have remained low, and the unemployment rate has been little changed in recent months."
+              },
+              {
+                "field": "inflation",
+                "status": "changed",
+                "newer_text": "Inflation is elevated, in part reflecting the recent increase in global energy prices.",
+                "older_text": "Inflation remains somewhat elevated."
+              },
+              {
+                "field": "balance_sheet",
+                "status": "unchanged",
+                "newer_text": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S.",
+                "older_text": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S."
+              }
+            ],
+            "market_interpretation": {
+              "label": "wording changed without identified rate-action change",
+              "text": "The official action appears unchanged, so market interpretation should focus on changed wording fields: economic_activity, labor_market, inflation.",
+              "limits": "This is a constrained textual interpretation from official statements only, not a price reaction, forecast, or causal claim."
+            }
+          }
+        ],
+        "guardrails": [
+          "Policy action, wording changes, and market interpretation are separated.",
+          "Only official Federal Reserve statements are used for policy text.",
+          "Market interpretation is textual and constrained; it is not a price reaction, forecast, or causal claim."
+        ]
       }
     },
     "AI Official News": {
@@ -554,6 +2208,56 @@
         "yoy_pct": 3.303856050706308
       }
     },
+    "Core CPI": {
+      "ok": true,
+      "data": {
+        "source": "BLS",
+        "source_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/CUSR0000SA0L1E",
+        "series_id": "CUSR0000SA0L1E",
+        "label": "Core CPI, all items less food and energy",
+        "frequency": "monthly",
+        "latest": {
+          "date": "2026-07",
+          "value": 336.789
+        },
+        "previous": {
+          "date": "2026-06",
+          "value": 336.065
+        },
+        "year_ago": {
+          "date": "2025-07",
+          "value": 328.682
+        },
+        "mom_pct": 0.21543451415648446,
+        "yoy_pct": 2.4665177892309194,
+        "interpretation_limits": "BLS index data only; no consensus, surprise, policy causality, or forecast is inferred."
+      }
+    },
+    "PPI Final Demand": {
+      "ok": true,
+      "data": {
+        "source": "BLS",
+        "source_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/WPSFD4",
+        "series_id": "WPSFD4",
+        "label": "PPI final demand, seasonally adjusted",
+        "frequency": "monthly",
+        "latest": {
+          "date": "2026-07",
+          "value": 156.563
+        },
+        "previous": {
+          "date": "2026-06",
+          "value": 156.607
+        },
+        "year_ago": {
+          "date": "2025-07",
+          "value": 149.597
+        },
+        "mom_pct": -0.028095806700857012,
+        "yoy_pct": 4.656510491520538,
+        "interpretation_limits": "BLS index data only; no consensus, surprise, policy causality, or forecast is inferred."
+      }
+    },
     "Unemployment Rate": {
       "ok": true,
       "data": {
@@ -628,6 +2332,54 @@
         "series_id": "PCEPILFE"
       }
     },
+    "Initial Jobless Claims": {
+      "ok": true,
+      "data": {
+        "source": "DOL ETA",
+        "source_url": "https://oui.doleta.gov/unemploy/csv/ar539.csv",
+        "series_id": "ETA 539 c3",
+        "label": "Initial jobless claims",
+        "frequency": "weekly",
+        "latest": {
+          "date": "2026-08-01",
+          "value": 188718
+        },
+        "previous": {
+          "date": "2026-07-25",
+          "value": 172053
+        },
+        "change": 16665,
+        "aggregation": "sum of jurisdiction rows",
+        "interpretation_limits": "Official weekly claims data only; no consensus, surprise, seasonal-adjustment assumption, causality, or forecast is inferred."
+      }
+    },
+    "Retail Sales": {
+      "ok": true,
+      "data": {
+        "source": "U.S. Census Bureau MARTS",
+        "source_url": "https://www.census.gov/retail/marts/www/adv44X72.txt",
+        "label": "Retail and food services sales",
+        "frequency": "monthly",
+        "latest": {
+          "date": "2026-07",
+          "value_millions": 763602,
+          "value_usd_bn": 763.602
+        },
+        "previous": {
+          "date": "2026-06",
+          "value_millions": 768072,
+          "value_usd_bn": 768.072
+        },
+        "year_ago": {
+          "date": "2025-07",
+          "value_millions": 727176,
+          "value_usd_bn": 727.176
+        },
+        "mom_pct": -0.581976689685342,
+        "yoy_pct": 5.009241229083468,
+        "interpretation_limits": "Adjusted sales data are not price-adjusted; no consensus, surprise, causality, or forecast is inferred."
+      }
+    },
     "EIA Crude Inventory": {
       "ok": true,
       "data": {
@@ -644,6 +2396,243 @@
         "change_mmbbl": 17.423
       }
     },
+    "EIA Gasoline Inventory": {
+      "ok": true,
+      "data": {
+        "source": "EIA",
+        "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WGTSTUS1&f=W",
+        "series_id": "PET.WGTSTUS1.W",
+        "label": "Total motor gasoline stocks",
+        "frequency": "weekly",
+        "group": "Inventories",
+        "unit": "million barrels",
+        "change_unit": "million barrels",
+        "latest": {
+          "date": "2026-08-07",
+          "value": 208.69,
+          "raw_value": 208690.0
+        },
+        "previous": {
+          "date": "2026-07-31",
+          "value": 209.65800000000002,
+          "raw_value": 209658.0
+        },
+        "change": -0.9680000000000177,
+        "interpretation_limits": "EIA weekly petroleum data only; no inventory-surprise, demand causality, price forecast, or market reaction is inferred."
+      }
+    },
+    "EIA Distillate Inventory": {
+      "ok": true,
+      "data": {
+        "source": "EIA",
+        "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WDISTUS1&f=W",
+        "series_id": "PET.WDISTUS1.W",
+        "label": "Distillate fuel oil stocks",
+        "frequency": "weekly",
+        "group": "Inventories",
+        "unit": "million barrels",
+        "change_unit": "million barrels",
+        "latest": {
+          "date": "2026-08-07",
+          "value": 107.149,
+          "raw_value": 107149.0
+        },
+        "previous": {
+          "date": "2026-07-31",
+          "value": 107.159,
+          "raw_value": 107159.0
+        },
+        "change": -0.010000000000005116,
+        "interpretation_limits": "EIA weekly petroleum data only; no inventory-surprise, demand causality, price forecast, or market reaction is inferred."
+      }
+    },
+    "EIA Crude Production": {
+      "ok": true,
+      "data": {
+        "source": "EIA",
+        "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCRFPUS2&f=W",
+        "series_id": "PET.WCRFPUS2.W",
+        "label": "U.S. crude oil field production",
+        "frequency": "weekly",
+        "group": "Supply",
+        "unit": "million barrels per day",
+        "change_unit": "million barrels per day",
+        "latest": {
+          "date": "2026-08-07",
+          "value": 13.805,
+          "raw_value": 13805.0
+        },
+        "previous": {
+          "date": "2026-07-31",
+          "value": 13.804,
+          "raw_value": 13804.0
+        },
+        "change": 0.0009999999999994458,
+        "interpretation_limits": "EIA weekly petroleum data only; no inventory-surprise, demand causality, price forecast, or market reaction is inferred."
+      }
+    },
+    "EIA Crude Imports": {
+      "ok": true,
+      "data": {
+        "source": "EIA",
+        "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCRIMUS2&f=W",
+        "series_id": "PET.WCRIMUS2.W",
+        "label": "U.S. crude oil imports",
+        "frequency": "weekly",
+        "group": "Supply",
+        "unit": "million barrels per day",
+        "change_unit": "million barrels per day",
+        "latest": {
+          "date": "2026-08-07",
+          "value": 7.339,
+          "raw_value": 7339.0
+        },
+        "previous": {
+          "date": "2026-07-31",
+          "value": 6.198,
+          "raw_value": 6198.0
+        },
+        "change": 1.141,
+        "interpretation_limits": "EIA weekly petroleum data only; no inventory-surprise, demand causality, price forecast, or market reaction is inferred."
+      }
+    },
+    "EIA Refinery Utilization": {
+      "ok": true,
+      "data": {
+        "source": "EIA",
+        "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WPULEUS3&f=W",
+        "series_id": "PET.WPULEUS3.W",
+        "label": "Refinery operable capacity utilization",
+        "frequency": "weekly",
+        "group": "Refining",
+        "unit": "percent",
+        "change_unit": "percentage points",
+        "latest": {
+          "date": "2026-08-07",
+          "value": 96.2,
+          "raw_value": 96.2
+        },
+        "previous": {
+          "date": "2026-07-31",
+          "value": 96.5,
+          "raw_value": 96.5
+        },
+        "change": -0.29999999999999716,
+        "interpretation_limits": "EIA weekly petroleum data only; no inventory-surprise, demand causality, price forecast, or market reaction is inferred."
+      }
+    },
+    "Oil Intelligence": {
+      "ok": true,
+      "data": {
+        "version": "V30 Oil Intelligence",
+        "source": "EIA",
+        "frequency": "weekly",
+        "panels": {
+          "Inventories": [
+            {
+              "label": "Commercial crude oil inventories ex-SPR",
+              "status": "available",
+              "date": "2026-08-07",
+              "frequency": "weekly",
+              "value": 424.41,
+              "value_text": "424.4 million barrels",
+              "change": 17.423,
+              "change_unit": "million barrels",
+              "source": "EIA",
+              "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCESTUS1&f=W",
+              "series_id": "PET.WCESTUS1.W",
+              "group": "Inventories",
+              "interpretation_limits": "EIA weekly petroleum data only; no consensus, surprise, price causality, or forecast is inferred."
+            },
+            {
+              "label": "Total motor gasoline stocks",
+              "status": "available",
+              "date": "2026-08-07",
+              "frequency": "weekly",
+              "value": 208.69,
+              "value_text": "208.7 million barrels",
+              "change": -0.9680000000000177,
+              "change_unit": "million barrels",
+              "source": "EIA",
+              "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WGTSTUS1&f=W",
+              "series_id": "PET.WGTSTUS1.W",
+              "group": "Inventories",
+              "interpretation_limits": "EIA weekly petroleum data only; no inventory-surprise, demand causality, price forecast, or market reaction is inferred."
+            },
+            {
+              "label": "Distillate fuel oil stocks",
+              "status": "available",
+              "date": "2026-08-07",
+              "frequency": "weekly",
+              "value": 107.149,
+              "value_text": "107.1 million barrels",
+              "change": -0.010000000000005116,
+              "change_unit": "million barrels",
+              "source": "EIA",
+              "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WDISTUS1&f=W",
+              "series_id": "PET.WDISTUS1.W",
+              "group": "Inventories",
+              "interpretation_limits": "EIA weekly petroleum data only; no inventory-surprise, demand causality, price forecast, or market reaction is inferred."
+            }
+          ],
+          "Supply": [
+            {
+              "label": "U.S. crude oil field production",
+              "status": "available",
+              "date": "2026-08-07",
+              "frequency": "weekly",
+              "value": 13.805,
+              "value_text": "13.805 million barrels per day",
+              "change": 0.0009999999999994458,
+              "change_unit": "million barrels per day",
+              "source": "EIA",
+              "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCRFPUS2&f=W",
+              "series_id": "PET.WCRFPUS2.W",
+              "group": "Supply",
+              "interpretation_limits": "EIA weekly petroleum data only; no inventory-surprise, demand causality, price forecast, or market reaction is inferred."
+            },
+            {
+              "label": "U.S. crude oil imports",
+              "status": "available",
+              "date": "2026-08-07",
+              "frequency": "weekly",
+              "value": 7.339,
+              "value_text": "7.339 million barrels per day",
+              "change": 1.141,
+              "change_unit": "million barrels per day",
+              "source": "EIA",
+              "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCRIMUS2&f=W",
+              "series_id": "PET.WCRIMUS2.W",
+              "group": "Supply",
+              "interpretation_limits": "EIA weekly petroleum data only; no inventory-surprise, demand causality, price forecast, or market reaction is inferred."
+            }
+          ],
+          "Refining": [
+            {
+              "label": "Refinery operable capacity utilization",
+              "status": "available",
+              "date": "2026-08-07",
+              "frequency": "weekly",
+              "value": 96.2,
+              "value_text": "96.2 percent",
+              "change": -0.29999999999999716,
+              "change_unit": "percentage points",
+              "source": "EIA",
+              "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WPULEUS3&f=W",
+              "series_id": "PET.WPULEUS3.W",
+              "group": "Refining",
+              "interpretation_limits": "EIA weekly petroleum data only; no inventory-surprise, demand causality, price forecast, or market reaction is inferred."
+            }
+          ]
+        },
+        "guardrails": [
+          "All oil data uses official EIA weekly series.",
+          "Inventory and flow series are not mixed into same-unit calculations.",
+          "No inventory surprise, consensus estimate, causal price claim, or forecast is generated.",
+          "Partial source failures remain visible at the individual dataset level."
+        ]
+      }
+    },
     "US 10Y Treasury": {
       "ok": true,
       "data": {
@@ -657,6 +2646,47 @@
           "value": 4.68
         },
         "change_bps": 4.0000000000000036
+      }
+    },
+    "US 2Y Treasury": {
+      "ok": true,
+      "data": {
+        "source": "U.S. Treasury",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml",
+        "label": "2-year Treasury par yield",
+        "frequency": "daily",
+        "latest": {
+          "date": "2026-08-18",
+          "value": 4.19
+        },
+        "previous": {
+          "date": "2026-08-17",
+          "value": 4.19
+        },
+        "change_bps": 0.0
+      }
+    },
+    "2Y-10Y Yield Spread": {
+      "ok": true,
+      "data": {
+        "source": "U.S. Treasury",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml",
+        "label": "2Y-10Y Treasury yield spread",
+        "frequency": "daily",
+        "latest": {
+          "date": "2026-08-18",
+          "spread_bps": 51.99999999999996,
+          "two_year": 4.19,
+          "ten_year": 4.71
+        },
+        "previous": {
+          "date": "2026-08-17",
+          "spread_bps": 52.999999999999936,
+          "two_year": 4.19,
+          "ten_year": 4.72
+        },
+        "change_bps": -0.9999999999999787,
+        "interpretation_limits": "Spread is computed only from same-date official Treasury curve fields; it is not a recession forecast."
       }
     },
     "USD/TWD": {
@@ -721,6 +2751,296 @@
         "article_url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=77ae31130e3f4024a69d5f89bd109bdc"
       }
     },
+    "Taiwan Export Category History": {
+      "ok": true,
+      "data": {
+        "source": "Taiwan MOF",
+        "source_url": "https://service.mof.gov.tw/public/Data/statistic/trade/news/11507/表2.xlsx",
+        "article_url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=77ae31130e3f4024a69d5f89bd109bdc",
+        "frequency": "monthly",
+        "latest_period": "2026-07",
+        "periods": [
+          {
+            "period": "2026-07",
+            "categories": [
+              {
+                "name": "資通與視聽產品",
+                "yoy_pct": 29.52371527852175,
+                "value_usd_bn": 31.373891,
+                "share_pct": 41.666318826376816,
+                "value_change_usd_bn": -2.5450079999999957,
+                "value_change_pct": -7.503215242924,
+                "yoy_change_pp": -42.82252003568726,
+                "share_change_pp": -3.661356043266146
+              },
+              {
+                "name": "電子零組件",
+                "yoy_pct": 50.526382007874346,
+                "value_usd_bn": 27.732803,
+                "share_pct": 36.83074604125766,
+                "value_change_usd_bn": 2.347793000000003,
+                "value_change_pct": 9.248737739319399,
+                "yoy_change_pp": 17.733569525218883,
+                "share_change_pp": 2.9073725307367226
+              },
+              {
+                "name": "基本金屬及其製品",
+                "yoy_pct": 24.776391421408018,
+                "value_usd_bn": 2.8028969999999997,
+                "value_change_usd_bn": 0.31334799999999996,
+                "value_change_pct": 12.586536758264247,
+                "yoy_change_pp": 26.0270463988998
+              },
+              {
+                "name": "機械",
+                "yoy_pct": 10.82355746677772,
+                "value_usd_bn": 2.546732,
+                "value_change_usd_bn": 0.024902999999999675,
+                "value_change_pct": 0.9874975662505139,
+                "yoy_change_pp": -3.9911376253579878
+              },
+              {
+                "name": "塑膠、橡膠及其製品",
+                "yoy_pct": 3.8412330609844836,
+                "value_usd_bn": 1.546981,
+                "value_change_usd_bn": 0.0020970000000000155,
+                "value_change_pct": 0.13573834669787604,
+                "yoy_change_pp": 4.255784586625634
+              }
+            ]
+          },
+          {
+            "period": "2026-06",
+            "categories": [
+              {
+                "name": "資通與視聽產品",
+                "yoy_pct": 72.34623531420901,
+                "value_usd_bn": 33.918898999999996,
+                "share_pct": 45.32767486964296,
+                "value_change_usd_bn": -0.9285790000000063,
+                "value_change_pct": -2.66469498883106,
+                "yoy_change_pp": -2.8800089500474684,
+                "share_change_pp": 0.9226474999583729
+              },
+              {
+                "name": "電子零組件",
+                "yoy_pct": 32.792812482655464,
+                "value_usd_bn": 25.385009999999998,
+                "share_pct": 33.92337351052094,
+                "value_change_usd_bn": -1.445635000000003,
+                "value_change_pct": -5.387999431247377,
+                "yoy_change_pp": -23.148710212800154,
+                "share_change_pp": -0.2660598129262013
+              },
+              {
+                "name": "基本金屬及其製品",
+                "yoy_pct": -1.2506549774917803,
+                "value_usd_bn": 2.489549,
+                "value_change_usd_bn": -0.256402,
+                "value_change_pct": -9.337457223380898,
+                "yoy_change_pp": -2.8498158259672106
+              },
+              {
+                "name": "機械",
+                "yoy_pct": 14.814695092135707,
+                "value_usd_bn": 2.5218290000000003,
+                "value_change_usd_bn": -0.2794629999999998,
+                "value_change_pct": -9.976218116497664,
+                "yoy_change_pp": -7.77161071853217
+              },
+              {
+                "name": "塑膠、橡膠及其製品",
+                "yoy_pct": -0.4145515256411496,
+                "value_usd_bn": 1.544884,
+                "value_change_usd_bn": -0.2235990000000001,
+                "value_change_pct": -12.643548170946517,
+                "yoy_change_pp": -6.370869662469607
+              }
+            ]
+          },
+          {
+            "period": "2026-05",
+            "categories": [
+              {
+                "name": "資通與視聽產品",
+                "yoy_pct": 75.22624426425648,
+                "value_usd_bn": 34.847478,
+                "share_pct": 44.40502736968459,
+                "value_change_usd_bn": 4.2518870000000035,
+                "value_change_pct": 13.897057912690766,
+                "yoy_change_pp": 12.752581004505643,
+                "share_change_pp": -0.8422388024843883
+              },
+              {
+                "name": "電子零組件",
+                "yoy_pct": 55.94152269545562,
+                "value_usd_bn": 26.830645,
+                "share_pct": 34.18943332344714,
+                "value_change_usd_bn": 4.065578000000002,
+                "value_change_pct": 17.85884486964173,
+                "yoy_change_pp": 17.191983618056582,
+                "share_change_pp": 0.5225874705181894
+              },
+              {
+                "name": "基本金屬及其製品",
+                "yoy_pct": 1.5991608484754303,
+                "value_usd_bn": 2.745951,
+                "value_change_usd_bn": 0.3390179999999998,
+                "value_change_pct": 14.085061777789404,
+                "yoy_change_pp": 2.0199948627197433
+              },
+              {
+                "name": "機械",
+                "yoy_pct": 22.586305810667877,
+                "value_usd_bn": 2.801292,
+                "value_change_usd_bn": 0.5649490000000004,
+                "value_change_pct": 25.26218026483417,
+                "yoy_change_pp": 9.73942805111193
+              },
+              {
+                "name": "塑膠、橡膠及其製品",
+                "yoy_pct": 5.9563181368284575,
+                "value_usd_bn": 1.768483,
+                "value_change_usd_bn": 0.1973170000000002,
+                "value_change_pct": 12.558634797341606,
+                "yoy_change_pp": 0.43797627203078804
+              }
+            ]
+          },
+          {
+            "period": "2026-04",
+            "categories": [
+              {
+                "name": "資通與視聽產品",
+                "yoy_pct": 62.473663259750836,
+                "value_usd_bn": 30.595591,
+                "share_pct": 45.24726617216898,
+                "value_change_usd_bn": -9.188123999999995,
+                "value_change_pct": -23.09518857150469,
+                "yoy_change_pp": -72.32199329637938,
+                "share_change_pp": -4.369977774472048
+              },
+              {
+                "name": "電子零組件",
+                "yoy_pct": 38.749539077399035,
+                "value_usd_bn": 22.765067,
+                "share_pct": 33.66684585292895,
+                "value_change_usd_bn": -2.414263000000002,
+                "value_change_pct": -9.588273397266732,
+                "yoy_change_pp": -4.9160355382839,
+                "share_change_pp": 2.263821800927353
+              },
+              {
+                "name": "基本金屬及其製品",
+                "yoy_pct": -0.4208340142443129,
+                "value_usd_bn": 2.406933,
+                "value_change_usd_bn": 0.055342,
+                "value_change_pct": 2.3533854313951705,
+                "yoy_change_pp": 6.872236277872729
+              },
+              {
+                "name": "機械",
+                "yoy_pct": 12.846877759555946,
+                "value_usd_bn": 2.2363429999999997,
+                "value_change_usd_bn": -0.1323240000000001,
+                "value_change_pct": -5.5864332132798795,
+                "yoy_change_pp": -3.6198729218137853
+              },
+              {
+                "name": "塑膠、橡膠及其製品",
+                "yoy_pct": 5.518341864797669,
+                "value_usd_bn": 1.5711659999999998,
+                "value_change_usd_bn": -0.10216800000000026,
+                "value_change_pct": -6.105654937986095,
+                "yoy_change_pp": 3.747901827430498
+              }
+            ]
+          },
+          {
+            "period": "2026-03",
+            "categories": [
+              {
+                "name": "資通與視聽產品",
+                "yoy_pct": 134.7956565561302,
+                "value_usd_bn": 39.783714999999994,
+                "share_pct": 49.617243946641025,
+                "value_change_usd_bn": 20.272132999999997,
+                "value_change_pct": 103.89794635821943,
+                "yoy_change_pp": 96.12537892677184,
+                "share_change_pp": 10.428740515585126
+              },
+              {
+                "name": "電子零組件",
+                "yoy_pct": 43.665574615682935,
+                "value_usd_bn": 25.17933,
+                "share_pct": 31.403024052001598,
+                "value_change_usd_bn": 7.2015090000000015,
+                "value_change_pct": 40.05774114671629,
+                "yoy_change_pp": 19.118448009129896,
+                "share_change_pp": -4.70496042313777
+              },
+              {
+                "name": "基本金屬及其製品",
+                "yoy_pct": -7.293070292117042,
+                "value_usd_bn": 2.351591,
+                "value_change_usd_bn": 0.26159599999999994,
+                "value_change_pct": 12.516584967906619,
+                "yoy_change_pp": -2.568839600208162
+              },
+              {
+                "name": "機械",
+                "yoy_pct": 16.46675068136973,
+                "value_usd_bn": 2.368667,
+                "value_change_usd_bn": 0.4724849999999998,
+                "value_change_pct": 24.917703047492267,
+                "yoy_change_pp": 6.343913943132026
+              },
+              {
+                "name": "塑膠、橡膠及其製品",
+                "yoy_pct": 1.7704400373671714,
+                "value_usd_bn": 1.673334,
+                "value_change_usd_bn": 0.4222480000000002,
+                "value_change_pct": 33.75051755035227,
+                "yoy_change_pp": 14.972588812949445
+              }
+            ]
+          },
+          {
+            "period": "2026-02",
+            "categories": [
+              {
+                "name": "資通與視聽產品",
+                "yoy_pct": 38.67027762935836,
+                "value_usd_bn": 19.511581999999997,
+                "share_pct": 39.1885034310559
+              },
+              {
+                "name": "電子零組件",
+                "yoy_pct": 24.54712660655304,
+                "value_usd_bn": 17.977821,
+                "share_pct": 36.10798447513937
+              },
+              {
+                "name": "基本金屬及其製品",
+                "yoy_pct": -4.72423069190888,
+                "value_usd_bn": 2.089995
+              },
+              {
+                "name": "機械",
+                "yoy_pct": 10.122836738237705,
+                "value_usd_bn": 1.896182
+              },
+              {
+                "name": "塑膠、橡膠及其製品",
+                "yoy_pct": -13.202148775582273,
+                "value_usd_bn": 1.251086
+              }
+            ]
+          }
+        ],
+        "interpretation_limits": "Monthly export-category data is descriptive; it is not a same-day explanation for equity, FX, or fund-flow moves."
+      }
+    },
     "TAIEX": {
       "ok": true,
       "data": {
@@ -732,15 +3052,397 @@
         "change_pct": "-1.20"
       }
     },
+    "TAIEX History": {
+      "ok": true,
+      "data": {
+        "source": "TWSE MI_INDEX",
+        "source_url": "https://www.twse.com.tw/exchangeReport/MI_INDEX",
+        "frequency": "daily",
+        "history": [
+          {
+            "date": "2026-08-19",
+            "close": 44719.35,
+            "official_direction": "<p style ='color:green'>-</p>",
+            "official_change": 589.33,
+            "official_change_pct": -1.3,
+            "previous_close": 45308.68,
+            "consecutive_close_change": -589.3300000000017,
+            "consecutive_close_change_pct": -1.300699998322621
+          },
+          {
+            "date": "2026-08-18",
+            "close": 45308.68,
+            "official_direction": "<p style ='color:green'>-</p>",
+            "official_change": 548.59,
+            "official_change_pct": -1.2,
+            "previous_close": 45857.27,
+            "consecutive_close_change": -548.5899999999965,
+            "consecutive_close_change_pct": -1.196298863844264
+          },
+          {
+            "date": "2026-08-17",
+            "close": 45857.27,
+            "official_direction": "<p style ='color:red'>+</p>",
+            "official_change": 46.26,
+            "official_change_pct": 0.1,
+            "previous_close": 45811.01,
+            "consecutive_close_change": 46.25999999999476,
+            "consecutive_close_change_pct": 0.10098009190365977
+          },
+          {
+            "date": "2026-08-14",
+            "close": 45811.01,
+            "official_direction": "<p style ='color:green'>-</p>",
+            "official_change": 210.47,
+            "official_change_pct": -0.46,
+            "previous_close": 46021.48,
+            "consecutive_close_change": -210.47000000000116,
+            "consecutive_close_change_pct": -0.4573299250697742
+          },
+          {
+            "date": "2026-08-13",
+            "close": 46021.48,
+            "official_direction": "<p style ='color:red'>+</p>",
+            "official_change": 503.41,
+            "official_change_pct": 1.11,
+            "previous_close": 45518.07,
+            "consecutive_close_change": 503.4100000000035,
+            "consecutive_close_change_pct": 1.105956381718301
+          },
+          {
+            "date": "2026-08-12",
+            "close": 45518.07,
+            "official_direction": "<p style ='color:red'>+</p>",
+            "official_change": 397.35,
+            "official_change_pct": 0.88,
+            "previous_close": 45120.72,
+            "consecutive_close_change": 397.34999999999854,
+            "consecutive_close_change_pct": 0.8806375430179272
+          },
+          {
+            "date": "2026-08-11",
+            "close": 45120.72,
+            "official_direction": "<p style ='color:red'>+</p>",
+            "official_change": 191.96,
+            "official_change_pct": 0.43,
+            "previous_close": 44928.76,
+            "consecutive_close_change": 191.95999999999913,
+            "consecutive_close_change_pct": 0.427254168599354
+          },
+          {
+            "date": "2026-08-10",
+            "close": 44928.76,
+            "official_direction": "<p style ='color:red'>+</p>",
+            "official_change": 702.85,
+            "official_change_pct": 1.59,
+            "previous_close": 44225.91,
+            "consecutive_close_change": 702.8499999999985,
+            "consecutive_close_change_pct": 1.5892267677476812
+          },
+          {
+            "date": "2026-08-07",
+            "close": 44225.91,
+            "official_direction": "<p style ='color:green'>-</p>",
+            "official_change": 170.79,
+            "official_change_pct": -0.38,
+            "previous_close": 44396.7,
+            "consecutive_close_change": -170.7899999999936,
+            "consecutive_close_change_pct": -0.3846907540425158
+          },
+          {
+            "date": "2026-08-06",
+            "close": 44396.7,
+            "official_direction": "<p style ='color:green'>-</p>",
+            "official_change": 214.9,
+            "official_change_pct": -0.48
+          }
+        ],
+        "latest": {
+          "date": "2026-08-19",
+          "close": 44719.35,
+          "official_direction": "<p style ='color:green'>-</p>",
+          "official_change": 589.33,
+          "official_change_pct": -1.3,
+          "previous_close": 45308.68,
+          "consecutive_close_change": -589.3300000000017,
+          "consecutive_close_change_pct": -1.300699998322621
+        },
+        "interpretation_limits": "TAIEX history is daily market data; it does not explain monthly exports or fund flows without same-date evidence."
+      }
+    },
     "TSMC 2330": {
       "ok": true,
       "data": {
-        "date": "115/08/18",
-        "open": "2,415.00",
-        "high": "2,415.00",
-        "low": "2,375.00",
-        "close": "2,380.00",
-        "change": "-20.00"
+        "date": "115/08/19",
+        "open": "2,340.00",
+        "high": "2,355.00",
+        "low": "2,335.00",
+        "close": "2,350.00",
+        "change": "-30.00"
+      }
+    },
+    "TSMC History": {
+      "ok": true,
+      "data": {
+        "source": "TWSE STOCK_DAY",
+        "source_url": "https://www.twse.com.tw/exchangeReport/STOCK_DAY",
+        "stock_no": "2330",
+        "frequency": "daily",
+        "history": [
+          {
+            "date": "2026-08-19",
+            "open": 2340.0,
+            "high": 2355.0,
+            "low": 2335.0,
+            "close": 2350.0,
+            "official_change": -30.0,
+            "volume_shares": 19998000.0,
+            "previous_close": 2380.0,
+            "consecutive_close_change": -30.0,
+            "consecutive_close_change_pct": -1.2605042016806722
+          },
+          {
+            "date": "2026-08-18",
+            "open": 2415.0,
+            "high": 2415.0,
+            "low": 2375.0,
+            "close": 2380.0,
+            "official_change": -20.0,
+            "volume_shares": 19997213.0,
+            "previous_close": 2400.0,
+            "consecutive_close_change": -20.0,
+            "consecutive_close_change_pct": -0.8333333333333334
+          },
+          {
+            "date": "2026-08-17",
+            "open": 2410.0,
+            "high": 2420.0,
+            "low": 2390.0,
+            "close": 2400.0,
+            "official_change": 5.0,
+            "volume_shares": 13482456.0,
+            "previous_close": 2395.0,
+            "consecutive_close_change": 5.0,
+            "consecutive_close_change_pct": 0.20876826722338201
+          },
+          {
+            "date": "2026-08-14",
+            "open": 2435.0,
+            "high": 2440.0,
+            "low": 2395.0,
+            "close": 2395.0,
+            "official_change": -40.0,
+            "volume_shares": 21162682.0,
+            "previous_close": 2435.0,
+            "consecutive_close_change": -40.0,
+            "consecutive_close_change_pct": -1.642710472279261
+          },
+          {
+            "date": "2026-08-13",
+            "open": 2440.0,
+            "high": 2445.0,
+            "low": 2425.0,
+            "close": 2435.0,
+            "official_change": 20.0,
+            "volume_shares": 26233385.0,
+            "previous_close": 2415.0,
+            "consecutive_close_change": 20.0,
+            "consecutive_close_change_pct": 0.8281573498964804
+          },
+          {
+            "date": "2026-08-12",
+            "open": 2405.0,
+            "high": 2415.0,
+            "low": 2390.0,
+            "close": 2415.0,
+            "official_change": 20.0,
+            "volume_shares": 19448153.0,
+            "previous_close": 2395.0,
+            "consecutive_close_change": 20.0,
+            "consecutive_close_change_pct": 0.8350730688935281
+          },
+          {
+            "date": "2026-08-11",
+            "open": 2390.0,
+            "high": 2405.0,
+            "low": 2375.0,
+            "close": 2395.0,
+            "official_change": 15.0,
+            "volume_shares": 18247582.0,
+            "previous_close": 2380.0,
+            "consecutive_close_change": 15.0,
+            "consecutive_close_change_pct": 0.6302521008403361
+          },
+          {
+            "date": "2026-08-10",
+            "open": 2390.0,
+            "high": 2410.0,
+            "low": 2380.0,
+            "close": 2380.0,
+            "official_change": 10.0,
+            "volume_shares": 21498241.0,
+            "previous_close": 2370.0,
+            "consecutive_close_change": 10.0,
+            "consecutive_close_change_pct": 0.42194092827004215
+          },
+          {
+            "date": "2026-08-07",
+            "open": 2390.0,
+            "high": 2395.0,
+            "low": 2355.0,
+            "close": 2370.0,
+            "official_change": 5.0,
+            "volume_shares": 24414025.0,
+            "previous_close": 2365.0,
+            "consecutive_close_change": 5.0,
+            "consecutive_close_change_pct": 0.21141649048625794
+          },
+          {
+            "date": "2026-08-06",
+            "open": 2395.0,
+            "high": 2395.0,
+            "low": 2360.0,
+            "close": 2365.0,
+            "official_change": -40.0,
+            "volume_shares": 25536816.0,
+            "previous_close": 2405.0,
+            "consecutive_close_change": -40.0,
+            "consecutive_close_change_pct": -1.6632016632016633
+          },
+          {
+            "date": "2026-08-05",
+            "open": 2385.0,
+            "high": 2415.0,
+            "low": 2370.0,
+            "close": 2405.0,
+            "official_change": 85.0,
+            "volume_shares": 36782301.0,
+            "previous_close": 2320.0,
+            "consecutive_close_change": 85.0,
+            "consecutive_close_change_pct": 3.6637931034482754
+          },
+          {
+            "date": "2026-08-04",
+            "open": 2335.0,
+            "high": 2360.0,
+            "low": 2310.0,
+            "close": 2320.0,
+            "official_change": -50.0,
+            "volume_shares": 41021199.0,
+            "previous_close": 2370.0,
+            "consecutive_close_change": -50.0,
+            "consecutive_close_change_pct": -2.109704641350211
+          },
+          {
+            "date": "2026-08-03",
+            "open": 2390.0,
+            "high": 2395.0,
+            "low": 2365.0,
+            "close": 2370.0,
+            "official_change": -55.0,
+            "volume_shares": 35209944.0,
+            "previous_close": 2425.0,
+            "consecutive_close_change": -55.0,
+            "consecutive_close_change_pct": -2.268041237113402
+          },
+          {
+            "date": "2026-07-31",
+            "open": 2350.0,
+            "high": 2425.0,
+            "low": 2345.0,
+            "close": 2425.0,
+            "official_change": 220.0,
+            "volume_shares": 69478145.0,
+            "previous_close": 2205.0,
+            "consecutive_close_change": 220.0,
+            "consecutive_close_change_pct": 9.977324263038549
+          },
+          {
+            "date": "2026-07-30",
+            "open": 2205.0,
+            "high": 2260.0,
+            "low": 2190.0,
+            "close": 2205.0,
+            "official_change": 5.0,
+            "volume_shares": 51372177.0,
+            "previous_close": 2200.0,
+            "consecutive_close_change": 5.0,
+            "consecutive_close_change_pct": 0.22727272727272727
+          },
+          {
+            "date": "2026-07-29",
+            "open": 2260.0,
+            "high": 2280.0,
+            "low": 2180.0,
+            "close": 2200.0,
+            "official_change": -80.0,
+            "volume_shares": 68139691.0,
+            "previous_close": 2280.0,
+            "consecutive_close_change": -80.0,
+            "consecutive_close_change_pct": -3.508771929824561
+          },
+          {
+            "date": "2026-07-28",
+            "open": 2270.0,
+            "high": 2305.0,
+            "low": 2270.0,
+            "close": 2280.0,
+            "official_change": -70.0,
+            "volume_shares": 45333029.0,
+            "previous_close": 2350.0,
+            "consecutive_close_change": -70.0,
+            "consecutive_close_change_pct": -2.9787234042553195
+          },
+          {
+            "date": "2026-07-27",
+            "open": 2330.0,
+            "high": 2365.0,
+            "low": 2330.0,
+            "close": 2350.0,
+            "official_change": 0.0,
+            "volume_shares": 28939466.0,
+            "previous_close": 2350.0,
+            "consecutive_close_change": 0.0,
+            "consecutive_close_change_pct": 0.0
+          },
+          {
+            "date": "2026-07-24",
+            "open": 2355.0,
+            "high": 2365.0,
+            "low": 2345.0,
+            "close": 2350.0,
+            "official_change": -55.0,
+            "volume_shares": 24810509.0,
+            "previous_close": 2405.0,
+            "consecutive_close_change": -55.0,
+            "consecutive_close_change_pct": -2.2869022869022873
+          },
+          {
+            "date": "2026-07-23",
+            "open": 2385.0,
+            "high": 2405.0,
+            "low": 2370.0,
+            "close": 2405.0,
+            "official_change": 5.0,
+            "volume_shares": 28001492.0,
+            "previous_close": 2400.0,
+            "consecutive_close_change": 5.0,
+            "consecutive_close_change_pct": 0.20833333333333334
+          }
+        ],
+        "latest": {
+          "date": "2026-08-19",
+          "open": 2340.0,
+          "high": 2355.0,
+          "low": 2335.0,
+          "close": 2350.0,
+          "official_change": -30.0,
+          "volume_shares": 19998000.0,
+          "previous_close": 2380.0,
+          "consecutive_close_change": -30.0,
+          "consecutive_close_change_pct": -1.2605042016806722
+        },
+        "interpretation_limits": "TSMC price history describes one listed stock only; it is not used to infer orders, demand, or macro causality."
       }
     },
     "TWSE Institutional Flows": {
@@ -753,6 +3455,996 @@
         "dealer_proprietary_net_twd": -2173094177.0,
         "dealer_hedge_net_twd": -15434048324.0,
         "institutional_total_net_twd": -25765816314.0
+      }
+    },
+    "TWSE Institutional Flow History": {
+      "ok": true,
+      "data": {
+        "source": "TWSE BFI82U",
+        "source_url": "https://www.twse.com.tw/rwd/zh/fund/BFI82U",
+        "frequency": "daily",
+        "history": [
+          {
+            "date": "2026-08-18",
+            "foreign_net_twd": -11985811420.0,
+            "investment_trust_net_twd": 3827137607.0,
+            "dealer_proprietary_net_twd": -2173094177.0,
+            "dealer_hedge_net_twd": -15434048324.0,
+            "institutional_total_net_twd": -25765816314.0,
+            "foreign_net_change_twd": -57433096446.0,
+            "investment_trust_net_change_twd": 21603988792.0,
+            "dealer_proprietary_net_change_twd": -5713244017.0,
+            "dealer_hedge_net_change_twd": -13299201400.0,
+            "institutional_total_net_change_twd": -54841553071.0
+          },
+          {
+            "date": "2026-08-17",
+            "foreign_net_twd": 45447285026.0,
+            "investment_trust_net_twd": -17776851185.0,
+            "dealer_proprietary_net_twd": 3540149840.0,
+            "dealer_hedge_net_twd": -2134846924.0,
+            "institutional_total_net_twd": 29075736757.0,
+            "foreign_net_change_twd": 95954605.0,
+            "investment_trust_net_change_twd": -25749451067.0,
+            "dealer_proprietary_net_change_twd": 6276138216.0,
+            "dealer_hedge_net_change_twd": -3209647191.0,
+            "institutional_total_net_change_twd": -22587005437.0
+          },
+          {
+            "date": "2026-08-14",
+            "foreign_net_twd": 45351330421.0,
+            "investment_trust_net_twd": 7972599882.0,
+            "dealer_proprietary_net_twd": -2735988376.0,
+            "dealer_hedge_net_twd": 1074800267.0,
+            "institutional_total_net_twd": 51662742194.0,
+            "foreign_net_change_twd": -30343186154.0,
+            "investment_trust_net_change_twd": 9474338167.0,
+            "dealer_proprietary_net_change_twd": -5993964437.0,
+            "dealer_hedge_net_change_twd": -10727975077.0,
+            "institutional_total_net_change_twd": -37590787501.0
+          },
+          {
+            "date": "2026-08-13",
+            "foreign_net_twd": 75694516575.0,
+            "investment_trust_net_twd": -1501738285.0,
+            "dealer_proprietary_net_twd": 3257976061.0,
+            "dealer_hedge_net_twd": 11802775344.0,
+            "institutional_total_net_twd": 89253529695.0,
+            "foreign_net_change_twd": 64673704581.0,
+            "investment_trust_net_change_twd": -3778010984.0,
+            "dealer_proprietary_net_change_twd": 2136889595.0,
+            "dealer_hedge_net_change_twd": 4223193075.0,
+            "institutional_total_net_change_twd": 67255776267.0
+          },
+          {
+            "date": "2026-08-12",
+            "foreign_net_twd": 11020811994.0,
+            "investment_trust_net_twd": 2276272699.0,
+            "dealer_proprietary_net_twd": 1121086466.0,
+            "dealer_hedge_net_twd": 7579582269.0,
+            "institutional_total_net_twd": 21997753428.0,
+            "foreign_net_change_twd": -11307871301.0,
+            "investment_trust_net_change_twd": -947795034.0,
+            "dealer_proprietary_net_change_twd": 66491372.0,
+            "dealer_hedge_net_change_twd": 6174037761.0,
+            "institutional_total_net_change_twd": -6015137202.0
+          },
+          {
+            "date": "2026-08-11",
+            "foreign_net_twd": 22328683295.0,
+            "investment_trust_net_twd": 3224067733.0,
+            "dealer_proprietary_net_twd": 1054595094.0,
+            "dealer_hedge_net_twd": 1405544508.0,
+            "institutional_total_net_twd": 28012890630.0,
+            "foreign_net_change_twd": -29411831837.0,
+            "investment_trust_net_change_twd": -177001688.0,
+            "dealer_proprietary_net_change_twd": -4223566105.0,
+            "dealer_hedge_net_change_twd": -11784448638.0,
+            "institutional_total_net_change_twd": -45596848268.0
+          },
+          {
+            "date": "2026-08-10",
+            "foreign_net_twd": 51740515132.0,
+            "investment_trust_net_twd": 3401069421.0,
+            "dealer_proprietary_net_twd": 5278161199.0,
+            "dealer_hedge_net_twd": 13189993146.0,
+            "institutional_total_net_twd": 73609738898.0,
+            "foreign_net_change_twd": 92456258922.0,
+            "investment_trust_net_change_twd": 4602790823.0,
+            "dealer_proprietary_net_change_twd": 4560722875.0,
+            "dealer_hedge_net_change_twd": 14875503344.0,
+            "institutional_total_net_change_twd": 116495275964.0
+          },
+          {
+            "date": "2026-08-07",
+            "foreign_net_twd": -40715743790.0,
+            "investment_trust_net_twd": -1201721402.0,
+            "dealer_proprietary_net_twd": 717438324.0,
+            "dealer_hedge_net_twd": -1685510198.0,
+            "institutional_total_net_twd": -42885537066.0,
+            "foreign_net_change_twd": -42735561930.0,
+            "investment_trust_net_change_twd": -10610108026.0,
+            "dealer_proprietary_net_change_twd": 822459818.0,
+            "dealer_hedge_net_change_twd": 4522286895.0,
+            "institutional_total_net_change_twd": -48000923243.0
+          },
+          {
+            "date": "2026-08-06",
+            "foreign_net_twd": 2019818140.0,
+            "investment_trust_net_twd": 9408386624.0,
+            "dealer_proprietary_net_twd": -105021494.0,
+            "dealer_hedge_net_twd": -6207797093.0,
+            "institutional_total_net_twd": 5115386177.0,
+            "foreign_net_change_twd": -88288507684.0,
+            "investment_trust_net_change_twd": -1857755832.0,
+            "dealer_proprietary_net_change_twd": 2222205170.0,
+            "dealer_hedge_net_change_twd": -9991690899.0,
+            "institutional_total_net_change_twd": -97915749245.0
+          },
+          {
+            "date": "2026-08-05",
+            "foreign_net_twd": 90308325824.0,
+            "investment_trust_net_twd": 11266142456.0,
+            "dealer_proprietary_net_twd": -2327226664.0,
+            "dealer_hedge_net_twd": 3783893806.0,
+            "institutional_total_net_twd": 103031135422.0
+          }
+        ],
+        "latest": {
+          "date": "2026-08-18",
+          "foreign_net_twd": -11985811420.0,
+          "investment_trust_net_twd": 3827137607.0,
+          "dealer_proprietary_net_twd": -2173094177.0,
+          "dealer_hedge_net_twd": -15434048324.0,
+          "institutional_total_net_twd": -25765816314.0,
+          "foreign_net_change_twd": -57433096446.0,
+          "investment_trust_net_change_twd": 21603988792.0,
+          "dealer_proprietary_net_change_twd": -5713244017.0,
+          "dealer_hedge_net_change_twd": -13299201400.0,
+          "institutional_total_net_change_twd": -54841553071.0
+        },
+        "interpretation_limits": "Institutional-flow history is descriptive daily trading data; it is not a causal explanation for TAIEX, TSMC, FX, or exports."
+      }
+    },
+    "Taiwan Intelligence": {
+      "ok": true,
+      "data": {
+        "version": "V31 Taiwan Intelligence",
+        "source": "TWSE / Taiwan MOF",
+        "frequency": "mixed",
+        "panels": {
+          "Equity Index": [
+            {
+              "label": "TAIEX multi-day history",
+              "status": "available",
+              "source": "TWSE MI_INDEX",
+              "source_url": "https://www.twse.com.tw/exchangeReport/MI_INDEX",
+              "frequency": "daily",
+              "latest": {
+                "date": "2026-08-19",
+                "close": 44719.35,
+                "official_direction": "<p style ='color:green'>-</p>",
+                "official_change": 589.33,
+                "official_change_pct": -1.3,
+                "previous_close": 45308.68,
+                "consecutive_close_change": -589.3300000000017,
+                "consecutive_close_change_pct": -1.300699998322621
+              },
+              "history": [
+                {
+                  "date": "2026-08-19",
+                  "close": 44719.35,
+                  "official_direction": "<p style ='color:green'>-</p>",
+                  "official_change": 589.33,
+                  "official_change_pct": -1.3,
+                  "previous_close": 45308.68,
+                  "consecutive_close_change": -589.3300000000017,
+                  "consecutive_close_change_pct": -1.300699998322621
+                },
+                {
+                  "date": "2026-08-18",
+                  "close": 45308.68,
+                  "official_direction": "<p style ='color:green'>-</p>",
+                  "official_change": 548.59,
+                  "official_change_pct": -1.2,
+                  "previous_close": 45857.27,
+                  "consecutive_close_change": -548.5899999999965,
+                  "consecutive_close_change_pct": -1.196298863844264
+                },
+                {
+                  "date": "2026-08-17",
+                  "close": 45857.27,
+                  "official_direction": "<p style ='color:red'>+</p>",
+                  "official_change": 46.26,
+                  "official_change_pct": 0.1,
+                  "previous_close": 45811.01,
+                  "consecutive_close_change": 46.25999999999476,
+                  "consecutive_close_change_pct": 0.10098009190365977
+                },
+                {
+                  "date": "2026-08-14",
+                  "close": 45811.01,
+                  "official_direction": "<p style ='color:green'>-</p>",
+                  "official_change": 210.47,
+                  "official_change_pct": -0.46,
+                  "previous_close": 46021.48,
+                  "consecutive_close_change": -210.47000000000116,
+                  "consecutive_close_change_pct": -0.4573299250697742
+                },
+                {
+                  "date": "2026-08-13",
+                  "close": 46021.48,
+                  "official_direction": "<p style ='color:red'>+</p>",
+                  "official_change": 503.41,
+                  "official_change_pct": 1.11,
+                  "previous_close": 45518.07,
+                  "consecutive_close_change": 503.4100000000035,
+                  "consecutive_close_change_pct": 1.105956381718301
+                },
+                {
+                  "date": "2026-08-12",
+                  "close": 45518.07,
+                  "official_direction": "<p style ='color:red'>+</p>",
+                  "official_change": 397.35,
+                  "official_change_pct": 0.88,
+                  "previous_close": 45120.72,
+                  "consecutive_close_change": 397.34999999999854,
+                  "consecutive_close_change_pct": 0.8806375430179272
+                },
+                {
+                  "date": "2026-08-11",
+                  "close": 45120.72,
+                  "official_direction": "<p style ='color:red'>+</p>",
+                  "official_change": 191.96,
+                  "official_change_pct": 0.43,
+                  "previous_close": 44928.76,
+                  "consecutive_close_change": 191.95999999999913,
+                  "consecutive_close_change_pct": 0.427254168599354
+                },
+                {
+                  "date": "2026-08-10",
+                  "close": 44928.76,
+                  "official_direction": "<p style ='color:red'>+</p>",
+                  "official_change": 702.85,
+                  "official_change_pct": 1.59,
+                  "previous_close": 44225.91,
+                  "consecutive_close_change": 702.8499999999985,
+                  "consecutive_close_change_pct": 1.5892267677476812
+                },
+                {
+                  "date": "2026-08-07",
+                  "close": 44225.91,
+                  "official_direction": "<p style ='color:green'>-</p>",
+                  "official_change": 170.79,
+                  "official_change_pct": -0.38,
+                  "previous_close": 44396.7,
+                  "consecutive_close_change": -170.7899999999936,
+                  "consecutive_close_change_pct": -0.3846907540425158
+                },
+                {
+                  "date": "2026-08-06",
+                  "close": 44396.7,
+                  "official_direction": "<p style ='color:green'>-</p>",
+                  "official_change": 214.9,
+                  "official_change_pct": -0.48
+                }
+              ],
+              "interpretation_limits": "TAIEX history is daily market data; it does not explain monthly exports or fund flows without same-date evidence."
+            }
+          ],
+          "TSMC": [
+            {
+              "label": "TSMC 2330 multi-day history",
+              "status": "available",
+              "source": "TWSE STOCK_DAY",
+              "source_url": "https://www.twse.com.tw/exchangeReport/STOCK_DAY",
+              "frequency": "daily",
+              "latest": {
+                "date": "2026-08-19",
+                "open": 2340.0,
+                "high": 2355.0,
+                "low": 2335.0,
+                "close": 2350.0,
+                "official_change": -30.0,
+                "volume_shares": 19998000.0,
+                "previous_close": 2380.0,
+                "consecutive_close_change": -30.0,
+                "consecutive_close_change_pct": -1.2605042016806722
+              },
+              "history": [
+                {
+                  "date": "2026-08-19",
+                  "open": 2340.0,
+                  "high": 2355.0,
+                  "low": 2335.0,
+                  "close": 2350.0,
+                  "official_change": -30.0,
+                  "volume_shares": 19998000.0,
+                  "previous_close": 2380.0,
+                  "consecutive_close_change": -30.0,
+                  "consecutive_close_change_pct": -1.2605042016806722
+                },
+                {
+                  "date": "2026-08-18",
+                  "open": 2415.0,
+                  "high": 2415.0,
+                  "low": 2375.0,
+                  "close": 2380.0,
+                  "official_change": -20.0,
+                  "volume_shares": 19997213.0,
+                  "previous_close": 2400.0,
+                  "consecutive_close_change": -20.0,
+                  "consecutive_close_change_pct": -0.8333333333333334
+                },
+                {
+                  "date": "2026-08-17",
+                  "open": 2410.0,
+                  "high": 2420.0,
+                  "low": 2390.0,
+                  "close": 2400.0,
+                  "official_change": 5.0,
+                  "volume_shares": 13482456.0,
+                  "previous_close": 2395.0,
+                  "consecutive_close_change": 5.0,
+                  "consecutive_close_change_pct": 0.20876826722338201
+                },
+                {
+                  "date": "2026-08-14",
+                  "open": 2435.0,
+                  "high": 2440.0,
+                  "low": 2395.0,
+                  "close": 2395.0,
+                  "official_change": -40.0,
+                  "volume_shares": 21162682.0,
+                  "previous_close": 2435.0,
+                  "consecutive_close_change": -40.0,
+                  "consecutive_close_change_pct": -1.642710472279261
+                },
+                {
+                  "date": "2026-08-13",
+                  "open": 2440.0,
+                  "high": 2445.0,
+                  "low": 2425.0,
+                  "close": 2435.0,
+                  "official_change": 20.0,
+                  "volume_shares": 26233385.0,
+                  "previous_close": 2415.0,
+                  "consecutive_close_change": 20.0,
+                  "consecutive_close_change_pct": 0.8281573498964804
+                },
+                {
+                  "date": "2026-08-12",
+                  "open": 2405.0,
+                  "high": 2415.0,
+                  "low": 2390.0,
+                  "close": 2415.0,
+                  "official_change": 20.0,
+                  "volume_shares": 19448153.0,
+                  "previous_close": 2395.0,
+                  "consecutive_close_change": 20.0,
+                  "consecutive_close_change_pct": 0.8350730688935281
+                },
+                {
+                  "date": "2026-08-11",
+                  "open": 2390.0,
+                  "high": 2405.0,
+                  "low": 2375.0,
+                  "close": 2395.0,
+                  "official_change": 15.0,
+                  "volume_shares": 18247582.0,
+                  "previous_close": 2380.0,
+                  "consecutive_close_change": 15.0,
+                  "consecutive_close_change_pct": 0.6302521008403361
+                },
+                {
+                  "date": "2026-08-10",
+                  "open": 2390.0,
+                  "high": 2410.0,
+                  "low": 2380.0,
+                  "close": 2380.0,
+                  "official_change": 10.0,
+                  "volume_shares": 21498241.0,
+                  "previous_close": 2370.0,
+                  "consecutive_close_change": 10.0,
+                  "consecutive_close_change_pct": 0.42194092827004215
+                },
+                {
+                  "date": "2026-08-07",
+                  "open": 2390.0,
+                  "high": 2395.0,
+                  "low": 2355.0,
+                  "close": 2370.0,
+                  "official_change": 5.0,
+                  "volume_shares": 24414025.0,
+                  "previous_close": 2365.0,
+                  "consecutive_close_change": 5.0,
+                  "consecutive_close_change_pct": 0.21141649048625794
+                },
+                {
+                  "date": "2026-08-06",
+                  "open": 2395.0,
+                  "high": 2395.0,
+                  "low": 2360.0,
+                  "close": 2365.0,
+                  "official_change": -40.0,
+                  "volume_shares": 25536816.0,
+                  "previous_close": 2405.0,
+                  "consecutive_close_change": -40.0,
+                  "consecutive_close_change_pct": -1.6632016632016633
+                },
+                {
+                  "date": "2026-08-05",
+                  "open": 2385.0,
+                  "high": 2415.0,
+                  "low": 2370.0,
+                  "close": 2405.0,
+                  "official_change": 85.0,
+                  "volume_shares": 36782301.0,
+                  "previous_close": 2320.0,
+                  "consecutive_close_change": 85.0,
+                  "consecutive_close_change_pct": 3.6637931034482754
+                },
+                {
+                  "date": "2026-08-04",
+                  "open": 2335.0,
+                  "high": 2360.0,
+                  "low": 2310.0,
+                  "close": 2320.0,
+                  "official_change": -50.0,
+                  "volume_shares": 41021199.0,
+                  "previous_close": 2370.0,
+                  "consecutive_close_change": -50.0,
+                  "consecutive_close_change_pct": -2.109704641350211
+                },
+                {
+                  "date": "2026-08-03",
+                  "open": 2390.0,
+                  "high": 2395.0,
+                  "low": 2365.0,
+                  "close": 2370.0,
+                  "official_change": -55.0,
+                  "volume_shares": 35209944.0,
+                  "previous_close": 2425.0,
+                  "consecutive_close_change": -55.0,
+                  "consecutive_close_change_pct": -2.268041237113402
+                },
+                {
+                  "date": "2026-07-31",
+                  "open": 2350.0,
+                  "high": 2425.0,
+                  "low": 2345.0,
+                  "close": 2425.0,
+                  "official_change": 220.0,
+                  "volume_shares": 69478145.0,
+                  "previous_close": 2205.0,
+                  "consecutive_close_change": 220.0,
+                  "consecutive_close_change_pct": 9.977324263038549
+                },
+                {
+                  "date": "2026-07-30",
+                  "open": 2205.0,
+                  "high": 2260.0,
+                  "low": 2190.0,
+                  "close": 2205.0,
+                  "official_change": 5.0,
+                  "volume_shares": 51372177.0,
+                  "previous_close": 2200.0,
+                  "consecutive_close_change": 5.0,
+                  "consecutive_close_change_pct": 0.22727272727272727
+                },
+                {
+                  "date": "2026-07-29",
+                  "open": 2260.0,
+                  "high": 2280.0,
+                  "low": 2180.0,
+                  "close": 2200.0,
+                  "official_change": -80.0,
+                  "volume_shares": 68139691.0,
+                  "previous_close": 2280.0,
+                  "consecutive_close_change": -80.0,
+                  "consecutive_close_change_pct": -3.508771929824561
+                },
+                {
+                  "date": "2026-07-28",
+                  "open": 2270.0,
+                  "high": 2305.0,
+                  "low": 2270.0,
+                  "close": 2280.0,
+                  "official_change": -70.0,
+                  "volume_shares": 45333029.0,
+                  "previous_close": 2350.0,
+                  "consecutive_close_change": -70.0,
+                  "consecutive_close_change_pct": -2.9787234042553195
+                },
+                {
+                  "date": "2026-07-27",
+                  "open": 2330.0,
+                  "high": 2365.0,
+                  "low": 2330.0,
+                  "close": 2350.0,
+                  "official_change": 0.0,
+                  "volume_shares": 28939466.0,
+                  "previous_close": 2350.0,
+                  "consecutive_close_change": 0.0,
+                  "consecutive_close_change_pct": 0.0
+                },
+                {
+                  "date": "2026-07-24",
+                  "open": 2355.0,
+                  "high": 2365.0,
+                  "low": 2345.0,
+                  "close": 2350.0,
+                  "official_change": -55.0,
+                  "volume_shares": 24810509.0,
+                  "previous_close": 2405.0,
+                  "consecutive_close_change": -55.0,
+                  "consecutive_close_change_pct": -2.2869022869022873
+                },
+                {
+                  "date": "2026-07-23",
+                  "open": 2385.0,
+                  "high": 2405.0,
+                  "low": 2370.0,
+                  "close": 2405.0,
+                  "official_change": 5.0,
+                  "volume_shares": 28001492.0,
+                  "previous_close": 2400.0,
+                  "consecutive_close_change": 5.0,
+                  "consecutive_close_change_pct": 0.20833333333333334
+                }
+              ],
+              "interpretation_limits": "TSMC price history describes one listed stock only; it is not used to infer orders, demand, or macro causality."
+            }
+          ],
+          "Institutional Flows": [
+            {
+              "label": "TWSE institutional-flow multi-day history",
+              "status": "available",
+              "source": "TWSE BFI82U",
+              "source_url": "https://www.twse.com.tw/rwd/zh/fund/BFI82U",
+              "frequency": "daily",
+              "latest": {
+                "date": "2026-08-18",
+                "foreign_net_twd": -11985811420.0,
+                "investment_trust_net_twd": 3827137607.0,
+                "dealer_proprietary_net_twd": -2173094177.0,
+                "dealer_hedge_net_twd": -15434048324.0,
+                "institutional_total_net_twd": -25765816314.0,
+                "foreign_net_change_twd": -57433096446.0,
+                "investment_trust_net_change_twd": 21603988792.0,
+                "dealer_proprietary_net_change_twd": -5713244017.0,
+                "dealer_hedge_net_change_twd": -13299201400.0,
+                "institutional_total_net_change_twd": -54841553071.0
+              },
+              "history": [
+                {
+                  "date": "2026-08-18",
+                  "foreign_net_twd": -11985811420.0,
+                  "investment_trust_net_twd": 3827137607.0,
+                  "dealer_proprietary_net_twd": -2173094177.0,
+                  "dealer_hedge_net_twd": -15434048324.0,
+                  "institutional_total_net_twd": -25765816314.0,
+                  "foreign_net_change_twd": -57433096446.0,
+                  "investment_trust_net_change_twd": 21603988792.0,
+                  "dealer_proprietary_net_change_twd": -5713244017.0,
+                  "dealer_hedge_net_change_twd": -13299201400.0,
+                  "institutional_total_net_change_twd": -54841553071.0
+                },
+                {
+                  "date": "2026-08-17",
+                  "foreign_net_twd": 45447285026.0,
+                  "investment_trust_net_twd": -17776851185.0,
+                  "dealer_proprietary_net_twd": 3540149840.0,
+                  "dealer_hedge_net_twd": -2134846924.0,
+                  "institutional_total_net_twd": 29075736757.0,
+                  "foreign_net_change_twd": 95954605.0,
+                  "investment_trust_net_change_twd": -25749451067.0,
+                  "dealer_proprietary_net_change_twd": 6276138216.0,
+                  "dealer_hedge_net_change_twd": -3209647191.0,
+                  "institutional_total_net_change_twd": -22587005437.0
+                },
+                {
+                  "date": "2026-08-14",
+                  "foreign_net_twd": 45351330421.0,
+                  "investment_trust_net_twd": 7972599882.0,
+                  "dealer_proprietary_net_twd": -2735988376.0,
+                  "dealer_hedge_net_twd": 1074800267.0,
+                  "institutional_total_net_twd": 51662742194.0,
+                  "foreign_net_change_twd": -30343186154.0,
+                  "investment_trust_net_change_twd": 9474338167.0,
+                  "dealer_proprietary_net_change_twd": -5993964437.0,
+                  "dealer_hedge_net_change_twd": -10727975077.0,
+                  "institutional_total_net_change_twd": -37590787501.0
+                },
+                {
+                  "date": "2026-08-13",
+                  "foreign_net_twd": 75694516575.0,
+                  "investment_trust_net_twd": -1501738285.0,
+                  "dealer_proprietary_net_twd": 3257976061.0,
+                  "dealer_hedge_net_twd": 11802775344.0,
+                  "institutional_total_net_twd": 89253529695.0,
+                  "foreign_net_change_twd": 64673704581.0,
+                  "investment_trust_net_change_twd": -3778010984.0,
+                  "dealer_proprietary_net_change_twd": 2136889595.0,
+                  "dealer_hedge_net_change_twd": 4223193075.0,
+                  "institutional_total_net_change_twd": 67255776267.0
+                },
+                {
+                  "date": "2026-08-12",
+                  "foreign_net_twd": 11020811994.0,
+                  "investment_trust_net_twd": 2276272699.0,
+                  "dealer_proprietary_net_twd": 1121086466.0,
+                  "dealer_hedge_net_twd": 7579582269.0,
+                  "institutional_total_net_twd": 21997753428.0,
+                  "foreign_net_change_twd": -11307871301.0,
+                  "investment_trust_net_change_twd": -947795034.0,
+                  "dealer_proprietary_net_change_twd": 66491372.0,
+                  "dealer_hedge_net_change_twd": 6174037761.0,
+                  "institutional_total_net_change_twd": -6015137202.0
+                },
+                {
+                  "date": "2026-08-11",
+                  "foreign_net_twd": 22328683295.0,
+                  "investment_trust_net_twd": 3224067733.0,
+                  "dealer_proprietary_net_twd": 1054595094.0,
+                  "dealer_hedge_net_twd": 1405544508.0,
+                  "institutional_total_net_twd": 28012890630.0,
+                  "foreign_net_change_twd": -29411831837.0,
+                  "investment_trust_net_change_twd": -177001688.0,
+                  "dealer_proprietary_net_change_twd": -4223566105.0,
+                  "dealer_hedge_net_change_twd": -11784448638.0,
+                  "institutional_total_net_change_twd": -45596848268.0
+                },
+                {
+                  "date": "2026-08-10",
+                  "foreign_net_twd": 51740515132.0,
+                  "investment_trust_net_twd": 3401069421.0,
+                  "dealer_proprietary_net_twd": 5278161199.0,
+                  "dealer_hedge_net_twd": 13189993146.0,
+                  "institutional_total_net_twd": 73609738898.0,
+                  "foreign_net_change_twd": 92456258922.0,
+                  "investment_trust_net_change_twd": 4602790823.0,
+                  "dealer_proprietary_net_change_twd": 4560722875.0,
+                  "dealer_hedge_net_change_twd": 14875503344.0,
+                  "institutional_total_net_change_twd": 116495275964.0
+                },
+                {
+                  "date": "2026-08-07",
+                  "foreign_net_twd": -40715743790.0,
+                  "investment_trust_net_twd": -1201721402.0,
+                  "dealer_proprietary_net_twd": 717438324.0,
+                  "dealer_hedge_net_twd": -1685510198.0,
+                  "institutional_total_net_twd": -42885537066.0,
+                  "foreign_net_change_twd": -42735561930.0,
+                  "investment_trust_net_change_twd": -10610108026.0,
+                  "dealer_proprietary_net_change_twd": 822459818.0,
+                  "dealer_hedge_net_change_twd": 4522286895.0,
+                  "institutional_total_net_change_twd": -48000923243.0
+                },
+                {
+                  "date": "2026-08-06",
+                  "foreign_net_twd": 2019818140.0,
+                  "investment_trust_net_twd": 9408386624.0,
+                  "dealer_proprietary_net_twd": -105021494.0,
+                  "dealer_hedge_net_twd": -6207797093.0,
+                  "institutional_total_net_twd": 5115386177.0,
+                  "foreign_net_change_twd": -88288507684.0,
+                  "investment_trust_net_change_twd": -1857755832.0,
+                  "dealer_proprietary_net_change_twd": 2222205170.0,
+                  "dealer_hedge_net_change_twd": -9991690899.0,
+                  "institutional_total_net_change_twd": -97915749245.0
+                },
+                {
+                  "date": "2026-08-05",
+                  "foreign_net_twd": 90308325824.0,
+                  "investment_trust_net_twd": 11266142456.0,
+                  "dealer_proprietary_net_twd": -2327226664.0,
+                  "dealer_hedge_net_twd": 3783893806.0,
+                  "institutional_total_net_twd": 103031135422.0
+                }
+              ],
+              "interpretation_limits": "Institutional-flow history is descriptive daily trading data; it is not a causal explanation for TAIEX, TSMC, FX, or exports."
+            }
+          ],
+          "Export Categories": [
+            {
+              "label": "Taiwan export categories",
+              "status": "available",
+              "source": "Taiwan MOF",
+              "source_url": "https://service.mof.gov.tw/public/Data/statistic/trade/news/11507/表2.xlsx",
+              "article_url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=77ae31130e3f4024a69d5f89bd109bdc",
+              "frequency": "monthly",
+              "latest_period": "2026-07",
+              "periods": [
+                {
+                  "period": "2026-07",
+                  "categories": [
+                    {
+                      "name": "資通與視聽產品",
+                      "yoy_pct": 29.52371527852175,
+                      "value_usd_bn": 31.373891,
+                      "share_pct": 41.666318826376816,
+                      "value_change_usd_bn": -2.5450079999999957,
+                      "value_change_pct": -7.503215242924,
+                      "yoy_change_pp": -42.82252003568726,
+                      "share_change_pp": -3.661356043266146
+                    },
+                    {
+                      "name": "電子零組件",
+                      "yoy_pct": 50.526382007874346,
+                      "value_usd_bn": 27.732803,
+                      "share_pct": 36.83074604125766,
+                      "value_change_usd_bn": 2.347793000000003,
+                      "value_change_pct": 9.248737739319399,
+                      "yoy_change_pp": 17.733569525218883,
+                      "share_change_pp": 2.9073725307367226
+                    },
+                    {
+                      "name": "基本金屬及其製品",
+                      "yoy_pct": 24.776391421408018,
+                      "value_usd_bn": 2.8028969999999997,
+                      "value_change_usd_bn": 0.31334799999999996,
+                      "value_change_pct": 12.586536758264247,
+                      "yoy_change_pp": 26.0270463988998
+                    },
+                    {
+                      "name": "機械",
+                      "yoy_pct": 10.82355746677772,
+                      "value_usd_bn": 2.546732,
+                      "value_change_usd_bn": 0.024902999999999675,
+                      "value_change_pct": 0.9874975662505139,
+                      "yoy_change_pp": -3.9911376253579878
+                    },
+                    {
+                      "name": "塑膠、橡膠及其製品",
+                      "yoy_pct": 3.8412330609844836,
+                      "value_usd_bn": 1.546981,
+                      "value_change_usd_bn": 0.0020970000000000155,
+                      "value_change_pct": 0.13573834669787604,
+                      "yoy_change_pp": 4.255784586625634
+                    }
+                  ]
+                },
+                {
+                  "period": "2026-06",
+                  "categories": [
+                    {
+                      "name": "資通與視聽產品",
+                      "yoy_pct": 72.34623531420901,
+                      "value_usd_bn": 33.918898999999996,
+                      "share_pct": 45.32767486964296,
+                      "value_change_usd_bn": -0.9285790000000063,
+                      "value_change_pct": -2.66469498883106,
+                      "yoy_change_pp": -2.8800089500474684,
+                      "share_change_pp": 0.9226474999583729
+                    },
+                    {
+                      "name": "電子零組件",
+                      "yoy_pct": 32.792812482655464,
+                      "value_usd_bn": 25.385009999999998,
+                      "share_pct": 33.92337351052094,
+                      "value_change_usd_bn": -1.445635000000003,
+                      "value_change_pct": -5.387999431247377,
+                      "yoy_change_pp": -23.148710212800154,
+                      "share_change_pp": -0.2660598129262013
+                    },
+                    {
+                      "name": "基本金屬及其製品",
+                      "yoy_pct": -1.2506549774917803,
+                      "value_usd_bn": 2.489549,
+                      "value_change_usd_bn": -0.256402,
+                      "value_change_pct": -9.337457223380898,
+                      "yoy_change_pp": -2.8498158259672106
+                    },
+                    {
+                      "name": "機械",
+                      "yoy_pct": 14.814695092135707,
+                      "value_usd_bn": 2.5218290000000003,
+                      "value_change_usd_bn": -0.2794629999999998,
+                      "value_change_pct": -9.976218116497664,
+                      "yoy_change_pp": -7.77161071853217
+                    },
+                    {
+                      "name": "塑膠、橡膠及其製品",
+                      "yoy_pct": -0.4145515256411496,
+                      "value_usd_bn": 1.544884,
+                      "value_change_usd_bn": -0.2235990000000001,
+                      "value_change_pct": -12.643548170946517,
+                      "yoy_change_pp": -6.370869662469607
+                    }
+                  ]
+                },
+                {
+                  "period": "2026-05",
+                  "categories": [
+                    {
+                      "name": "資通與視聽產品",
+                      "yoy_pct": 75.22624426425648,
+                      "value_usd_bn": 34.847478,
+                      "share_pct": 44.40502736968459,
+                      "value_change_usd_bn": 4.2518870000000035,
+                      "value_change_pct": 13.897057912690766,
+                      "yoy_change_pp": 12.752581004505643,
+                      "share_change_pp": -0.8422388024843883
+                    },
+                    {
+                      "name": "電子零組件",
+                      "yoy_pct": 55.94152269545562,
+                      "value_usd_bn": 26.830645,
+                      "share_pct": 34.18943332344714,
+                      "value_change_usd_bn": 4.065578000000002,
+                      "value_change_pct": 17.85884486964173,
+                      "yoy_change_pp": 17.191983618056582,
+                      "share_change_pp": 0.5225874705181894
+                    },
+                    {
+                      "name": "基本金屬及其製品",
+                      "yoy_pct": 1.5991608484754303,
+                      "value_usd_bn": 2.745951,
+                      "value_change_usd_bn": 0.3390179999999998,
+                      "value_change_pct": 14.085061777789404,
+                      "yoy_change_pp": 2.0199948627197433
+                    },
+                    {
+                      "name": "機械",
+                      "yoy_pct": 22.586305810667877,
+                      "value_usd_bn": 2.801292,
+                      "value_change_usd_bn": 0.5649490000000004,
+                      "value_change_pct": 25.26218026483417,
+                      "yoy_change_pp": 9.73942805111193
+                    },
+                    {
+                      "name": "塑膠、橡膠及其製品",
+                      "yoy_pct": 5.9563181368284575,
+                      "value_usd_bn": 1.768483,
+                      "value_change_usd_bn": 0.1973170000000002,
+                      "value_change_pct": 12.558634797341606,
+                      "yoy_change_pp": 0.43797627203078804
+                    }
+                  ]
+                },
+                {
+                  "period": "2026-04",
+                  "categories": [
+                    {
+                      "name": "資通與視聽產品",
+                      "yoy_pct": 62.473663259750836,
+                      "value_usd_bn": 30.595591,
+                      "share_pct": 45.24726617216898,
+                      "value_change_usd_bn": -9.188123999999995,
+                      "value_change_pct": -23.09518857150469,
+                      "yoy_change_pp": -72.32199329637938,
+                      "share_change_pp": -4.369977774472048
+                    },
+                    {
+                      "name": "電子零組件",
+                      "yoy_pct": 38.749539077399035,
+                      "value_usd_bn": 22.765067,
+                      "share_pct": 33.66684585292895,
+                      "value_change_usd_bn": -2.414263000000002,
+                      "value_change_pct": -9.588273397266732,
+                      "yoy_change_pp": -4.9160355382839,
+                      "share_change_pp": 2.263821800927353
+                    },
+                    {
+                      "name": "基本金屬及其製品",
+                      "yoy_pct": -0.4208340142443129,
+                      "value_usd_bn": 2.406933,
+                      "value_change_usd_bn": 0.055342,
+                      "value_change_pct": 2.3533854313951705,
+                      "yoy_change_pp": 6.872236277872729
+                    },
+                    {
+                      "name": "機械",
+                      "yoy_pct": 12.846877759555946,
+                      "value_usd_bn": 2.2363429999999997,
+                      "value_change_usd_bn": -0.1323240000000001,
+                      "value_change_pct": -5.5864332132798795,
+                      "yoy_change_pp": -3.6198729218137853
+                    },
+                    {
+                      "name": "塑膠、橡膠及其製品",
+                      "yoy_pct": 5.518341864797669,
+                      "value_usd_bn": 1.5711659999999998,
+                      "value_change_usd_bn": -0.10216800000000026,
+                      "value_change_pct": -6.105654937986095,
+                      "yoy_change_pp": 3.747901827430498
+                    }
+                  ]
+                },
+                {
+                  "period": "2026-03",
+                  "categories": [
+                    {
+                      "name": "資通與視聽產品",
+                      "yoy_pct": 134.7956565561302,
+                      "value_usd_bn": 39.783714999999994,
+                      "share_pct": 49.617243946641025,
+                      "value_change_usd_bn": 20.272132999999997,
+                      "value_change_pct": 103.89794635821943,
+                      "yoy_change_pp": 96.12537892677184,
+                      "share_change_pp": 10.428740515585126
+                    },
+                    {
+                      "name": "電子零組件",
+                      "yoy_pct": 43.665574615682935,
+                      "value_usd_bn": 25.17933,
+                      "share_pct": 31.403024052001598,
+                      "value_change_usd_bn": 7.2015090000000015,
+                      "value_change_pct": 40.05774114671629,
+                      "yoy_change_pp": 19.118448009129896,
+                      "share_change_pp": -4.70496042313777
+                    },
+                    {
+                      "name": "基本金屬及其製品",
+                      "yoy_pct": -7.293070292117042,
+                      "value_usd_bn": 2.351591,
+                      "value_change_usd_bn": 0.26159599999999994,
+                      "value_change_pct": 12.516584967906619,
+                      "yoy_change_pp": -2.568839600208162
+                    },
+                    {
+                      "name": "機械",
+                      "yoy_pct": 16.46675068136973,
+                      "value_usd_bn": 2.368667,
+                      "value_change_usd_bn": 0.4724849999999998,
+                      "value_change_pct": 24.917703047492267,
+                      "yoy_change_pp": 6.343913943132026
+                    },
+                    {
+                      "name": "塑膠、橡膠及其製品",
+                      "yoy_pct": 1.7704400373671714,
+                      "value_usd_bn": 1.673334,
+                      "value_change_usd_bn": 0.4222480000000002,
+                      "value_change_pct": 33.75051755035227,
+                      "yoy_change_pp": 14.972588812949445
+                    }
+                  ]
+                },
+                {
+                  "period": "2026-02",
+                  "categories": [
+                    {
+                      "name": "資通與視聽產品",
+                      "yoy_pct": 38.67027762935836,
+                      "value_usd_bn": 19.511581999999997,
+                      "share_pct": 39.1885034310559
+                    },
+                    {
+                      "name": "電子零組件",
+                      "yoy_pct": 24.54712660655304,
+                      "value_usd_bn": 17.977821,
+                      "share_pct": 36.10798447513937
+                    },
+                    {
+                      "name": "基本金屬及其製品",
+                      "yoy_pct": -4.72423069190888,
+                      "value_usd_bn": 2.089995
+                    },
+                    {
+                      "name": "機械",
+                      "yoy_pct": 10.122836738237705,
+                      "value_usd_bn": 1.896182
+                    },
+                    {
+                      "name": "塑膠、橡膠及其製品",
+                      "yoy_pct": -13.202148775582273,
+                      "value_usd_bn": 1.251086
+                    }
+                  ]
+                }
+              ],
+              "interpretation_limits": "Monthly export-category data is descriptive; it is not a same-day explanation for equity, FX, or fund-flow moves."
+            }
+          ]
+        },
+        "guardrails": [
+          "TAIEX, TSMC, and institutional flows are daily TWSE data.",
+          "Export-category data is monthly Taiwan MOF goods-trade data.",
+          "Daily and monthly data are shown separately and must not be written as same-day causality.",
+          "No missing value, consensus, surprise, forecast, or causal relationship is inferred.",
+          "Partial source failures remain visible at the individual dataset level."
+        ]
       }
     }
   }
