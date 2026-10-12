@@ -1,7 +1,7 @@
 {
-  "report_date": "2026-10-11",
-  "generated_at": "2026-10-11T11:31:30.526226+08:00",
-  "message": "📊 Daily Market Brief\n日期：2026-10-11\n\n🔑 Today in 3\n1. [HIGH] TWSE Foreign Flow: -759 億元\n2. [HIGH] Taiwan Exports YoY: +60.9%\n3. [WATCH] S&P 500: +0.59%\n\n🌐 Cross-Market\n- S&P 500 +0.59%（10/09）\n- US 10Y 5.24%，+2.0 bps\n- EIA 原油庫存週變動 -3.2 百萬桶\n- 台灣出口 YoY +60.9%（09月）\n- 外資及陸資 -759 億元\n\n🚨 Event Focus\n- 10-10 美國 CPI（估計）\n- 10-14 EIA 週度石油庫存\n\n👀 Watch Next\n- 下一批通膨 / 就業與利率資料更新\n- EIA 庫存、台灣出口與法人資金延續性\n\n🎯 Bottom Line\n本版為精簡備援摘要；只整理已驗證資料，不建立未經證實的因果關係。\n\n📚 Sources\nEIA｜Federal Reserve｜OpenAI｜Meta｜TSMC｜BEA via FRED｜BLS｜U.S. Treasury｜Taiwan MOF｜CBC Taiwan｜TWSE",
+  "report_date": "2026-10-12",
+  "generated_at": "2026-10-12T11:56:17.557662+08:00",
+  "message": "📊 Daily Market Brief\n日期：2026-10-12\n\n🔑 Today in 3\n1. [HIGH] TWSE Foreign Flow: -759 億元\n2. [HIGH] Taiwan Exports YoY: +60.9%\n3. [WATCH] S&P 500: +0.59%\n\n🌐 Cross-Market\n- S&P 500 +0.59%（10/09）\n- US 10Y 5.24%，+2.0 bps\n- EIA 原油庫存週變動 -3.2 百萬桶\n- 台灣出口 YoY +60.9%（09月）\n- 外資及陸資 -759 億元\n\n🚨 Event Focus\n- 10-10 美國 CPI（估計）\n- 10-14 EIA 週度石油庫存\n\n👀 Watch Next\n- 下一批通膨 / 就業與利率資料更新\n- EIA 庫存、台灣出口與法人資金延續性\n\n🎯 Bottom Line\n本版為精簡備援摘要；只整理已驗證資料，不建立未經證實的因果關係。\n\n📚 Sources\nEIA｜Federal Reserve｜OpenAI｜Meta｜TSMC｜BEA via FRED｜BLS｜U.S. Treasury｜Taiwan MOF｜CBC Taiwan｜TWSE",
   "data_health": {
     "total": 38,
     "success": 38,
@@ -105,7 +105,7 @@
       "date": "2026-10-10",
       "label": "美國 CPI",
       "certainty": "estimated-window",
-      "days_ahead": -1,
+      "days_ahead": -2,
       "priority": "HIGH",
       "related_data": [
         "CPI",
@@ -116,8 +116,8 @@
       "date": "2026-10-14",
       "label": "EIA 週度石油庫存",
       "certainty": "scheduled-cadence",
-      "days_ahead": 3,
-      "priority": "WATCH",
+      "days_ahead": 2,
+      "priority": "HIGH",
       "related_data": [
         "WTI",
         "Brent",
@@ -128,7 +128,7 @@
       "date": "2026-10-28",
       "label": "PCE / Core PCE",
       "certainty": "estimated-window",
-      "days_ahead": 17,
+      "days_ahead": 16,
       "priority": "MONITOR",
       "related_data": [
         "PCE",
@@ -140,7 +140,7 @@
       "date": "2026-11-08",
       "label": "台灣出口",
       "certainty": "estimated-window",
-      "days_ahead": 28,
+      "days_ahead": 27,
       "priority": "MONITOR",
       "related_data": [
         "Taiwan Exports",
@@ -3060,12 +3060,12 @@
     "TAIEX": {
       "ok": true,
       "data": {
-        "source": "TWSE OpenAPI",
-        "date": "1151008",
-        "close": "49313.44",
-        "direction": "-",
+        "date": "20261008",
+        "close": "49,313.44",
+        "direction": "<p style ='color:green'>-</p>",
         "change": "492.93",
-        "change_pct": "-0.99"
+        "change_pct": "-0.99",
+        "source": "TWSE MI_INDEX fallback"
       }
     },
     "TAIEX History": {
