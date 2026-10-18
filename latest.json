@@ -1,7 +1,7 @@
 {
-  "report_date": "2026-10-17",
-  "generated_at": "2026-10-17T10:43:02.234140+08:00",
-  "message": "📊 Daily Market Brief\n日期：2026-10-17\n\n🔑 Today in 3\n・標普 500 指數單日下跌 1.09%，配合美國 9 月 CPI 年增 3.72%，市場面臨通膨壓力懸持情境。\n・台灣 9 月出口年增率達 60.9%，其中資通與視聽產品年增 103.0%，顯示外需擴張動能。\n・外資於台股集中市場賣超 461 億元，同時新台幣對美元匯率呈現 0.23% 的貶值走勢。\n\n🌐 Cross-Market\n・美股那斯達克指數（⚠️10/15 較舊資料）小幅上漲 0.08%，美國 10 年期公債殖利率下降 1.0 bps 至 5.09%。\n・西德州原油（⚠️10/14 較舊資料）收於每桶 101.91 美元，截至 10/09 當週 EIA 原油庫存週減 860 萬桶。\n・美國 9 月非農就業人數增加 2.9 萬人，失業率升至 4.2%，反映勞動市場呈現放緩跡象。\n・Google 發布旗艦模型 Gemini 4 Argon；台積電於 10/15 公布第三季 EPS 為 29.43 元。\n・加權指數單日上漲 0.30% 收至 47,111.26 點，台積電股票收盤下跌 20 元至 2,420 元。\n\n🚨 Event Focus\n・10/21：EIA 週度石油庫存報告發布，持續追蹤原油庫存變動。\n・10/28：美國 PCE 與核心 PCE 物價指數（估計發布窗口），用以釐清通膨走勢。\n\n👀 Watch Next\n・美國通膨數據：持續關注 10/28 的 PCE 與 11/10 的 CPI（估計發布窗口），評估聯準會政策利率走向。\n・企業基本面資料：針對特定個股營運，獨立關注其後續公佈之官方營收與財報，不與總體出口數據混淆。\n\n🎯 Bottom Line\n當前市場呈現通膨壓力持續與製造業外需成長並存的格局，聯準會利率政策路徑及能源價格波動仍為主要不確定性來源。\n\n📚 Sources\nEIA｜Federal Reserve｜OpenAI｜Google｜Meta｜TSMC｜BEA via FRED｜BLS｜U.S. Treasury｜Taiwan MOF｜CBC Taiwan｜TWSE",
+  "report_date": "2026-10-18",
+  "generated_at": "2026-10-18T10:48:08.243794+08:00",
+  "message": "📊 Daily Market Brief\n日期：2026-10-18\n\n🔑 Today in 3\n1. [HIGH] S&P 500: -1.09%\n2. [HIGH] Taiwan Exports YoY: +60.9%\n3. [WATCH] EIA Crude Inventory: -8.6 mb\n\n🌐 Cross-Market\n- S&P 500 -1.09%（10/16）\n- US 10Y 5.09%，-1.0 bps\n- EIA 原油庫存週變動 -8.6 百萬桶\n- 台灣出口 YoY +60.9%（09月）\n- 外資及陸資 -461 億元\n\n🚨 Event Focus\n- 10-21 EIA 週度石油庫存\n- 10-28 PCE / Core PCE（估計）\n\n👀 Watch Next\n- 下一批通膨 / 就業與利率資料更新\n- EIA 庫存、台灣出口與法人資金延續性\n\n🎯 Bottom Line\n本版為精簡備援摘要；只整理已驗證資料，不建立未經證實的因果關係。\n\n📚 Sources\nEIA｜Federal Reserve｜OpenAI｜Meta｜TSMC｜BEA via FRED｜BLS｜U.S. Treasury｜Taiwan MOF｜CBC Taiwan｜TWSE",
   "data_health": {
     "total": 38,
     "success": 38,
@@ -111,7 +111,7 @@
       "date": "2026-10-21",
       "label": "EIA 週度石油庫存",
       "certainty": "scheduled-cadence",
-      "days_ahead": 4,
+      "days_ahead": 3,
       "priority": "WATCH",
       "related_data": [
         "WTI",
@@ -123,7 +123,7 @@
       "date": "2026-10-28",
       "label": "PCE / Core PCE",
       "certainty": "estimated-window",
-      "days_ahead": 11,
+      "days_ahead": 10,
       "priority": "MONITOR",
       "related_data": [
         "PCE",
@@ -135,7 +135,7 @@
       "date": "2026-11-08",
       "label": "台灣出口",
       "certainty": "estimated-window",
-      "days_ahead": 22,
+      "days_ahead": 21,
       "priority": "MONITOR",
       "related_data": [
         "Taiwan Exports",
@@ -148,7 +148,7 @@
       "date": "2026-11-10",
       "label": "美國 CPI",
       "certainty": "estimated-window",
-      "days_ahead": 24,
+      "days_ahead": 23,
       "priority": "MONITOR",
       "related_data": [
         "CPI",
@@ -1635,16 +1635,6 @@
         "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
         "original_title": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
         "original_summary": "Today, Meta, Pinacoteca di Brera and EssilorLuxottica are proud to launch “Sensing Art – Discovering Masterpieces Beyond What Meets the Eye.” This pilot aims to explore how AI glasses can make art more accessible for people who are blind or with low vision..."
-      },
-      {
-        "title": "Google 官方 AI / 科技更新",
-        "source": "Google",
-        "date": "2026-10-13",
-        "fact": "Google 發布官方 AI / 科技公告；英文原標題與摘要保留於下方供查核。",
-        "context": "這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。",
-        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
-        "original_title": "Gemini 4 Argon: Built to solve your hardest problems",
-        "original_summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
       }
     ],
     "Taiwan": [
@@ -2197,14 +2187,6 @@
             "summary": "Today, Meta, Pinacoteca di Brera and EssilorLuxottica are proud to launch “Sensing Art – Discovering Masterpieces Beyond What Meets the Eye.” This pilot aims to explore how AI glasses can make art more accessible for people who are blind or with low vision – in collaboration with the some of Italy’s leading sight loss charities – the Associazione Nazionale Subvedenti (ANS), the Unione Italiana dei Ciechi e degli Ipovedenti (UICI), and the Fondazione Istituto dei Ciechi di Milano. In one of th...",
             "link": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/",
             "sort_key": 1791993657.0
-          },
-          {
-            "source": "Google",
-            "date": "2026-10-13",
-            "title": "Gemini 4 Argon: Built to solve your hardest problems",
-            "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-            "sort_key": 1791907200.0
           }
         ],
         "source_status": {
@@ -2218,7 +2200,7 @@
           },
           "Google": {
             "ok": true,
-            "count": 1
+            "count": 0
           },
           "Meta": {
             "ok": true,
