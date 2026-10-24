@@ -1,7 +1,7 @@
 {
-  "report_date": "2026-10-23",
-  "generated_at": "2026-10-23T11:01:34.530817+08:00",
-  "message": "📊 Daily Market Brief\n日期：2026-10-23\n\n🔑 Today in 3\n- 美國 10 年期公債殖利率下降 17.0 bps 至 4.96%，與 9 月 CPI 年增 3.72% 所呈現的通膨壓力同時存在。\n- 台灣 10 月 22 日外資賣超 816 億元，台股加權指數收跌 846.34 點，新台幣對美元收至 32.508。\n- 台灣 9 月出口年增 60.9%，其中資通與視聽產品年增 103.0%、電子零組件年增 45.3%。\n\n🌐 Cross-Market\n- 總體經濟與利率：聯聯準會於 9 月決議升息 1 碼至 3.75% 至 4.00% 區間；9 月非農就業月增 2.9 萬人，失業率升至 4.2%。\n- 美股指數（10/21 資料 ⚠️）：標普 500 指數上漲 0.58% 收 7,757.17 點，那斯達克指數上漲 1.05% 收 26,702.86 點。\n- 原油市場（10/20 資料 ⚠️）：WTI 原油下跌 1.93% 至每桶 107.89 美元，布蘭特原油下跌 3.03% 至每桶 115.22 美元。\n- 企業動態：OpenAI 官方宣布與 Uber 合作推廣 ChatGPT Work，Google 則發布東南亞數位經濟報告。\n- 台股籌碼與權值股：10 月 22 日三大法人合計賣超 995 億元，台積電股價下跌 35 元收在 2,385 元。\n\n🚨 Event Focus\n- 10 月 28 日 PCE 及核心 PCE 物價指數（估計發布窗口），作為通膨趨勢與貨幣政策觀察依據。\n- 10 月 28 日 EIA 週度石油庫存報告，觀察最新能源供需數據。\n\n👀 Watch Next\n- 後續需關注美國 PCE 數據發布，評估物價變化與公債殖利率的後續走勢。\n- 台灣出口數據展現外外需線索，但個別企業基本面仍需等待公司官方公布之營收、財測與財務報告獨立驗證。\n\n🎯 Bottom Line\n當前市場呈現象徵通膨壓力與公債殖利率回檔並存的狀態，短線焦點轉向即將發布的 PCE 數據與台股法人資金流向。\n\n📚 Sources\nEIA｜Federal Reserve｜OpenAI｜Google｜BEA via FRED｜BLS｜U.S. Treasury｜Taiwan MOF｜CBC Taiwan｜TWSE",
+  "report_date": "2026-10-24",
+  "generated_at": "2026-10-24T10:58:28.828270+08:00",
+  "message": "📊 Daily Market Brief\n日期：2026-10-24\n\n🔑 Today in 3\n• 根據最新可得市場資料⚠️，科技股賣壓使那斯達克指數下跌 2.60%，台股加權指數同時出現 846.34 點修正，外資單日賣超 816 億元。\n• 9 月美國 CPI 年增 3.72% 顯示通膨壓力未解，FOMC 於 9 月聲明中決議升息 1 碼至 3.75% 至 4.00% 區間。\n• 台灣 9 月出口金額達 872 億美元，年增 60.9%，其中資通與視聽產品年增 103.0%，外需相關數據維持高成長態勢。\n\n🌐 Cross-Market\n• 美國 10 年期公債殖利率上揚 4.0 bps 至 5.00%。\n• 原油市場🔴出現回檔，WTI 報 107.89 美元/桶，Brent 報 115.22 美元/桶，EIA 週庫存減少 310 萬桶。\n• 美國勞動市場呈現分歧，9 月非農就業增加 2.9 萬人，失業率微升 0.1 個百分點至 4.2%。\n• AI 官方動態方面，OpenAI 與 Google 宣布持續擴建雲端儲存設施與東南亞數位經濟布局。\n• 美元兌新台幣匯率報 32.508 元，微幅變動 +0.020 元。\n\n🚨 Event Focus\n• 10 月 28 日 PCE / 核心 PCE 物價指數（估計發布窗口）：將提供美聯儲關注的最新通膨趨勢，影響市場對後續利率路徑之評估。\n• 10 月 28 日 EIA 週度石油庫存：將公布最新週度庫存變化，作為觀察原油供需狀況之依據。\n\n👀 Watch Next\n• 觀察 10 月底 PCE 及 11 月初 CPI 數據，評估美國通膨壓力對美聯儲後續政策路徑的可能影響。\n• 台灣整體出口成長顯著，惟個別企業表現與訂單狀況，仍需等待公司官方後續公布之財報、營收與展望數據獨立驗證。\n\n🎯 Bottom Line\n當前市場聚焦於高通膨下的貨幣政策走向與科技板塊調整，主要不確定性來自通膨降溫速度與能源價格動態。\n\n📚 Sources\nEIA｜Federal Reserve｜OpenAI｜Google｜BEA via FRED｜BLS｜U.S. Treasury｜Taiwan MOF｜CBC Taiwan｜TWSE",
   "data_health": {
     "total": 38,
     "success": 38,
@@ -11,10 +11,10 @@
   "signals": {
     "signals": [
       {
-        "name": "US 10Y",
+        "name": "Nasdaq",
         "score": 2,
         "direction": "down",
-        "evidence": "-17.0 bps"
+        "evidence": "-2.60%"
       },
       {
         "name": "TWSE Foreign Flow",
@@ -35,10 +35,10 @@
         "evidence": "+0.58%"
       },
       {
-        "name": "Nasdaq",
-        "score": 1,
+        "name": "US 10Y",
+        "score": 0,
         "direction": "up",
-        "evidence": "+1.05%"
+        "evidence": "+4.0 bps"
       },
       {
         "name": "EIA Crude Inventory",
@@ -49,10 +49,10 @@
     ],
     "notable": [
       {
-        "name": "US 10Y",
+        "name": "Nasdaq",
         "score": 2,
         "direction": "down",
-        "evidence": "-17.0 bps"
+        "evidence": "-2.60%"
       },
       {
         "name": "TWSE Foreign Flow",
@@ -71,12 +71,6 @@
         "score": 1,
         "direction": "up",
         "evidence": "+0.58%"
-      },
-      {
-        "name": "Nasdaq",
-        "score": 1,
-        "direction": "up",
-        "evidence": "+1.05%"
       }
     ]
   },
@@ -117,7 +111,7 @@
       "date": "2026-10-28",
       "label": "EIA 週度石油庫存",
       "certainty": "scheduled-cadence",
-      "days_ahead": 5,
+      "days_ahead": 4,
       "priority": "WATCH",
       "related_data": [
         "WTI",
@@ -129,7 +123,7 @@
       "date": "2026-10-28",
       "label": "PCE / Core PCE",
       "certainty": "estimated-window",
-      "days_ahead": 5,
+      "days_ahead": 4,
       "priority": "WATCH",
       "related_data": [
         "PCE",
@@ -141,7 +135,7 @@
       "date": "2026-11-08",
       "label": "台灣出口",
       "certainty": "estimated-window",
-      "days_ahead": 16,
+      "days_ahead": 15,
       "priority": "MONITOR",
       "related_data": [
         "Taiwan Exports",
@@ -154,7 +148,7 @@
       "date": "2026-11-10",
       "label": "美國 CPI",
       "certainty": "estimated-window",
-      "days_ahead": 18,
+      "days_ahead": 17,
       "priority": "MONITOR",
       "related_data": [
         "CPI",
@@ -244,9 +238,9 @@
           "status": "available",
           "date": "2026-10-10",
           "frequency": "weekly",
-          "value": 165861,
-          "value_text": "165,861 claims",
-          "weekly_change": -25172,
+          "value": 172640,
+          "value_text": "172,640 claims",
+          "weekly_change": -18459,
           "source": "DOL ETA",
           "source_url": "https://oui.doleta.gov/unemploy/csv/ar539.csv",
           "aggregation": "sum of jurisdiction rows",
@@ -284,35 +278,35 @@
         {
           "label": "US 2Y Treasury",
           "status": "available",
-          "date": "2026-10-22",
+          "date": "2026-10-23",
           "frequency": "daily",
-          "value": 4.65,
-          "value_text": "4.65%",
-          "change_bps": -15.999999999999925,
+          "value": 4.69,
+          "value_text": "4.69%",
+          "change_bps": 4.0000000000000036,
           "source": "U.S. Treasury",
           "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml"
         },
         {
           "label": "US 10Y Treasury",
           "status": "available",
-          "date": "2026-10-22",
+          "date": "2026-10-23",
           "frequency": "daily",
-          "value": 4.96,
-          "value_text": "4.96%",
-          "change_bps": -16.999999999999993,
+          "value": 5.0,
+          "value_text": "5.00%",
+          "change_bps": 4.0000000000000036,
           "source": "U.S. Treasury",
           "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml"
         },
         {
           "label": "2Y-10Y yield spread",
           "status": "available",
-          "date": "2026-10-22",
+          "date": "2026-10-23",
           "frequency": "daily",
           "spread_bps": 30.99999999999996,
           "value_text": "+31.0 bps",
-          "two_year": 4.65,
-          "ten_year": 4.96,
-          "change_bps": -1.0000000000000675,
+          "two_year": 4.69,
+          "ten_year": 5.0,
+          "change_bps": 0.0,
           "source": "U.S. Treasury",
           "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml",
           "interpretation_limits": "Spread is computed only from same-date official Treasury curve fields; it is not a recession forecast."
@@ -1595,22 +1589,22 @@
       {
         "title": "OpenAI 官方 AI / 科技更新",
         "source": "OpenAI",
-        "date": "2026-10-22",
+        "date": "2026-10-23",
         "fact": "OpenAI 發布官方 AI / 科技公告；英文原標題與摘要保留於下方供查核。",
         "context": "這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。",
         "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
-        "original_title": "What FDE means at OpenAI",
-        "original_summary": "What forward deployed engineering means at OpenAI"
+        "original_title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+        "original_summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
       },
       {
         "title": "OpenAI 官方 AI / 科技更新",
         "source": "OpenAI",
-        "date": "2026-10-22",
+        "date": "2026-10-23",
         "fact": "OpenAI 發布官方 AI / 科技公告；英文原標題與摘要保留於下方供查核。",
         "context": "這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。",
         "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
-        "original_title": "Uber brings ChatGPT Work to all employees with OpenAI",
-        "original_summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
+        "original_title": "Securing our frontier model training environment",
+        "original_summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
       },
       {
         "title": "Google 官方 AI / 科技更新",
@@ -1718,15 +1712,15 @@
       "ok": true,
       "data": {
         "latest": {
+          "date": "2026-10-22",
+          "value": 26008.86
+        },
+        "previous": {
           "date": "2026-10-21",
           "value": 26702.86
         },
-        "previous": {
-          "date": "2026-10-20",
-          "value": 26424.82
-        },
-        "change": 278.0400000000009,
-        "change_pct": 1.0521925977168467
+        "change": -694.0,
+        "change_pct": -2.598972544513958
       }
     },
     "WTI": {
@@ -1781,10 +1775,10 @@
           },
           {
             "label": "Nasdaq Composite",
-            "latest_date": "2026-10-21",
-            "latest_value": 26702.86,
-            "ret_5": 0.037425724547422594,
-            "ret_20": -0.8656803301450409
+            "latest_date": "2026-10-22",
+            "latest_value": 26008.86,
+            "ret_5": -2.636054389936291,
+            "ret_20": -3.4540896836117487
           },
           {
             "label": "WTI Spot",
@@ -2136,19 +2130,19 @@
         "items": [
           {
             "source": "OpenAI",
-            "date": "2026-10-22",
-            "title": "What FDE means at OpenAI",
-            "summary": "What forward deployed engineering means at OpenAI",
-            "link": "https://openai.com/index/forward-deployed-engineering-means",
-            "sort_key": 1792648800.0
+            "date": "2026-10-23",
+            "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+            "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+            "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+            "sort_key": 1792774800.0
           },
           {
             "source": "OpenAI",
-            "date": "2026-10-22",
-            "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-            "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-            "link": "https://openai.com/index/uber-chatgpt-work-rollout",
-            "sort_key": 1792627200.0
+            "date": "2026-10-23",
+            "title": "Securing our frontier model training environment",
+            "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+            "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+            "sort_key": 1792749600.0
           },
           {
             "source": "Google",
@@ -2338,13 +2332,13 @@
         "frequency": "weekly",
         "latest": {
           "date": "2026-10-10",
-          "value": 165861
+          "value": 172640
         },
         "previous": {
           "date": "2026-10-03",
-          "value": 191033
+          "value": 191099
         },
-        "change": -25172,
+        "change": -18459,
         "aggregation": "sum of jurisdiction rows",
         "interpretation_limits": "Official weekly claims data only; no consensus, surprise, seasonal-adjustment assumption, causality, or forecast is inferred."
       }
@@ -2634,14 +2628,14 @@
       "data": {
         "source": "U.S. Treasury",
         "latest": {
+          "date": "2026-10-23",
+          "value": 5.0
+        },
+        "previous": {
           "date": "2026-10-22",
           "value": 4.96
         },
-        "previous": {
-          "date": "2026-10-21",
-          "value": 5.13
-        },
-        "change_bps": -16.999999999999993
+        "change_bps": 4.0000000000000036
       }
     },
     "US 2Y Treasury": {
@@ -2652,14 +2646,14 @@
         "label": "2-year Treasury par yield",
         "frequency": "daily",
         "latest": {
+          "date": "2026-10-23",
+          "value": 4.69
+        },
+        "previous": {
           "date": "2026-10-22",
           "value": 4.65
         },
-        "previous": {
-          "date": "2026-10-21",
-          "value": 4.81
-        },
-        "change_bps": -15.999999999999925
+        "change_bps": 4.0000000000000036
       }
     },
     "2Y-10Y Yield Spread": {
@@ -2670,18 +2664,18 @@
         "label": "2Y-10Y Treasury yield spread",
         "frequency": "daily",
         "latest": {
+          "date": "2026-10-23",
+          "spread_bps": 30.99999999999996,
+          "two_year": 4.69,
+          "ten_year": 5.0
+        },
+        "previous": {
           "date": "2026-10-22",
           "spread_bps": 30.99999999999996,
           "two_year": 4.65,
           "ten_year": 4.96
         },
-        "previous": {
-          "date": "2026-10-21",
-          "spread_bps": 32.00000000000003,
-          "two_year": 4.81,
-          "ten_year": 5.13
-        },
-        "change_bps": -1.0000000000000675,
+        "change_bps": 0.0,
         "interpretation_limits": "Spread is computed only from same-date official Treasury curve fields; it is not a recession forecast."
       }
     },
