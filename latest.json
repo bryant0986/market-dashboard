@@ -1,18 +1,12 @@
 {
-  "report_date": "2026-10-25",
-  "generated_at": "2026-10-25T10:52:21.136049+08:00",
-  "message": "📊 Daily Market Brief\n日期：2026-10-25\n\n🔑 Today in 3\n- 台灣 9 月出口年增率為 60.9%，其中資通與視聽產品年增 103.0%、電子零組件年增 45.3%。\n- 美國 8 月 PCE 年增 3.42%、核心 PCE 年增 3.01%，美債 10 年期殖利率收在 5.00%，日變動 +4.0 bps（⚠️ 10/23 資料）。\n- 台灣籌碼面呈現外資單日賣超 816 億元（⚠️ 10/22 資料），三大法人合計賣超 995 億元。\n\n🌐 Cross-Market\n- 美股市場：標普 500 指數收 7,757.17 點（🔴 10/21 資料）；那斯達克指數收 25,955.34 點，下跌 0.21%（⚠️ 10/23 資料）。\n- 原油市場：WTI 與 Brent 原油分別收在每桶 107.89 美元與 115.22 美元（🔴 10/20 資料）；EIA 截至 10/16 當週原油庫存週減 310 萬桶。\n- 匯率與台股：新台幣兌美元收 32.508（⚠️ 10/22 資料）；加權指數收 46041.43 點，台積電收 2,385 元，雙雙呈現下跌（⚠️ 10/22 資料）。\n- AI 產業動態：OpenAI 發布線上儲存設施擴充與模型訓練安全說明，Google 發布東南亞數位經濟報告，均未包含特定企業訂單或營收數字。\n\n🚨 Event Focus\n- 美國 PCE / Core PCE 物價指數：10-28 為估計發布窗口，市場關注最新通膨數據對聯準會政策預期的方向性影響。\n- EIA 週度石油庫存：10-28 將發布最新數據，作為觀察能源供需變化的線索。\n\n👀 Watch Next\n- 觀察官方通膨與就業數據補充：目前 9 月 CPI、失業率與非農就業資料取得失敗，需等待官方後續更新以確認勞動市場與物價全貌。\n- 觀察企業官方財報與營收：台灣出口數據反映總體外需，但個別企業訂單與基本面趨勢仍需獨立等待公司官方營收、財報與財測資料驗證。\n\n🎯 Bottom Line\n當前市場呈現出口成長與通膨壓力並存的總體環境，籌碼面出現外資賣超，且部分總體經濟數據尚待補充。短線重點關注即將發布的 PCE 物價數據與石油庫存變化。\n\n📚 Sources\nEIA｜Federal Reserve｜OpenAI｜Google｜BEA via FRED｜U.S. Treasury｜Taiwan MOF｜CBC Taiwan｜TWSE",
+  "report_date": "2026-10-26",
+  "generated_at": "2026-10-26T10:49:51.052586+08:00",
+  "message": "📊 Daily Market Brief\n日期：2026-10-26\n\n🔑 Today in 3\n• 通膨數據維持高位且勞動市場呈現降溫，美國9月CPI年增率3.72%、9月非農就業新增2.9萬人，Fed於9月FOMC會議升息一碼至3.75%至4.00%區間。\n• 台灣9月出口呈現成長動能，出口總額年增率達60.9%，其中資通與視聽產品年增率103.0%。\n• 籌碼面呈現偏空流向，10月22日最新可得資料顯示外資於台股單日賣超816億元（該資料時間較舊）。\n\n🌐 Cross-Market\n• 美國債券：10月23日最新10年期美債殖利率收於5.00%，單日變動上升4.0 bps（資料較舊）。\n• 能源市場：10月20日最新WTI原油期貨收每桶107.89美元（-1.93%），與同日布蘭特原油（-3.03%）方向一致（資料較舊）。\n• 人工智慧：OpenAI於10月23日發表官方公告，說明其擴充ChatGPT線上儲存規模與強化前沿模型訓練環境之安全措施。\n• 美國股市：10月21日S&P 500指數收7,757.17點（+0.58%，資料較舊），與10月23日Nasdaq指數收25,955.34點（-0.21%）變動方向不同。\n\n🚨 Event Focus\n• 10月28日：美國將迎來PCE與Core PCE指數發布（估計發布窗口），作為Fed通膨評估關鍵數據。\n• 10月28日：EIA將公布週度石油庫存數據，提供能源市場最新庫存變化線索。\n\n👀 Watch Next\n• 觀察後續美國官方公布之CPI與PCE等通膨數據更新，以追蹤利率政策預期變化。\n• 觀察個別企業後續發布之官方財報、營收與財測數據，獨立驗證企業獲利狀況。\n\n🎯 Bottom Line\n目前市場呈現通膨壓力尚存與台股籌碼面外資賣超的環境，同時台灣出口數據顯示外力動能；最大不確定性來自於聯準會政策路徑以及能源價格波動對通膨的潛在影響。\n\n📚 Sources\nEIA｜Federal Reserve｜OpenAI｜BEA via FRED｜BLS｜U.S. Treasury｜Taiwan MOF｜CBC Taiwan｜TWSE",
   "data_health": {
     "total": 38,
-    "success": 33,
-    "failed_count": 5,
-    "failed_items": [
-      "CPI",
-      "Core CPI",
-      "PPI Final Demand",
-      "Unemployment Rate",
-      "Nonfarm Payrolls"
-    ]
+    "success": 38,
+    "failed_count": 0,
+    "failed_items": []
   },
   "signals": {
     "signals": [
@@ -79,7 +73,7 @@
       "name": "Inflation Pressure",
       "score": 2,
       "label": "elevated",
-      "evidence": "PCE YoY 3.42%; Core PCE YoY 3.01%"
+      "evidence": "CPI YoY 3.72%; PCE YoY 3.42%; Core PCE YoY 3.01%"
     },
     {
       "name": "Taiwan Export Momentum",
@@ -94,6 +88,12 @@
       "evidence": "-816 億元"
     },
     {
+      "name": "Labor Cooling",
+      "score": 1,
+      "label": "mixed",
+      "evidence": "unemployment 4.2%, +0.1 pp; NFP monthly +29k"
+    },
+    {
       "name": "Oil Inventory Signal",
       "score": 0,
       "label": "balanced",
@@ -105,8 +105,8 @@
       "date": "2026-10-28",
       "label": "EIA 週度石油庫存",
       "certainty": "scheduled-cadence",
-      "days_ahead": 3,
-      "priority": "WATCH",
+      "days_ahead": 2,
+      "priority": "HIGH",
       "related_data": [
         "WTI",
         "Brent",
@@ -117,8 +117,8 @@
       "date": "2026-10-28",
       "label": "PCE / Core PCE",
       "certainty": "estimated-window",
-      "days_ahead": 3,
-      "priority": "WATCH",
+      "days_ahead": 2,
+      "priority": "HIGH",
       "related_data": [
         "PCE",
         "Core PCE",
@@ -129,13 +129,24 @@
       "date": "2026-11-08",
       "label": "台灣出口",
       "certainty": "estimated-window",
-      "days_ahead": 14,
+      "days_ahead": 13,
       "priority": "MONITOR",
       "related_data": [
         "Taiwan Exports",
         "TAIEX",
         "TSMC 2330",
         "TWSE Institutional Flows"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "label": "美國 CPI",
+      "certainty": "estimated-window",
+      "days_ahead": 15,
+      "priority": "MONITOR",
+      "related_data": [
+        "CPI",
+        "US 10Y Treasury"
       ]
     }
   ],
@@ -146,18 +157,45 @@
       "Inflation": [
         {
           "label": "Headline CPI",
-          "status": "unavailable",
-          "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://api.bls.gov/publicAPI/v1/timeseries/data/CUSR0000SA0"
+          "status": "available",
+          "date": "2026-09",
+          "frequency": "monthly",
+          "value": 336.298,
+          "value_text": "336.298 index",
+          "mom_pct": 0.6485480245771958,
+          "yoy_pct": 3.7172508442689933,
+          "source": "BLS",
+          "source_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/CUSR0000SA0",
+          "series_id": "CUSR0000SA0",
+          "interpretation_limits": "Index data only; no consensus, surprise, causality, or forecast."
         },
         {
           "label": "Core CPI",
-          "status": "unavailable",
-          "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://api.bls.gov/publicAPI/v1/timeseries/data/CUSR0000SA0L1E"
+          "status": "available",
+          "date": "2026-09",
+          "frequency": "monthly",
+          "value": 338.896,
+          "value_text": "338.896 index",
+          "mom_pct": 0.3348481932704776,
+          "yoy_pct": 2.5658408440218174,
+          "source": "BLS",
+          "source_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/CUSR0000SA0L1E",
+          "series_id": "CUSR0000SA0L1E",
+          "interpretation_limits": "BLS index data only; no consensus, surprise, policy causality, or forecast is inferred."
         },
         {
           "label": "PPI final demand",
-          "status": "unavailable",
-          "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://api.bls.gov/publicAPI/v1/timeseries/data/WPSFD4"
+          "status": "available",
+          "date": "2026-09",
+          "frequency": "monthly",
+          "value": 159.78,
+          "value_text": "159.780 index",
+          "mom_pct": 1.3433801423297909,
+          "yoy_pct": 6.346301041632,
+          "source": "BLS",
+          "source_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/WPSFD4",
+          "series_id": "WPSFD4",
+          "interpretation_limits": "BLS index data only; no consensus, surprise, policy causality, or forecast is inferred."
         },
         {
           "label": "PCE price index",
@@ -205,13 +243,29 @@
         },
         {
           "label": "Unemployment rate",
-          "status": "unavailable",
-          "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://api.bls.gov/publicAPI/v1/timeseries/data/LNS14000000"
+          "status": "available",
+          "date": "2026-09",
+          "frequency": "monthly",
+          "value": 4.2,
+          "value_text": "4.2%",
+          "change_pp": 0.10000000000000053,
+          "source": "BLS",
+          "source_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/LNS14000000",
+          "series_id": "LNS14000000",
+          "interpretation_limits": "BLS labor-force series only; no policy causality or forecast."
         },
         {
           "label": "Nonfarm payrolls",
-          "status": "unavailable",
-          "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://api.bls.gov/publicAPI/v1/timeseries/data/CES0000000001"
+          "status": "available",
+          "date": "2026-09",
+          "frequency": "monthly",
+          "value": 159044.0,
+          "value_text": "159,044k payroll level",
+          "change_thousands": 29.0,
+          "source": "BLS",
+          "source_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/CES0000000001",
+          "series_id": "CES0000000001",
+          "interpretation_limits": "BLS payroll level/change only; no policy causality or forecast."
         }
       ],
       "Rates": [
@@ -1506,7 +1560,7 @@
         "title": "總體經濟脈動",
         "source": "BLS / BEA via FRED",
         "date": "",
-        "fact": "核心 PCE 2026-08：YoY +3.01%",
+        "fact": "CPI 2026-09：MoM +0.65%、YoY +3.72%；核心 PCE 2026-08：YoY +3.01%；失業率 2026-09：4.2%；非農就業月變動 2026-09：+29k",
         "context": "通膨與就業資料提供 Fed 雙重使命的當期背景，也可搭配 US 10Y 的變化觀察市場利率環境。",
         "limits": "不同資料的發布月份可能不同，不能把不同期別直接視為同一天的因果關係。",
         "original_title": "Macro Pulse",
@@ -1545,16 +1599,6 @@
         "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
         "original_title": "Securing our frontier model training environment",
         "original_summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
-      },
-      {
-        "title": "Google 官方 AI / 科技更新",
-        "source": "Google",
-        "date": "2026-10-21",
-        "fact": "Google 發布官方 AI / 科技公告；英文原標題與摘要保留於下方供查核。",
-        "context": "這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。",
-        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
-        "original_title": "Southeast Asia’s digital economy to hit $368 billion",
-        "original_summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
       }
     ],
     "Taiwan": [
@@ -2083,14 +2127,6 @@
             "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
             "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
             "sort_key": 1792749600.0
-          },
-          {
-            "source": "Google",
-            "date": "2026-10-21",
-            "title": "Southeast Asia’s digital economy to hit $368 billion",
-            "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
-            "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-            "sort_key": 1792555200.0
           }
         ],
         "source_status": {
@@ -2104,7 +2140,7 @@
           },
           "Google": {
             "ok": true,
-            "count": 1
+            "count": 0
           },
           "Meta": {
             "ok": true,
@@ -2118,24 +2154,107 @@
       }
     },
     "CPI": {
-      "ok": false,
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://api.bls.gov/publicAPI/v1/timeseries/data/CUSR0000SA0"
+      "ok": true,
+      "data": {
+        "source": "BLS",
+        "series_id": "CUSR0000SA0",
+        "latest": {
+          "date": "2026-09",
+          "value": 336.298
+        },
+        "previous": {
+          "date": "2026-08",
+          "value": 334.131
+        },
+        "year_ago": {
+          "date": "2025-09",
+          "value": 324.245
+        },
+        "mom_pct": 0.6485480245771958,
+        "yoy_pct": 3.7172508442689933
+      }
     },
     "Core CPI": {
-      "ok": false,
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://api.bls.gov/publicAPI/v1/timeseries/data/CUSR0000SA0L1E"
+      "ok": true,
+      "data": {
+        "source": "BLS",
+        "source_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/CUSR0000SA0L1E",
+        "series_id": "CUSR0000SA0L1E",
+        "label": "Core CPI, all items less food and energy",
+        "frequency": "monthly",
+        "latest": {
+          "date": "2026-09",
+          "value": 338.896
+        },
+        "previous": {
+          "date": "2026-08",
+          "value": 337.765
+        },
+        "year_ago": {
+          "date": "2025-09",
+          "value": 330.418
+        },
+        "mom_pct": 0.3348481932704776,
+        "yoy_pct": 2.5658408440218174,
+        "interpretation_limits": "BLS index data only; no consensus, surprise, policy causality, or forecast is inferred."
+      }
     },
     "PPI Final Demand": {
-      "ok": false,
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://api.bls.gov/publicAPI/v1/timeseries/data/WPSFD4"
+      "ok": true,
+      "data": {
+        "source": "BLS",
+        "source_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/WPSFD4",
+        "series_id": "WPSFD4",
+        "label": "PPI final demand, seasonally adjusted",
+        "frequency": "monthly",
+        "latest": {
+          "date": "2026-09",
+          "value": 159.78
+        },
+        "previous": {
+          "date": "2026-08",
+          "value": 157.662
+        },
+        "year_ago": {
+          "date": "2025-09",
+          "value": 150.245
+        },
+        "mom_pct": 1.3433801423297909,
+        "yoy_pct": 6.346301041632,
+        "interpretation_limits": "BLS index data only; no consensus, surprise, policy causality, or forecast is inferred."
+      }
     },
     "Unemployment Rate": {
-      "ok": false,
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://api.bls.gov/publicAPI/v1/timeseries/data/LNS14000000"
+      "ok": true,
+      "data": {
+        "source": "BLS",
+        "series_id": "LNS14000000",
+        "latest": {
+          "date": "2026-09",
+          "value": 4.2
+        },
+        "previous": {
+          "date": "2026-08",
+          "value": 4.1
+        },
+        "change_pp": 0.10000000000000053
+      }
     },
     "Nonfarm Payrolls": {
-      "ok": false,
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://api.bls.gov/publicAPI/v1/timeseries/data/CES0000000001"
+      "ok": true,
+      "data": {
+        "source": "BLS",
+        "series_id": "CES0000000001",
+        "latest": {
+          "date": "2026-09",
+          "value": 159044.0
+        },
+        "previous": {
+          "date": "2026-08",
+          "value": 159015.0
+        },
+        "change_thousands": 29.0
+      }
     },
     "PCE": {
       "ok": true,
