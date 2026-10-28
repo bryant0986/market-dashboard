@@ -1,23 +1,15 @@
 {
-  "report_date": "2026-10-27",
-  "generated_at": "2026-10-27T11:25:19.773120+08:00",
-  "message": "📊 Daily Market Brief\n日期：2026-10-27\n\n🔑 Today in 3\n- 籌碼面顯示外資單日淨賣超台股 816 億元 ⚠️（資料截至 10/22）。\n- 台灣 9 月出口年增率達 60.9%，其中資通與視聽產品年增 103.0% 為主要擴張項目。\n- 美國 9 月 CPI 年增 3.72% 且 PCE 年增 3.42%，通膨數據持續呈現壓力。\n\n🌐 Cross-Market\n- 總體經濟與政策：聯準會 9 月決議升息一碼至 3.75%–4.00% 區間；9 月非農就業新增 2.9 萬人、失業率為 4.2%，美債 10 年期殖利率維持在 5.00%。\n- 科技與 AI 動態：OpenAI 與 Google 發布最新技術與學術應用進展，包含 GPT-6.1 Sol 於程式碼安全調查之應用，以及神經科學與數學理論驗證。\n- 能源市場：WTI 原油每桶 107.89 美元 ⚠️（資料截至 10/20），Brent 原油每桶 115.22 美元；10 月 16 日當週 EIA 原油庫存減少 310 萬桶。\n- 匯率與台股市場：新台幣兌美元收在 32.508；加權指數下跌 846.34 點（-1.81%）收 46041.43 點，台積電收於 2385 元，三大法人合計淨賣超 995 億元。\n\n🚨 Event Focus\n- 10-28 將迎來 EIA 週度石油庫存，以及 PCE / Core PCE 物價指數（估計發布窗口），此為觀察能源供需與通膨路徑的重要參考。\n\n👀 Watch Next\n1. 關注 10 月 28 日 PCE 及 11 月 10 日 CPI（估計發布窗口）之數據更新，以觀察通膨對聯準會政策預期的方向性影響。\n2. 後續需等待企業官方財報、營收與財測資料發布，以獨立驗證個股基本面狀況。\n\n🎯 Bottom Line\n當前市場主線圍繞於通膨壓力居高與籌碼面賣壓，最大不確定性在於就業放緩與通膨交織下，聯準會政策路徑與能源數據的演進方向。\n\n📚 Sources\nEIA｜Federal Reserve｜OpenAI｜Google｜BEA via FRED｜BLS｜U.S. Treasury｜Taiwan MOF｜CBC Taiwan｜TWSE",
+  "report_date": "2026-10-28",
+  "generated_at": "2026-10-28T11:39:28.638401+08:00",
+  "message": "📊 Daily Market Brief\n日期：2026-10-28\n\n🔑 Today in 3\n1. 美股主要指數呈現上揚，S&P 500 上漲 0.60% 至 7,722.60 點，納斯達克指數（⚠️ 10/26資料）上漲 0.82%。\n2. 台灣 9 月出口年增率達 60.9%，其中資通與視聽產品年增 103.0%，外需指標展現高成長動態。\n3. 美國巨觀數據呈現通膨居高與勞動市場降溫共存，9 月 CPI 年增 3.72%、非農就業月增 2.9 萬人。\n\n🌐 Cross-Market\n• 美國 10 年期公債殖利率下降 1.0 bps 至 4.99%，美聯儲於 9 月聲明中將目標利率區間調升至 3.75% 至 4.00%。\n• 原油現貨價格（🔴 10/20資料）下跌，WTI 報 107.89 美元/桶（-1.93%），Brent 報 115.22 美元/桶（-3.03%）；截至 10/16 當週 EIA 原油庫存週減 310 萬桶。\n• AI 官方公告方面，Meta 於新加坡推出個人 AI 代理 Muse，OpenAI 與 Oracle 擴大合作將企業應用引進 ChatGPT。\n• 台股與匯率走勢方向一致，加權指數上漲 54.80 點至 46096.23 點，台積電收於 2,400 元，美元兌新台幣下跌 0.17% 至 32.452。\n• 台灣三大法人最新合計淨買超 32 億元，其中外資淨賣超 80 億元，投信淨買超 236 億元。\n\n🚨 Event Focus\n• 美國 PCE / Core PCE 個人消費支出物價指數（估計發布窗口：2026-10-28），為市場觀察通膨與美債殖利率之重點數據。\n\n👀 Watch Next\n1. 觀察 2026-11-04 發布之 EIA 週度石油庫存數據，對原油市場進行後續追蹤。\n2. 針對台灣出口表現與相關產業動向，後續需等待各公司官方財報、營收與財測數據獨立驗證。\n\n🎯 Bottom Line\n當前市場主線聚焦於通膨數據與貨幣政策動態，並搭配台灣出口展現的高成長外需線索。在能源價格波動與勞動數據冷卻下，整體資產表現仍需等待後續官方數據與企業報告進一步釐清。\n\n📚 Sources\nEIA｜Federal Reserve｜OpenAI｜Google｜Meta｜BEA via FRED｜BLS｜U.S. Treasury｜Taiwan MOF｜CBC Taiwan｜TWSE",
   "data_health": {
     "total": 38,
-    "success": 37,
-    "failed_count": 1,
-    "failed_items": [
-      "Retail Sales"
-    ]
+    "success": 38,
+    "failed_count": 0,
+    "failed_items": []
   },
   "signals": {
     "signals": [
-      {
-        "name": "TWSE Foreign Flow",
-        "score": 2,
-        "direction": "sell",
-        "evidence": "-816 億元"
-      },
       {
         "name": "Taiwan Exports YoY",
         "score": 2,
@@ -27,35 +19,35 @@
       {
         "name": "S&P 500",
         "score": 1,
-        "direction": "down",
-        "evidence": "-0.52%"
+        "direction": "up",
+        "evidence": "+0.60%"
       },
       {
         "name": "Nasdaq",
-        "score": 0,
-        "direction": "down",
-        "evidence": "-0.21%"
+        "score": 1,
+        "direction": "up",
+        "evidence": "+0.82%"
       },
       {
         "name": "US 10Y",
         "score": 0,
         "direction": "down",
-        "evidence": "+0.0 bps"
+        "evidence": "-1.0 bps"
       },
       {
         "name": "EIA Crude Inventory",
         "score": 0,
         "direction": "draw",
         "evidence": "-3.1 mb"
+      },
+      {
+        "name": "TWSE Foreign Flow",
+        "score": 0,
+        "direction": "sell",
+        "evidence": "-80 億元"
       }
     ],
     "notable": [
-      {
-        "name": "TWSE Foreign Flow",
-        "score": 2,
-        "direction": "sell",
-        "evidence": "-816 億元"
-      },
       {
         "name": "Taiwan Exports YoY",
         "score": 2,
@@ -65,8 +57,14 @@
       {
         "name": "S&P 500",
         "score": 1,
-        "direction": "down",
-        "evidence": "-0.52%"
+        "direction": "up",
+        "evidence": "+0.60%"
+      },
+      {
+        "name": "Nasdaq",
+        "score": 1,
+        "direction": "up",
+        "evidence": "+0.82%"
       }
     ]
   },
@@ -84,12 +82,6 @@
       "evidence": "YoY +60.9%"
     },
     {
-      "name": "Taiwan Foreign Flow",
-      "score": 2,
-      "label": "net-sell",
-      "evidence": "-816 億元"
-    },
-    {
       "name": "Labor Cooling",
       "score": 1,
       "label": "mixed",
@@ -100,26 +92,20 @@
       "score": 0,
       "label": "balanced",
       "evidence": "weekly -3.1 mb"
+    },
+    {
+      "name": "Taiwan Foreign Flow",
+      "score": 0,
+      "label": "net-sell",
+      "evidence": "-80 億元"
     }
   ],
   "events": [
     {
       "date": "2026-10-28",
-      "label": "EIA 週度石油庫存",
-      "certainty": "scheduled-cadence",
-      "days_ahead": 1,
-      "priority": "HIGH",
-      "related_data": [
-        "WTI",
-        "Brent",
-        "EIA Crude Inventory"
-      ]
-    },
-    {
-      "date": "2026-10-28",
       "label": "PCE / Core PCE",
       "certainty": "estimated-window",
-      "days_ahead": 1,
+      "days_ahead": 0,
       "priority": "HIGH",
       "related_data": [
         "PCE",
@@ -128,10 +114,22 @@
       ]
     },
     {
+      "date": "2026-11-04",
+      "label": "EIA 週度石油庫存",
+      "certainty": "scheduled-cadence",
+      "days_ahead": 7,
+      "priority": "WATCH",
+      "related_data": [
+        "WTI",
+        "Brent",
+        "EIA Crude Inventory"
+      ]
+    },
+    {
       "date": "2026-11-08",
       "label": "台灣出口",
       "certainty": "estimated-window",
-      "days_ahead": 12,
+      "days_ahead": 11,
       "priority": "MONITOR",
       "related_data": [
         "Taiwan Exports",
@@ -144,7 +142,7 @@
       "date": "2026-11-10",
       "label": "美國 CPI",
       "certainty": "estimated-window",
-      "days_ahead": 14,
+      "days_ahead": 13,
       "priority": "MONITOR",
       "related_data": [
         "CPI",
@@ -274,35 +272,35 @@
         {
           "label": "US 2Y Treasury",
           "status": "available",
-          "date": "2026-10-26",
+          "date": "2026-10-27",
           "frequency": "daily",
-          "value": 4.68,
-          "value_text": "4.68%",
-          "change_bps": -1.0000000000000675,
+          "value": 4.7,
+          "value_text": "4.70%",
+          "change_bps": 2.000000000000046,
           "source": "U.S. Treasury",
           "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml"
         },
         {
           "label": "US 10Y Treasury",
           "status": "available",
-          "date": "2026-10-26",
+          "date": "2026-10-27",
           "frequency": "daily",
-          "value": 5.0,
-          "value_text": "5.00%",
-          "change_bps": 0.0,
+          "value": 4.99,
+          "value_text": "4.99%",
+          "change_bps": -0.9999999999999787,
           "source": "U.S. Treasury",
           "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml"
         },
         {
           "label": "2Y-10Y yield spread",
           "status": "available",
-          "date": "2026-10-26",
+          "date": "2026-10-27",
           "frequency": "daily",
-          "spread_bps": 32.00000000000003,
-          "value_text": "+32.0 bps",
-          "two_year": 4.68,
-          "ten_year": 5.0,
-          "change_bps": 1.0000000000000675,
+          "spread_bps": 29.000000000000004,
+          "value_text": "+29.0 bps",
+          "two_year": 4.7,
+          "ten_year": 4.99,
+          "change_bps": -3.000000000000025,
           "source": "U.S. Treasury",
           "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml",
           "interpretation_limits": "Spread is computed only from same-date official Treasury curve fields; it is not a recession forecast."
@@ -311,8 +309,16 @@
       "Retail": [
         {
           "label": "Retail and food services sales",
-          "status": "unavailable",
-          "error": "ReadTimeout: HTTPSConnectionPool(host='www.census.gov', port=443): Read timed out. (read timeout=30)"
+          "status": "available",
+          "date": "2026-09",
+          "frequency": "monthly",
+          "value_usd_bn": 745.021,
+          "value_text": "USD 745.0B",
+          "mom_pct": 0.7708413925190919,
+          "yoy_pct": 6.287627612889972,
+          "source": "U.S. Census Bureau MARTS",
+          "source_url": "https://www.census.gov/retail/marts/www/adv44X72.txt",
+          "interpretation_limits": "Adjusted sales data are not price-adjusted; no consensus, surprise, causality, or forecast is inferred."
         }
       ]
     },
@@ -712,16 +718,26 @@
             "source_url": "https://www.twse.com.tw/exchangeReport/MI_INDEX",
             "frequency": "daily",
             "latest": {
-              "date": "2026-10-22",
-              "close": 46041.43,
-              "official_direction": "<p style ='color:green'>-</p>",
-              "official_change": 846.34,
-              "official_change_pct": -1.81,
-              "previous_close": 46887.77,
-              "consecutive_close_change": -846.3399999999965,
-              "consecutive_close_change_pct": -1.8050335940480782
+              "date": "2026-10-27",
+              "close": 46096.23,
+              "official_direction": "<p style ='color:red'>+</p>",
+              "official_change": 54.8,
+              "official_change_pct": 0.12,
+              "previous_close": 46041.43,
+              "consecutive_close_change": 54.80000000000291,
+              "consecutive_close_change_pct": 0.11902323624614376
             },
             "history": [
+              {
+                "date": "2026-10-27",
+                "close": 46096.23,
+                "official_direction": "<p style ='color:red'>+</p>",
+                "official_change": 54.8,
+                "official_change_pct": 0.12,
+                "previous_close": 46041.43,
+                "consecutive_close_change": 54.80000000000291,
+                "consecutive_close_change_pct": 0.11902323624614376
+              },
               {
                 "date": "2026-10-22",
                 "close": 46041.43,
@@ -807,17 +823,7 @@
                 "close": 49301.96,
                 "official_direction": "<p style ='color:green'>-</p>",
                 "official_change": 11.48,
-                "official_change_pct": -0.02,
-                "previous_close": 49313.44,
-                "consecutive_close_change": -11.480000000003201,
-                "consecutive_close_change_pct": -0.023279657634923057
-              },
-              {
-                "date": "2026-10-08",
-                "close": 49313.44,
-                "official_direction": "<p style ='color:green'>-</p>",
-                "official_change": 492.93,
-                "official_change_pct": -0.99
+                "official_change_pct": -0.02
               }
             ],
             "interpretation_limits": "TAIEX history is daily market data; it does not explain monthly exports or fund flows without same-date evidence."
@@ -831,18 +837,30 @@
             "source_url": "https://www.twse.com.tw/exchangeReport/STOCK_DAY",
             "frequency": "daily",
             "latest": {
-              "date": "2026-10-22",
-              "open": 2435.0,
-              "high": 2435.0,
-              "low": 2385.0,
-              "close": 2385.0,
-              "official_change": -35.0,
-              "volume_shares": 29796590.0,
-              "previous_close": 2420.0,
-              "consecutive_close_change": -35.0,
-              "consecutive_close_change_pct": -1.4462809917355373
+              "date": "2026-10-27",
+              "open": 2380.0,
+              "high": 2405.0,
+              "low": 2380.0,
+              "close": 2400.0,
+              "official_change": 15.0,
+              "volume_shares": 38173147.0,
+              "previous_close": 2385.0,
+              "consecutive_close_change": 15.0,
+              "consecutive_close_change_pct": 0.628930817610063
             },
             "history": [
+              {
+                "date": "2026-10-27",
+                "open": 2380.0,
+                "high": 2405.0,
+                "low": 2380.0,
+                "close": 2400.0,
+                "official_change": 15.0,
+                "volume_shares": 38173147.0,
+                "previous_close": 2385.0,
+                "consecutive_close_change": 15.0,
+                "consecutive_close_change_pct": 0.628930817610063
+              },
               {
                 "date": "2026-10-22",
                 "open": 2435.0,
@@ -1070,18 +1088,6 @@
                 "previous_close": 2460.0,
                 "consecutive_close_change": 40.0,
                 "consecutive_close_change_pct": 1.6260162601626018
-              },
-              {
-                "date": "2026-09-22",
-                "open": 2505.0,
-                "high": 2510.0,
-                "low": 2460.0,
-                "close": 2460.0,
-                "official_change": -20.0,
-                "volume_shares": 22009927.0,
-                "previous_close": 2480.0,
-                "consecutive_close_change": -20.0,
-                "consecutive_close_change_pct": -0.8064516129032258
               }
             ],
             "interpretation_limits": "TSMC price history describes one listed stock only; it is not used to infer orders, demand, or macro causality."
@@ -1095,19 +1101,32 @@
             "source_url": "https://www.twse.com.tw/rwd/zh/fund/BFI82U",
             "frequency": "daily",
             "latest": {
-              "date": "2026-10-22",
-              "foreign_net_twd": -81582101452.0,
-              "investment_trust_net_twd": 9492200518.0,
-              "dealer_proprietary_net_twd": -3716264758.0,
-              "dealer_hedge_net_twd": -23661099849.0,
-              "institutional_total_net_twd": -99467265541.0,
-              "foreign_net_change_twd": -83821011268.0,
-              "investment_trust_net_change_twd": -3306336720.0,
-              "dealer_proprietary_net_change_twd": 2471205307.0,
-              "dealer_hedge_net_change_twd": -16276866047.0,
-              "institutional_total_net_change_twd": -100933008728.0
+              "date": "2026-10-27",
+              "foreign_net_twd": -8038873139.0,
+              "investment_trust_net_twd": 23604506258.0,
+              "dealer_proprietary_net_twd": 768221086.0,
+              "dealer_hedge_net_twd": -13166995196.0,
+              "institutional_total_net_twd": 3166859009.0,
+              "foreign_net_change_twd": 73543228313.0,
+              "investment_trust_net_change_twd": 14112305740.0,
+              "dealer_proprietary_net_change_twd": 4484485844.0,
+              "dealer_hedge_net_change_twd": 10494104653.0,
+              "institutional_total_net_change_twd": 102634124550.0
             },
             "history": [
+              {
+                "date": "2026-10-27",
+                "foreign_net_twd": -8038873139.0,
+                "investment_trust_net_twd": 23604506258.0,
+                "dealer_proprietary_net_twd": 768221086.0,
+                "dealer_hedge_net_twd": -13166995196.0,
+                "institutional_total_net_twd": 3166859009.0,
+                "foreign_net_change_twd": 73543228313.0,
+                "investment_trust_net_change_twd": 14112305740.0,
+                "dealer_proprietary_net_change_twd": 4484485844.0,
+                "dealer_hedge_net_change_twd": 10494104653.0,
+                "institutional_total_net_change_twd": 102634124550.0
+              },
               {
                 "date": "2026-10-22",
                 "foreign_net_twd": -81582101452.0,
@@ -1218,20 +1237,7 @@
                 "investment_trust_net_twd": 7140925067.0,
                 "dealer_proprietary_net_twd": -799373028.0,
                 "dealer_hedge_net_twd": -13494730613.0,
-                "institutional_total_net_twd": -59351325030.0,
-                "foreign_net_change_twd": 23654147034.0,
-                "investment_trust_net_change_twd": 4131995054.0,
-                "dealer_proprietary_net_change_twd": 1332412927.0,
-                "dealer_hedge_net_change_twd": 3104745036.0,
-                "institutional_total_net_change_twd": 32223300051.0
-              },
-              {
-                "date": "2026-10-08",
-                "foreign_net_twd": -75852293490.0,
-                "investment_trust_net_twd": 3008930013.0,
-                "dealer_proprietary_net_twd": -2131785955.0,
-                "dealer_hedge_net_twd": -16599475649.0,
-                "institutional_total_net_twd": -91574625081.0
+                "institutional_total_net_twd": -59351325030.0
               }
             ],
             "interpretation_limits": "Institutional-flow history is descriptive daily trading data; it is not a causal explanation for TAIEX, TSMC, FX, or exports."
@@ -1575,6 +1581,36 @@
     ],
     "AI / Tech": [
       {
+        "title": "Meta 官方 AI / 科技更新",
+        "source": "Meta",
+        "date": "2026-10-28",
+        "fact": "Meta 發布官方 AI / 科技公告；英文原標題與摘要保留於下方供查核。",
+        "context": "這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。",
+        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
+        "original_title": "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone",
+        "original_summary": "Today we’re announcing Muse is now available in Singapore. The post Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone appeared first on Meta Newsroom ."
+      },
+      {
+        "title": "OpenAI 官方 AI / 科技更新",
+        "source": "OpenAI",
+        "date": "2026-10-27",
+        "fact": "OpenAI 發布官方 AI / 科技公告；英文原標題與摘要保留於下方供查核。",
+        "context": "這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。",
+        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
+        "original_title": "Retell uses OpenAI models to help power 100M monthly calls",
+        "original_summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
+      },
+      {
+        "title": "OpenAI 官方 AI / 科技更新",
+        "source": "OpenAI",
+        "date": "2026-10-27",
+        "fact": "OpenAI 發布官方 AI / 科技公告；英文原標題與摘要保留於下方供查核。",
+        "context": "這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。",
+        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
+        "original_title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+        "original_summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
+      },
+      {
         "title": "Google 官方 AI / 科技更新",
         "source": "Google",
         "date": "2026-10-26",
@@ -1583,26 +1619,6 @@
         "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
         "original_title": "Our newest AI Quest: Mapping the human brain",
         "original_summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”"
-      },
-      {
-        "title": "OpenAI 官方 AI / 科技更新",
-        "source": "OpenAI",
-        "date": "2026-10-26",
-        "fact": "OpenAI 發布官方 AI / 科技公告；英文原標題與摘要保留於下方供查核。",
-        "context": "這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。",
-        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
-        "original_title": "Working with academic communities to build scientific understanding",
-        "original_summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
-      },
-      {
-        "title": "OpenAI 官方 AI / 科技更新",
-        "source": "OpenAI",
-        "date": "2026-10-26",
-        "fact": "OpenAI 發布官方 AI / 科技公告；英文原標題與摘要保留於下方供查核。",
-        "context": "這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。",
-        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
-        "original_title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-        "original_summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
       }
     ],
     "Taiwan": [
@@ -1619,8 +1635,8 @@
       {
         "title": "台股法人資金流向",
         "source": "TWSE BFI82U",
-        "date": "2026-10-22",
-        "fact": "外資及陸資 -816 億元；三大法人合計 -995 億元",
+        "date": "2026-10-27",
+        "fact": "外資及陸資 -80 億元；三大法人合計 +32 億元",
         "context": "法人買賣超提供當日資金方向資訊，可與大盤及匯率同時觀察，但不預設彼此存在因果關係。",
         "limits": "單日法人流向不能代表長期趨勢，也不能單獨解釋匯率、景氣或未來股市方向。",
         "original_title": "TWSE Institutional Flow",
@@ -1685,30 +1701,30 @@
       "ok": true,
       "data": {
         "latest": {
-          "date": "2026-10-23",
-          "value": 7623.68
+          "date": "2026-10-27",
+          "value": 7722.6
         },
         "previous": {
-          "date": "2026-10-22",
-          "value": 7663.43
+          "date": "2026-10-26",
+          "value": 7676.77
         },
-        "change": -39.75,
-        "change_pct": -0.5186972413136154
+        "change": 45.82999999999993,
+        "change_pct": 0.5969958719617746
       }
     },
     "Nasdaq Composite": {
       "ok": true,
       "data": {
         "latest": {
+          "date": "2026-10-26",
+          "value": 26169.38
+        },
+        "previous": {
           "date": "2026-10-23",
           "value": 25955.34
         },
-        "previous": {
-          "date": "2026-10-22",
-          "value": 26008.86
-        },
-        "change": -53.52000000000044,
-        "change_pct": -0.2057760317061203
+        "change": 214.04000000000087,
+        "change_pct": 0.8246472594849494
       }
     },
     "WTI": {
@@ -1756,17 +1772,17 @@
         "trends": [
           {
             "label": "S&P 500",
-            "latest_date": "2026-10-23",
-            "latest_value": 7623.68,
-            "ret_5": -0.466874862914251,
-            "ret_20": -1.54621800989486
+            "latest_date": "2026-10-27",
+            "latest_value": 7722.6,
+            "ret_5": 0.13004744203294952,
+            "ret_20": 0.6747631289402493
           },
           {
             "label": "Nasdaq Composite",
-            "latest_date": "2026-10-23",
-            "latest_value": 25955.34,
-            "ret_5": -0.706540887673039,
-            "ret_20": -4.1131608735100915
+            "latest_date": "2026-10-26",
+            "latest_value": 26169.38,
+            "ret_5": -0.9894104965818344,
+            "ret_20": -2.4272586741873154
           },
           {
             "label": "WTI Spot",
@@ -2117,28 +2133,36 @@
         "source": "Official company news",
         "items": [
           {
+            "source": "Meta",
+            "date": "2026-10-28",
+            "title": "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone",
+            "summary": "Today we’re announcing Muse is now available in Singapore. The post Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone appeared first on Meta Newsroom .",
+            "link": "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/",
+            "sort_key": 1793145603.0
+          },
+          {
+            "source": "OpenAI",
+            "date": "2026-10-27",
+            "title": "Retell uses OpenAI models to help power 100M monthly calls",
+            "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+            "link": "https://openai.com/index/retell-ai",
+            "sort_key": 1793113200.0
+          },
+          {
+            "source": "OpenAI",
+            "date": "2026-10-27",
+            "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+            "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+            "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+            "sort_key": 1793084400.0
+          },
+          {
             "source": "Google",
             "date": "2026-10-26",
             "title": "Our newest AI Quest: Mapping the human brain",
             "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
             "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
             "sort_key": 1793030400.0
-          },
-          {
-            "source": "OpenAI",
-            "date": "2026-10-26",
-            "title": "Working with academic communities to build scientific understanding",
-            "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-            "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-            "sort_key": 1793025000.0
-          },
-          {
-            "source": "OpenAI",
-            "date": "2026-10-26",
-            "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-            "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-            "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-            "sort_key": 1793022300.0
           }
         ],
         "source_status": {
@@ -2156,11 +2180,11 @@
           },
           "Meta": {
             "ok": true,
-            "count": 0
+            "count": 1
           },
           "TSMC": {
-            "ok": true,
-            "count": 0
+            "ok": false,
+            "error": "HTTPError: 403 Client Error: Forbidden for url: https://pr.tsmc.com/english/latest-news"
           }
         }
       }
@@ -2332,8 +2356,31 @@
       }
     },
     "Retail Sales": {
-      "ok": false,
-      "error": "ReadTimeout: HTTPSConnectionPool(host='www.census.gov', port=443): Read timed out. (read timeout=30)"
+      "ok": true,
+      "data": {
+        "source": "U.S. Census Bureau MARTS",
+        "source_url": "https://www.census.gov/retail/marts/www/adv44X72.txt",
+        "label": "Retail and food services sales",
+        "frequency": "monthly",
+        "latest": {
+          "date": "2026-09",
+          "value_millions": 745021,
+          "value_usd_bn": 745.021
+        },
+        "previous": {
+          "date": "2026-08",
+          "value_millions": 739322,
+          "value_usd_bn": 739.322
+        },
+        "year_ago": {
+          "date": "2025-09",
+          "value_millions": 700948,
+          "value_usd_bn": 700.948
+        },
+        "mom_pct": 0.7708413925190919,
+        "yoy_pct": 6.287627612889972,
+        "interpretation_limits": "Adjusted sales data are not price-adjusted; no consensus, surprise, causality, or forecast is inferred."
+      }
     },
     "EIA Crude Inventory": {
       "ok": true,
@@ -2593,14 +2640,14 @@
       "data": {
         "source": "U.S. Treasury",
         "latest": {
+          "date": "2026-10-27",
+          "value": 4.99
+        },
+        "previous": {
           "date": "2026-10-26",
           "value": 5.0
         },
-        "previous": {
-          "date": "2026-10-23",
-          "value": 5.0
-        },
-        "change_bps": 0.0
+        "change_bps": -0.9999999999999787
       }
     },
     "US 2Y Treasury": {
@@ -2611,14 +2658,14 @@
         "label": "2-year Treasury par yield",
         "frequency": "daily",
         "latest": {
+          "date": "2026-10-27",
+          "value": 4.7
+        },
+        "previous": {
           "date": "2026-10-26",
           "value": 4.68
         },
-        "previous": {
-          "date": "2026-10-23",
-          "value": 4.69
-        },
-        "change_bps": -1.0000000000000675
+        "change_bps": 2.000000000000046
       }
     },
     "2Y-10Y Yield Spread": {
@@ -2629,18 +2676,18 @@
         "label": "2Y-10Y Treasury yield spread",
         "frequency": "daily",
         "latest": {
+          "date": "2026-10-27",
+          "spread_bps": 29.000000000000004,
+          "two_year": 4.7,
+          "ten_year": 4.99
+        },
+        "previous": {
           "date": "2026-10-26",
           "spread_bps": 32.00000000000003,
           "two_year": 4.68,
           "ten_year": 5.0
         },
-        "previous": {
-          "date": "2026-10-23",
-          "spread_bps": 30.99999999999996,
-          "two_year": 4.69,
-          "ten_year": 5.0
-        },
-        "change_bps": 1.0000000000000675,
+        "change_bps": -3.000000000000025,
         "interpretation_limits": "Spread is computed only from same-date official Treasury curve fields; it is not a recession forecast."
       }
     },
@@ -2649,15 +2696,15 @@
       "data": {
         "source": "CBC Taiwan",
         "latest": {
+          "date": "2026-10-27",
+          "value": 32.452
+        },
+        "previous": {
           "date": "2026-10-22",
           "value": 32.508
         },
-        "previous": {
-          "date": "2026-10-21",
-          "value": 32.488
-        },
-        "change": 0.020000000000003126,
-        "change_pct": 0.061561191824683344
+        "change": -0.05600000000000449,
+        "change_pct": -0.1722652885443721
       }
     },
     "Taiwan Exports": {
@@ -2996,11 +3043,11 @@
       "ok": true,
       "data": {
         "source": "TWSE OpenAPI",
-        "date": "1151022",
-        "close": "46041.43",
-        "direction": "-",
-        "change": "846.34",
-        "change_pct": "-1.81"
+        "date": "1151027",
+        "close": "46096.23",
+        "direction": "+",
+        "change": "54.80",
+        "change_pct": "0.12"
       }
     },
     "TAIEX History": {
@@ -3010,6 +3057,16 @@
         "source_url": "https://www.twse.com.tw/exchangeReport/MI_INDEX",
         "frequency": "daily",
         "history": [
+          {
+            "date": "2026-10-27",
+            "close": 46096.23,
+            "official_direction": "<p style ='color:red'>+</p>",
+            "official_change": 54.8,
+            "official_change_pct": 0.12,
+            "previous_close": 46041.43,
+            "consecutive_close_change": 54.80000000000291,
+            "consecutive_close_change_pct": 0.11902323624614376
+          },
           {
             "date": "2026-10-22",
             "close": 46041.43,
@@ -3095,28 +3152,18 @@
             "close": 49301.96,
             "official_direction": "<p style ='color:green'>-</p>",
             "official_change": 11.48,
-            "official_change_pct": -0.02,
-            "previous_close": 49313.44,
-            "consecutive_close_change": -11.480000000003201,
-            "consecutive_close_change_pct": -0.023279657634923057
-          },
-          {
-            "date": "2026-10-08",
-            "close": 49313.44,
-            "official_direction": "<p style ='color:green'>-</p>",
-            "official_change": 492.93,
-            "official_change_pct": -0.99
+            "official_change_pct": -0.02
           }
         ],
         "latest": {
-          "date": "2026-10-22",
-          "close": 46041.43,
-          "official_direction": "<p style ='color:green'>-</p>",
-          "official_change": 846.34,
-          "official_change_pct": -1.81,
-          "previous_close": 46887.77,
-          "consecutive_close_change": -846.3399999999965,
-          "consecutive_close_change_pct": -1.8050335940480782
+          "date": "2026-10-27",
+          "close": 46096.23,
+          "official_direction": "<p style ='color:red'>+</p>",
+          "official_change": 54.8,
+          "official_change_pct": 0.12,
+          "previous_close": 46041.43,
+          "consecutive_close_change": 54.80000000000291,
+          "consecutive_close_change_pct": 0.11902323624614376
         },
         "interpretation_limits": "TAIEX history is daily market data; it does not explain monthly exports or fund flows without same-date evidence."
       }
@@ -3124,12 +3171,12 @@
     "TSMC 2330": {
       "ok": true,
       "data": {
-        "date": "115/10/22",
-        "open": "2,435.00",
-        "high": "2,435.00",
-        "low": "2,385.00",
-        "close": "2,385.00",
-        "change": "-35.00"
+        "date": "115/10/27",
+        "open": "2,380.00",
+        "high": "2,405.00",
+        "low": "2,380.00",
+        "close": "2,400.00",
+        "change": "+15.00"
       }
     },
     "TSMC History": {
@@ -3140,6 +3187,18 @@
         "stock_no": "2330",
         "frequency": "daily",
         "history": [
+          {
+            "date": "2026-10-27",
+            "open": 2380.0,
+            "high": 2405.0,
+            "low": 2380.0,
+            "close": 2400.0,
+            "official_change": 15.0,
+            "volume_shares": 38173147.0,
+            "previous_close": 2385.0,
+            "consecutive_close_change": 15.0,
+            "consecutive_close_change_pct": 0.628930817610063
+          },
           {
             "date": "2026-10-22",
             "open": 2435.0,
@@ -3367,31 +3426,19 @@
             "previous_close": 2460.0,
             "consecutive_close_change": 40.0,
             "consecutive_close_change_pct": 1.6260162601626018
-          },
-          {
-            "date": "2026-09-22",
-            "open": 2505.0,
-            "high": 2510.0,
-            "low": 2460.0,
-            "close": 2460.0,
-            "official_change": -20.0,
-            "volume_shares": 22009927.0,
-            "previous_close": 2480.0,
-            "consecutive_close_change": -20.0,
-            "consecutive_close_change_pct": -0.8064516129032258
           }
         ],
         "latest": {
-          "date": "2026-10-22",
-          "open": 2435.0,
-          "high": 2435.0,
-          "low": 2385.0,
-          "close": 2385.0,
-          "official_change": -35.0,
-          "volume_shares": 29796590.0,
-          "previous_close": 2420.0,
-          "consecutive_close_change": -35.0,
-          "consecutive_close_change_pct": -1.4462809917355373
+          "date": "2026-10-27",
+          "open": 2380.0,
+          "high": 2405.0,
+          "low": 2380.0,
+          "close": 2400.0,
+          "official_change": 15.0,
+          "volume_shares": 38173147.0,
+          "previous_close": 2385.0,
+          "consecutive_close_change": 15.0,
+          "consecutive_close_change_pct": 0.628930817610063
         },
         "interpretation_limits": "TSMC price history describes one listed stock only; it is not used to infer orders, demand, or macro causality."
       }
@@ -3400,12 +3447,12 @@
       "ok": true,
       "data": {
         "source": "TWSE BFI82U",
-        "date": "2026-10-22",
-        "foreign_net_twd": -81582101452.0,
-        "investment_trust_net_twd": 9492200518.0,
-        "dealer_proprietary_net_twd": -3716264758.0,
-        "dealer_hedge_net_twd": -23661099849.0,
-        "institutional_total_net_twd": -99467265541.0
+        "date": "2026-10-27",
+        "foreign_net_twd": -8038873139.0,
+        "investment_trust_net_twd": 23604506258.0,
+        "dealer_proprietary_net_twd": 768221086.0,
+        "dealer_hedge_net_twd": -13166995196.0,
+        "institutional_total_net_twd": 3166859009.0
       }
     },
     "TWSE Institutional Flow History": {
@@ -3415,6 +3462,19 @@
         "source_url": "https://www.twse.com.tw/rwd/zh/fund/BFI82U",
         "frequency": "daily",
         "history": [
+          {
+            "date": "2026-10-27",
+            "foreign_net_twd": -8038873139.0,
+            "investment_trust_net_twd": 23604506258.0,
+            "dealer_proprietary_net_twd": 768221086.0,
+            "dealer_hedge_net_twd": -13166995196.0,
+            "institutional_total_net_twd": 3166859009.0,
+            "foreign_net_change_twd": 73543228313.0,
+            "investment_trust_net_change_twd": 14112305740.0,
+            "dealer_proprietary_net_change_twd": 4484485844.0,
+            "dealer_hedge_net_change_twd": 10494104653.0,
+            "institutional_total_net_change_twd": 102634124550.0
+          },
           {
             "date": "2026-10-22",
             "foreign_net_twd": -81582101452.0,
@@ -3525,34 +3585,21 @@
             "investment_trust_net_twd": 7140925067.0,
             "dealer_proprietary_net_twd": -799373028.0,
             "dealer_hedge_net_twd": -13494730613.0,
-            "institutional_total_net_twd": -59351325030.0,
-            "foreign_net_change_twd": 23654147034.0,
-            "investment_trust_net_change_twd": 4131995054.0,
-            "dealer_proprietary_net_change_twd": 1332412927.0,
-            "dealer_hedge_net_change_twd": 3104745036.0,
-            "institutional_total_net_change_twd": 32223300051.0
-          },
-          {
-            "date": "2026-10-08",
-            "foreign_net_twd": -75852293490.0,
-            "investment_trust_net_twd": 3008930013.0,
-            "dealer_proprietary_net_twd": -2131785955.0,
-            "dealer_hedge_net_twd": -16599475649.0,
-            "institutional_total_net_twd": -91574625081.0
+            "institutional_total_net_twd": -59351325030.0
           }
         ],
         "latest": {
-          "date": "2026-10-22",
-          "foreign_net_twd": -81582101452.0,
-          "investment_trust_net_twd": 9492200518.0,
-          "dealer_proprietary_net_twd": -3716264758.0,
-          "dealer_hedge_net_twd": -23661099849.0,
-          "institutional_total_net_twd": -99467265541.0,
-          "foreign_net_change_twd": -83821011268.0,
-          "investment_trust_net_change_twd": -3306336720.0,
-          "dealer_proprietary_net_change_twd": 2471205307.0,
-          "dealer_hedge_net_change_twd": -16276866047.0,
-          "institutional_total_net_change_twd": -100933008728.0
+          "date": "2026-10-27",
+          "foreign_net_twd": -8038873139.0,
+          "investment_trust_net_twd": 23604506258.0,
+          "dealer_proprietary_net_twd": 768221086.0,
+          "dealer_hedge_net_twd": -13166995196.0,
+          "institutional_total_net_twd": 3166859009.0,
+          "foreign_net_change_twd": 73543228313.0,
+          "investment_trust_net_change_twd": 14112305740.0,
+          "dealer_proprietary_net_change_twd": 4484485844.0,
+          "dealer_hedge_net_change_twd": 10494104653.0,
+          "institutional_total_net_change_twd": 102634124550.0
         },
         "interpretation_limits": "Institutional-flow history is descriptive daily trading data; it is not a causal explanation for TAIEX, TSMC, FX, or exports."
       }
@@ -3572,16 +3619,26 @@
               "source_url": "https://www.twse.com.tw/exchangeReport/MI_INDEX",
               "frequency": "daily",
               "latest": {
-                "date": "2026-10-22",
-                "close": 46041.43,
-                "official_direction": "<p style ='color:green'>-</p>",
-                "official_change": 846.34,
-                "official_change_pct": -1.81,
-                "previous_close": 46887.77,
-                "consecutive_close_change": -846.3399999999965,
-                "consecutive_close_change_pct": -1.8050335940480782
+                "date": "2026-10-27",
+                "close": 46096.23,
+                "official_direction": "<p style ='color:red'>+</p>",
+                "official_change": 54.8,
+                "official_change_pct": 0.12,
+                "previous_close": 46041.43,
+                "consecutive_close_change": 54.80000000000291,
+                "consecutive_close_change_pct": 0.11902323624614376
               },
               "history": [
+                {
+                  "date": "2026-10-27",
+                  "close": 46096.23,
+                  "official_direction": "<p style ='color:red'>+</p>",
+                  "official_change": 54.8,
+                  "official_change_pct": 0.12,
+                  "previous_close": 46041.43,
+                  "consecutive_close_change": 54.80000000000291,
+                  "consecutive_close_change_pct": 0.11902323624614376
+                },
                 {
                   "date": "2026-10-22",
                   "close": 46041.43,
@@ -3667,17 +3724,7 @@
                   "close": 49301.96,
                   "official_direction": "<p style ='color:green'>-</p>",
                   "official_change": 11.48,
-                  "official_change_pct": -0.02,
-                  "previous_close": 49313.44,
-                  "consecutive_close_change": -11.480000000003201,
-                  "consecutive_close_change_pct": -0.023279657634923057
-                },
-                {
-                  "date": "2026-10-08",
-                  "close": 49313.44,
-                  "official_direction": "<p style ='color:green'>-</p>",
-                  "official_change": 492.93,
-                  "official_change_pct": -0.99
+                  "official_change_pct": -0.02
                 }
               ],
               "interpretation_limits": "TAIEX history is daily market data; it does not explain monthly exports or fund flows without same-date evidence."
@@ -3691,18 +3738,30 @@
               "source_url": "https://www.twse.com.tw/exchangeReport/STOCK_DAY",
               "frequency": "daily",
               "latest": {
-                "date": "2026-10-22",
-                "open": 2435.0,
-                "high": 2435.0,
-                "low": 2385.0,
-                "close": 2385.0,
-                "official_change": -35.0,
-                "volume_shares": 29796590.0,
-                "previous_close": 2420.0,
-                "consecutive_close_change": -35.0,
-                "consecutive_close_change_pct": -1.4462809917355373
+                "date": "2026-10-27",
+                "open": 2380.0,
+                "high": 2405.0,
+                "low": 2380.0,
+                "close": 2400.0,
+                "official_change": 15.0,
+                "volume_shares": 38173147.0,
+                "previous_close": 2385.0,
+                "consecutive_close_change": 15.0,
+                "consecutive_close_change_pct": 0.628930817610063
               },
               "history": [
+                {
+                  "date": "2026-10-27",
+                  "open": 2380.0,
+                  "high": 2405.0,
+                  "low": 2380.0,
+                  "close": 2400.0,
+                  "official_change": 15.0,
+                  "volume_shares": 38173147.0,
+                  "previous_close": 2385.0,
+                  "consecutive_close_change": 15.0,
+                  "consecutive_close_change_pct": 0.628930817610063
+                },
                 {
                   "date": "2026-10-22",
                   "open": 2435.0,
@@ -3930,18 +3989,6 @@
                   "previous_close": 2460.0,
                   "consecutive_close_change": 40.0,
                   "consecutive_close_change_pct": 1.6260162601626018
-                },
-                {
-                  "date": "2026-09-22",
-                  "open": 2505.0,
-                  "high": 2510.0,
-                  "low": 2460.0,
-                  "close": 2460.0,
-                  "official_change": -20.0,
-                  "volume_shares": 22009927.0,
-                  "previous_close": 2480.0,
-                  "consecutive_close_change": -20.0,
-                  "consecutive_close_change_pct": -0.8064516129032258
                 }
               ],
               "interpretation_limits": "TSMC price history describes one listed stock only; it is not used to infer orders, demand, or macro causality."
@@ -3955,19 +4002,32 @@
               "source_url": "https://www.twse.com.tw/rwd/zh/fund/BFI82U",
               "frequency": "daily",
               "latest": {
-                "date": "2026-10-22",
-                "foreign_net_twd": -81582101452.0,
-                "investment_trust_net_twd": 9492200518.0,
-                "dealer_proprietary_net_twd": -3716264758.0,
-                "dealer_hedge_net_twd": -23661099849.0,
-                "institutional_total_net_twd": -99467265541.0,
-                "foreign_net_change_twd": -83821011268.0,
-                "investment_trust_net_change_twd": -3306336720.0,
-                "dealer_proprietary_net_change_twd": 2471205307.0,
-                "dealer_hedge_net_change_twd": -16276866047.0,
-                "institutional_total_net_change_twd": -100933008728.0
+                "date": "2026-10-27",
+                "foreign_net_twd": -8038873139.0,
+                "investment_trust_net_twd": 23604506258.0,
+                "dealer_proprietary_net_twd": 768221086.0,
+                "dealer_hedge_net_twd": -13166995196.0,
+                "institutional_total_net_twd": 3166859009.0,
+                "foreign_net_change_twd": 73543228313.0,
+                "investment_trust_net_change_twd": 14112305740.0,
+                "dealer_proprietary_net_change_twd": 4484485844.0,
+                "dealer_hedge_net_change_twd": 10494104653.0,
+                "institutional_total_net_change_twd": 102634124550.0
               },
               "history": [
+                {
+                  "date": "2026-10-27",
+                  "foreign_net_twd": -8038873139.0,
+                  "investment_trust_net_twd": 23604506258.0,
+                  "dealer_proprietary_net_twd": 768221086.0,
+                  "dealer_hedge_net_twd": -13166995196.0,
+                  "institutional_total_net_twd": 3166859009.0,
+                  "foreign_net_change_twd": 73543228313.0,
+                  "investment_trust_net_change_twd": 14112305740.0,
+                  "dealer_proprietary_net_change_twd": 4484485844.0,
+                  "dealer_hedge_net_change_twd": 10494104653.0,
+                  "institutional_total_net_change_twd": 102634124550.0
+                },
                 {
                   "date": "2026-10-22",
                   "foreign_net_twd": -81582101452.0,
@@ -4078,20 +4138,7 @@
                   "investment_trust_net_twd": 7140925067.0,
                   "dealer_proprietary_net_twd": -799373028.0,
                   "dealer_hedge_net_twd": -13494730613.0,
-                  "institutional_total_net_twd": -59351325030.0,
-                  "foreign_net_change_twd": 23654147034.0,
-                  "investment_trust_net_change_twd": 4131995054.0,
-                  "dealer_proprietary_net_change_twd": 1332412927.0,
-                  "dealer_hedge_net_change_twd": 3104745036.0,
-                  "institutional_total_net_change_twd": 32223300051.0
-                },
-                {
-                  "date": "2026-10-08",
-                  "foreign_net_twd": -75852293490.0,
-                  "investment_trust_net_twd": 3008930013.0,
-                  "dealer_proprietary_net_twd": -2131785955.0,
-                  "dealer_hedge_net_twd": -16599475649.0,
-                  "institutional_total_net_twd": -91574625081.0
+                  "institutional_total_net_twd": -59351325030.0
                 }
               ],
               "interpretation_limits": "Institutional-flow history is descriptive daily trading data; it is not a causal explanation for TAIEX, TSMC, FX, or exports."
