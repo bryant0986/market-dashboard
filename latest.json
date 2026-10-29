@@ -1,7 +1,7 @@
 {
-  "report_date": "2026-10-28",
-  "generated_at": "2026-10-28T11:39:28.638401+08:00",
-  "message": "📊 Daily Market Brief\n日期：2026-10-28\n\n🔑 Today in 3\n1. 美股主要指數呈現上揚，S&P 500 上漲 0.60% 至 7,722.60 點，納斯達克指數（⚠️ 10/26資料）上漲 0.82%。\n2. 台灣 9 月出口年增率達 60.9%，其中資通與視聽產品年增 103.0%，外需指標展現高成長動態。\n3. 美國巨觀數據呈現通膨居高與勞動市場降溫共存，9 月 CPI 年增 3.72%、非農就業月增 2.9 萬人。\n\n🌐 Cross-Market\n• 美國 10 年期公債殖利率下降 1.0 bps 至 4.99%，美聯儲於 9 月聲明中將目標利率區間調升至 3.75% 至 4.00%。\n• 原油現貨價格（🔴 10/20資料）下跌，WTI 報 107.89 美元/桶（-1.93%），Brent 報 115.22 美元/桶（-3.03%）；截至 10/16 當週 EIA 原油庫存週減 310 萬桶。\n• AI 官方公告方面，Meta 於新加坡推出個人 AI 代理 Muse，OpenAI 與 Oracle 擴大合作將企業應用引進 ChatGPT。\n• 台股與匯率走勢方向一致，加權指數上漲 54.80 點至 46096.23 點，台積電收於 2,400 元，美元兌新台幣下跌 0.17% 至 32.452。\n• 台灣三大法人最新合計淨買超 32 億元，其中外資淨賣超 80 億元，投信淨買超 236 億元。\n\n🚨 Event Focus\n• 美國 PCE / Core PCE 個人消費支出物價指數（估計發布窗口：2026-10-28），為市場觀察通膨與美債殖利率之重點數據。\n\n👀 Watch Next\n1. 觀察 2026-11-04 發布之 EIA 週度石油庫存數據，對原油市場進行後續追蹤。\n2. 針對台灣出口表現與相關產業動向，後續需等待各公司官方財報、營收與財測數據獨立驗證。\n\n🎯 Bottom Line\n當前市場主線聚焦於通膨數據與貨幣政策動態，並搭配台灣出口展現的高成長外需線索。在能源價格波動與勞動數據冷卻下，整體資產表現仍需等待後續官方數據與企業報告進一步釐清。\n\n📚 Sources\nEIA｜Federal Reserve｜OpenAI｜Google｜Meta｜BEA via FRED｜BLS｜U.S. Treasury｜Taiwan MOF｜CBC Taiwan｜TWSE",
+  "report_date": "2026-10-29",
+  "generated_at": "2026-10-29T11:59:39.986311+08:00",
+  "message": "📊 Daily Market Brief\n日期：2026-10-29\n\n🔑 Today in 3\n1. FOMC維持聯邦基金利率目標區間於3.75%至4.00%，美債10年期殖利率升至5.05%（+6.0 bps），同時通膨指標仍處高位（9月CPI年增率3.72%）。\n2. 台灣9月出口年增率達60.9%，加權指數上漲2.04%收47035.58點，三大法人合計買超324億元。\n3. 原油價格出現回檔（⚠️10/27較舊資料，WTI收103.37美元、Brent收123.10美元），EIA原油庫存週減少190萬桶。\n\n🌐 Cross-Market\n- 貨幣政策：FOMC以10比2票數通過維持利率於3.75%至4.00%，聲明提及經濟活動擴張且通膨居高。\n- 美國股市：美股主要指數微幅走升，S&P 500上漲0.28%收7743.98點，Nasdaq上漲0.27%收26549.85點。\n- 台灣市場：台股加權指數上漲939.35點，台積電收2425元（+25元），美元兌新台幣收32.418（-0.10%），外資買超台股160億元。\n- 產業數據：台灣9月資通與視聽產品出口年增103.0%，電子零組件出口年增45.3%，呈現外需擴張動能。\n- 企業動態：OpenAI與ServiceNow擴大企業工作流合作，Meta將超級智能模型引入美國五所大學合作研究。\n\n🚨 Event Focus\n- 10-28 PCE / Core PCE（估計發布窗口）：關注8月PCE（年增3.42%）與核心PCE（年增3.01%）後續最新數據對通膨路徑之影響。\n- 11-04 EIA週度石油庫存：觀察原油庫存變化與能源價格對整體通膨壓力的短期互動。\n\n👀 Watch Next\n- 通膨與利率路徑：持續關注將於11-10估計發布窗口登場的美國10月CPI，以及美債殖利率變化對聯準會政策預期的引導。\n- 企業營運與產業數據：台灣出口年增率提供外需整體線索，惟特定企業基本面仍需等待公司官方後續公布之財報、營收與財測獨立驗證。\n\n🎯 Bottom Line\n目前市場聚焦於高通膨環境下聯準會利率政策維持區間的時間長短，以及外需出口表現與殖利率回升之間的資金流向；最大不確定性源自通膨降溫進度與能源市場的波動風險。\n\n📚 Sources\nEIA｜Federal Reserve｜OpenAI｜Google｜Meta｜BEA via FRED｜BLS｜U.S. Treasury｜Taiwan MOF｜CBC Taiwan｜TWSE",
   "data_health": {
     "total": 38,
     "success": 38,
@@ -17,34 +17,34 @@
         "evidence": "+60.9%"
       },
       {
-        "name": "S&P 500",
+        "name": "US 10Y",
         "score": 1,
         "direction": "up",
-        "evidence": "+0.60%"
+        "evidence": "+6.0 bps"
+      },
+      {
+        "name": "S&P 500",
+        "score": 0,
+        "direction": "up",
+        "evidence": "+0.28%"
       },
       {
         "name": "Nasdaq",
-        "score": 1,
-        "direction": "up",
-        "evidence": "+0.82%"
-      },
-      {
-        "name": "US 10Y",
         "score": 0,
-        "direction": "down",
-        "evidence": "-1.0 bps"
+        "direction": "up",
+        "evidence": "+0.27%"
       },
       {
         "name": "EIA Crude Inventory",
         "score": 0,
         "direction": "draw",
-        "evidence": "-3.1 mb"
+        "evidence": "-1.9 mb"
       },
       {
         "name": "TWSE Foreign Flow",
         "score": 0,
-        "direction": "sell",
-        "evidence": "-80 億元"
+        "direction": "buy",
+        "evidence": "+160 億元"
       }
     ],
     "notable": [
@@ -55,16 +55,10 @@
         "evidence": "+60.9%"
       },
       {
-        "name": "S&P 500",
+        "name": "US 10Y",
         "score": 1,
         "direction": "up",
-        "evidence": "+0.60%"
-      },
-      {
-        "name": "Nasdaq",
-        "score": 1,
-        "direction": "up",
-        "evidence": "+0.82%"
+        "evidence": "+6.0 bps"
       }
     ]
   },
@@ -91,13 +85,13 @@
       "name": "Oil Inventory Signal",
       "score": 0,
       "label": "balanced",
-      "evidence": "weekly -3.1 mb"
+      "evidence": "weekly -1.9 mb"
     },
     {
       "name": "Taiwan Foreign Flow",
       "score": 0,
-      "label": "net-sell",
-      "evidence": "-80 億元"
+      "label": "net-buy",
+      "evidence": "+160 億元"
     }
   ],
   "events": [
@@ -105,7 +99,7 @@
       "date": "2026-10-28",
       "label": "PCE / Core PCE",
       "certainty": "estimated-window",
-      "days_ahead": 0,
+      "days_ahead": -1,
       "priority": "HIGH",
       "related_data": [
         "PCE",
@@ -117,7 +111,7 @@
       "date": "2026-11-04",
       "label": "EIA 週度石油庫存",
       "certainty": "scheduled-cadence",
-      "days_ahead": 7,
+      "days_ahead": 6,
       "priority": "WATCH",
       "related_data": [
         "WTI",
@@ -129,7 +123,7 @@
       "date": "2026-11-08",
       "label": "台灣出口",
       "certainty": "estimated-window",
-      "days_ahead": 11,
+      "days_ahead": 10,
       "priority": "MONITOR",
       "related_data": [
         "Taiwan Exports",
@@ -142,7 +136,7 @@
       "date": "2026-11-10",
       "label": "美國 CPI",
       "certainty": "estimated-window",
-      "days_ahead": 13,
+      "days_ahead": 12,
       "priority": "MONITOR",
       "related_data": [
         "CPI",
@@ -272,35 +266,35 @@
         {
           "label": "US 2Y Treasury",
           "status": "available",
-          "date": "2026-10-27",
+          "date": "2026-10-28",
           "frequency": "daily",
-          "value": 4.7,
-          "value_text": "4.70%",
-          "change_bps": 2.000000000000046,
+          "value": 4.67,
+          "value_text": "4.67%",
+          "change_bps": -3.000000000000025,
           "source": "U.S. Treasury",
           "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml"
         },
         {
           "label": "US 10Y Treasury",
           "status": "available",
-          "date": "2026-10-27",
+          "date": "2026-10-28",
           "frequency": "daily",
-          "value": 4.99,
-          "value_text": "4.99%",
-          "change_bps": -0.9999999999999787,
+          "value": 5.05,
+          "value_text": "5.05%",
+          "change_bps": 5.999999999999961,
           "source": "U.S. Treasury",
           "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml"
         },
         {
           "label": "2Y-10Y yield spread",
           "status": "available",
-          "date": "2026-10-27",
+          "date": "2026-10-28",
           "frequency": "daily",
-          "spread_bps": 29.000000000000004,
-          "value_text": "+29.0 bps",
-          "two_year": 4.7,
-          "ten_year": 4.99,
-          "change_bps": -3.000000000000025,
+          "spread_bps": 37.999999999999986,
+          "value_text": "+38.0 bps",
+          "two_year": 4.67,
+          "ten_year": 5.05,
+          "change_bps": 8.999999999999982,
           "source": "U.S. Treasury",
           "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml",
           "interpretation_limits": "Spread is computed only from same-date official Treasury curve fields; it is not a recession forecast."
@@ -337,6 +331,29 @@
       "source_url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
       "frequency": "event",
       "statements": [
+        {
+          "source": "Federal Reserve",
+          "title": "Federal Reserve issues FOMC statement",
+          "date": "2026-10-28",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+          "frequency": "event",
+          "fields": {
+            "policy_action": "--> --> --> --> --> --> The Federal Open Market Committee approved the following statement for release by a 10 – 2 vote: The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent, in support of the Federal Reserve's dual mandate.",
+            "economic_activity": "Economic activity is expanding at a strong pace.",
+            "labor_market": "Job gains have kept pace with the workforce, and the unemployment rate has changed little.",
+            "inflation": "Inflation remains elevated.",
+            "balance_sheet": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S."
+          },
+          "policy_action": {
+            "action": "hold",
+            "rate_range": {
+              "low": 3.75,
+              "high": 4.0,
+              "text": "3.75-4.00%"
+            },
+            "official_text": "--> --> --> --> --> --> The Federal Open Market Committee approved the following statement for release by a 10 – 2 vote: The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent, in support of the Federal Reserve's dual mandate."
+          }
+        },
         {
           "source": "Federal Reserve",
           "title": "Federal Reserve issues FOMC statement",
@@ -401,28 +418,61 @@
             },
             "official_text": "The Federal Open Market Committee approved the following statement for release by a 12 – 0 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate."
           }
-        },
-        {
-          "source": "Federal Reserve",
-          "title": "Federal Reserve issues FOMC statement",
-          "date": "2026-04-29",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm",
-          "frequency": "event",
-          "fields": {
-            "policy_action": "In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 3‑1/2 to 3‑3/4 percent.",
-            "economic_activity": "Recent indicators suggest that economic activity has been expanding at a solid pace.",
-            "labor_market": "Job gains have remained low, on average, and the unemployment rate has been little changed in recent months.",
-            "inflation": "Inflation is elevated, in part reflecting the recent increase in global energy prices.",
-            "balance_sheet": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S."
-          },
-          "policy_action": {
-            "action": "hold",
-            "rate_range": null,
-            "official_text": "In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 3‑1/2 to 3‑3/4 percent."
-          }
         }
       ],
       "comparisons": [
+        {
+          "newer_date": "2026-10-28",
+          "older_date": "2026-09-16",
+          "policy_action": {
+            "status": "changed",
+            "newer_action": {
+              "action": "hold",
+              "rate_range": {
+                "low": 3.75,
+                "high": 4.0,
+                "text": "3.75-4.00%"
+              },
+              "official_text": "--> --> --> --> --> --> The Federal Open Market Committee approved the following statement for release by a 10 – 2 vote: The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent, in support of the Federal Reserve's dual mandate."
+            },
+            "older_action": {
+              "action": "hike",
+              "rate_range": null,
+              "official_text": "--> --> --> --> --> --> The Federal Open Market Committee approved the following statement for release by a 12 – 0 vote: The Committee decided to raise the target range for the federal funds rate by 1/4 percentage point to 3-3/4 to 4 percent, in support of the Federal Reserve's dual mandate."
+            }
+          },
+          "wording_changes": [
+            {
+              "field": "economic_activity",
+              "status": "changed",
+              "newer_text": "Economic activity is expanding at a strong pace.",
+              "older_text": "Economic activity is expanding at a solid pace."
+            },
+            {
+              "field": "labor_market",
+              "status": "unchanged",
+              "newer_text": "Job gains have kept pace with the workforce, and the unemployment rate has changed little.",
+              "older_text": "Job gains have kept pace with the workforce, and the unemployment rate has changed little."
+            },
+            {
+              "field": "inflation",
+              "status": "unchanged",
+              "newer_text": "Inflation remains elevated.",
+              "older_text": "Inflation remains elevated."
+            },
+            {
+              "field": "balance_sheet",
+              "status": "unchanged",
+              "newer_text": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S.",
+              "older_text": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S."
+            }
+          ],
+          "market_interpretation": {
+            "label": "policy action changed",
+            "text": "Market reading should separate the official rate decision from statement wording; any asset-price reaction requires separate market data.",
+            "limits": "This is a constrained textual interpretation from official statements only, not a price reaction, forecast, or causal claim."
+          }
+        },
         {
           "newer_date": "2026-09-16",
           "older_date": "2026-07-29",
@@ -530,58 +580,6 @@
             "text": "No material wording change was detected in the extracted fields; this does not rule out market movement from other information.",
             "limits": "This is a constrained textual interpretation from official statements only, not a price reaction, forecast, or causal claim."
           }
-        },
-        {
-          "newer_date": "2026-06-17",
-          "older_date": "2026-04-29",
-          "policy_action": {
-            "status": "changed",
-            "newer_action": {
-              "action": "hold",
-              "rate_range": {
-                "low": 3.5,
-                "high": 3.75,
-                "text": "3.50-3.75%"
-              },
-              "official_text": "The Federal Open Market Committee approved the following statement for release by a 12 – 0 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate."
-            },
-            "older_action": {
-              "action": "hold",
-              "rate_range": null,
-              "official_text": "In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 3‑1/2 to 3‑3/4 percent."
-            }
-          },
-          "wording_changes": [
-            {
-              "field": "economic_activity",
-              "status": "changed",
-              "newer_text": "Economic activity is expanding at a solid pace despite elevated uncertainty that owes, in part, to the conflict in the Middle East.",
-              "older_text": "Recent indicators suggest that economic activity has been expanding at a solid pace."
-            },
-            {
-              "field": "labor_market",
-              "status": "changed",
-              "newer_text": "Job gains have kept pace with the workforce, and the unemployment rate has changed little.",
-              "older_text": "Job gains have remained low, on average, and the unemployment rate has been little changed in recent months."
-            },
-            {
-              "field": "inflation",
-              "status": "changed",
-              "newer_text": "Inflation remains elevated relative to the Committee's 2 percent goal, in part reflecting supply shocks that have driven price increases in certain sectors, including energy.",
-              "older_text": "Inflation is elevated, in part reflecting the recent increase in global energy prices."
-            },
-            {
-              "field": "balance_sheet",
-              "status": "unchanged",
-              "newer_text": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S.",
-              "older_text": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S."
-            }
-          ],
-          "market_interpretation": {
-            "label": "policy action changed",
-            "text": "Market reading should separate the official rate decision from statement wording; any asset-price reaction requires separate market data.",
-            "limits": "This is a constrained textual interpretation from official statements only, not a price reaction, forecast, or causal claim."
-          }
         }
       ],
       "guardrails": [
@@ -602,11 +600,11 @@
           {
             "label": "Commercial crude oil inventories ex-SPR",
             "status": "available",
-            "date": "2026-10-16",
+            "date": "2026-10-23",
             "frequency": "weekly",
-            "value": 412.517,
-            "value_text": "412.5 million barrels",
-            "change": -3.06,
+            "value": 410.625,
+            "value_text": "410.6 million barrels",
+            "change": -1.892,
             "change_unit": "million barrels",
             "source": "EIA",
             "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCESTUS1&f=W",
@@ -617,11 +615,11 @@
           {
             "label": "Total motor gasoline stocks",
             "status": "available",
-            "date": "2026-10-16",
+            "date": "2026-10-23",
             "frequency": "weekly",
-            "value": 205.31,
-            "value_text": "205.3 million barrels",
-            "change": -2.951999999999998,
+            "value": 209.18,
+            "value_text": "209.2 million barrels",
+            "change": 3.8700000000000045,
             "change_unit": "million barrels",
             "source": "EIA",
             "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WGTSTUS1&f=W",
@@ -632,11 +630,11 @@
           {
             "label": "Distillate fuel oil stocks",
             "status": "available",
-            "date": "2026-10-16",
+            "date": "2026-10-23",
             "frequency": "weekly",
-            "value": 104.286,
-            "value_text": "104.3 million barrels",
-            "change": 1.6749999999999972,
+            "value": 102.824,
+            "value_text": "102.8 million barrels",
+            "change": -1.4620000000000033,
             "change_unit": "million barrels",
             "source": "EIA",
             "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WDISTUS1&f=W",
@@ -649,11 +647,11 @@
           {
             "label": "U.S. crude oil field production",
             "status": "available",
-            "date": "2026-10-16",
+            "date": "2026-10-23",
             "frequency": "weekly",
-            "value": 13.269,
-            "value_text": "13.269 million barrels per day",
-            "change": -0.41000000000000014,
+            "value": 13.992,
+            "value_text": "13.992 million barrels per day",
+            "change": 0.7230000000000008,
             "change_unit": "million barrels per day",
             "source": "EIA",
             "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCRFPUS2&f=W",
@@ -664,11 +662,11 @@
           {
             "label": "U.S. crude oil imports",
             "status": "available",
-            "date": "2026-10-16",
+            "date": "2026-10-23",
             "frequency": "weekly",
-            "value": 5.758,
-            "value_text": "5.758 million barrels per day",
-            "change": -0.29100000000000037,
+            "value": 6.3740000000000006,
+            "value_text": "6.374 million barrels per day",
+            "change": 0.6160000000000005,
             "change_unit": "million barrels per day",
             "source": "EIA",
             "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCRIMUS2&f=W",
@@ -681,11 +679,11 @@
           {
             "label": "Refinery operable capacity utilization",
             "status": "available",
-            "date": "2026-10-16",
+            "date": "2026-10-23",
             "frequency": "weekly",
-            "value": 93.4,
-            "value_text": "93.4 percent",
-            "change": -0.09999999999999432,
+            "value": 92.8,
+            "value_text": "92.8 percent",
+            "change": -0.6000000000000085,
             "change_unit": "percentage points",
             "source": "EIA",
             "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WPULEUS3&f=W",
@@ -718,16 +716,26 @@
             "source_url": "https://www.twse.com.tw/exchangeReport/MI_INDEX",
             "frequency": "daily",
             "latest": {
-              "date": "2026-10-27",
-              "close": 46096.23,
+              "date": "2026-10-28",
+              "close": 47035.58,
               "official_direction": "<p style ='color:red'>+</p>",
-              "official_change": 54.8,
-              "official_change_pct": 0.12,
-              "previous_close": 46041.43,
-              "consecutive_close_change": 54.80000000000291,
-              "consecutive_close_change_pct": 0.11902323624614376
+              "official_change": 939.35,
+              "official_change_pct": 2.04,
+              "previous_close": 46096.23,
+              "consecutive_close_change": 939.3499999999985,
+              "consecutive_close_change_pct": 2.037802223739335
             },
             "history": [
+              {
+                "date": "2026-10-28",
+                "close": 47035.58,
+                "official_direction": "<p style ='color:red'>+</p>",
+                "official_change": 939.35,
+                "official_change_pct": 2.04,
+                "previous_close": 46096.23,
+                "consecutive_close_change": 939.3499999999985,
+                "consecutive_close_change_pct": 2.037802223739335
+              },
               {
                 "date": "2026-10-27",
                 "close": 46096.23,
@@ -813,17 +821,7 @@
                 "close": 48341.31,
                 "official_direction": "<p style ='color:green'>-</p>",
                 "official_change": 960.65,
-                "official_change_pct": -1.95,
-                "previous_close": 49301.96,
-                "consecutive_close_change": -960.6500000000015,
-                "consecutive_close_change_pct": -1.948502655878187
-              },
-              {
-                "date": "2026-10-12",
-                "close": 49301.96,
-                "official_direction": "<p style ='color:green'>-</p>",
-                "official_change": 11.48,
-                "official_change_pct": -0.02
+                "official_change_pct": -1.95
               }
             ],
             "interpretation_limits": "TAIEX history is daily market data; it does not explain monthly exports or fund flows without same-date evidence."
@@ -837,18 +835,30 @@
             "source_url": "https://www.twse.com.tw/exchangeReport/STOCK_DAY",
             "frequency": "daily",
             "latest": {
-              "date": "2026-10-27",
-              "open": 2380.0,
-              "high": 2405.0,
-              "low": 2380.0,
-              "close": 2400.0,
-              "official_change": 15.0,
-              "volume_shares": 38173147.0,
-              "previous_close": 2385.0,
-              "consecutive_close_change": 15.0,
-              "consecutive_close_change_pct": 0.628930817610063
+              "date": "2026-10-28",
+              "open": 2420.0,
+              "high": 2430.0,
+              "low": 2410.0,
+              "close": 2425.0,
+              "official_change": 25.0,
+              "volume_shares": 21866835.0,
+              "previous_close": 2400.0,
+              "consecutive_close_change": 25.0,
+              "consecutive_close_change_pct": 1.0416666666666665
             },
             "history": [
+              {
+                "date": "2026-10-28",
+                "open": 2420.0,
+                "high": 2430.0,
+                "low": 2410.0,
+                "close": 2425.0,
+                "official_change": 25.0,
+                "volume_shares": 21866835.0,
+                "previous_close": 2400.0,
+                "consecutive_close_change": 25.0,
+                "consecutive_close_change_pct": 1.0416666666666665
+              },
               {
                 "date": "2026-10-27",
                 "open": 2380.0,
@@ -1076,18 +1086,6 @@
                 "previous_close": 2500.0,
                 "consecutive_close_change": -25.0,
                 "consecutive_close_change_pct": -1.0
-              },
-              {
-                "date": "2026-09-23",
-                "open": 2475.0,
-                "high": 2505.0,
-                "low": 2475.0,
-                "close": 2500.0,
-                "official_change": 40.0,
-                "volume_shares": 22817873.0,
-                "previous_close": 2460.0,
-                "consecutive_close_change": 40.0,
-                "consecutive_close_change_pct": 1.6260162601626018
               }
             ],
             "interpretation_limits": "TSMC price history describes one listed stock only; it is not used to infer orders, demand, or macro causality."
@@ -1101,19 +1099,32 @@
             "source_url": "https://www.twse.com.tw/rwd/zh/fund/BFI82U",
             "frequency": "daily",
             "latest": {
-              "date": "2026-10-27",
-              "foreign_net_twd": -8038873139.0,
-              "investment_trust_net_twd": 23604506258.0,
-              "dealer_proprietary_net_twd": 768221086.0,
-              "dealer_hedge_net_twd": -13166995196.0,
-              "institutional_total_net_twd": 3166859009.0,
-              "foreign_net_change_twd": 73543228313.0,
-              "investment_trust_net_change_twd": 14112305740.0,
-              "dealer_proprietary_net_change_twd": 4484485844.0,
-              "dealer_hedge_net_change_twd": 10494104653.0,
-              "institutional_total_net_change_twd": 102634124550.0
+              "date": "2026-10-28",
+              "foreign_net_twd": 15956619788.0,
+              "investment_trust_net_twd": 14319652303.0,
+              "dealer_proprietary_net_twd": 2448373766.0,
+              "dealer_hedge_net_twd": -283088783.0,
+              "institutional_total_net_twd": 32441557074.0,
+              "foreign_net_change_twd": 23995492927.0,
+              "investment_trust_net_change_twd": -9284853955.0,
+              "dealer_proprietary_net_change_twd": 1680152680.0,
+              "dealer_hedge_net_change_twd": 12883906413.0,
+              "institutional_total_net_change_twd": 29274698065.0
             },
             "history": [
+              {
+                "date": "2026-10-28",
+                "foreign_net_twd": 15956619788.0,
+                "investment_trust_net_twd": 14319652303.0,
+                "dealer_proprietary_net_twd": 2448373766.0,
+                "dealer_hedge_net_twd": -283088783.0,
+                "institutional_total_net_twd": 32441557074.0,
+                "foreign_net_change_twd": 23995492927.0,
+                "investment_trust_net_change_twd": -9284853955.0,
+                "dealer_proprietary_net_change_twd": 1680152680.0,
+                "dealer_hedge_net_change_twd": 12883906413.0,
+                "institutional_total_net_change_twd": 29274698065.0
+              },
               {
                 "date": "2026-10-27",
                 "foreign_net_twd": -8038873139.0,
@@ -1224,20 +1235,7 @@
                 "investment_trust_net_twd": 24625145557.0,
                 "dealer_proprietary_net_twd": -9247031180.0,
                 "dealer_hedge_net_twd": -47728908158.0,
-                "institutional_total_net_twd": -197641301866.0,
-                "foreign_net_change_twd": -113092361629.0,
-                "investment_trust_net_change_twd": 17484220490.0,
-                "dealer_proprietary_net_change_twd": -8447658152.0,
-                "dealer_hedge_net_change_twd": -34234177545.0,
-                "institutional_total_net_change_twd": -138289976836.0
-              },
-              {
-                "date": "2026-10-12",
-                "foreign_net_twd": -52198146456.0,
-                "investment_trust_net_twd": 7140925067.0,
-                "dealer_proprietary_net_twd": -799373028.0,
-                "dealer_hedge_net_twd": -13494730613.0,
-                "institutional_total_net_twd": -59351325030.0
+                "institutional_total_net_twd": -197641301866.0
               }
             ],
             "interpretation_limits": "Institutional-flow history is descriptive daily trading data; it is not a causal explanation for TAIEX, TSMC, FX, or exports."
@@ -1549,12 +1547,12 @@
       {
         "title": "最新 FOMC 政策聲明",
         "source": "Federal Reserve",
-        "date": "2026-09-16",
-        "fact": "最新 FOMC 政策聲明已取得；英文官方政策敘述保留於下方供查核。",
+        "date": "2026-10-28",
+        "fact": "FOMC 維持聯邦基金利率目標區間在 3.75%–4.00%。",
         "context": "這是目前可驗證的 Fed 政策背景；可與 CPI、PCE、就業及美債殖利率一起觀察政策環境。",
         "limits": "單一 FOMC statement 或單一通膨／就業數據，都不能保證下一次會議的升息或降息結果。",
         "original_title": "Latest FOMC Statement",
-        "original_summary": "--> --> --> --> --> --> The Federal Open Market Committee approved the following statement for release by a 12 – 0 vote: The Committee decided to raise the target range for the federal funds rate by 1/4 percentage point to 3-3/4 to 4 percent, in support of the Federal Reserve's dual mandate."
+        "original_summary": "--> --> --> --> --> --> The Federal Open Market Committee approved the following statement for release by a 10 – 2 vote: The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent, in support of the Federal Reserve's dual mandate."
       },
       {
         "title": "總體經濟脈動",
@@ -1571,8 +1569,8 @@
       {
         "title": "EIA 美國原油庫存",
         "source": "EIA",
-        "date": "2026-10-16",
-        "fact": "美國商業原油庫存（不含 SPR）412.5 百萬桶，週變動 -3.1 百萬桶（截至 2026-10-16 當週）",
+        "date": "2026-10-23",
+        "fact": "美國商業原油庫存（不含 SPR）410.6 百萬桶，週變動 -1.9 百萬桶（截至 2026-10-23 當週）",
         "context": "庫存的大幅增減是原油供需平衡的重要觀察線索，可與 WTI、Brent 的同期走勢一起閱讀。",
         "limits": "單一週庫存變動不能單獨解釋油價方向；仍可能同時受到地緣政治、供給政策與需求預期影響。",
         "original_title": "EIA Crude Inventory",
@@ -1587,28 +1585,38 @@
         "fact": "Meta 發布官方 AI / 科技公告；英文原標題與摘要保留於下方供查核。",
         "context": "這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。",
         "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
+        "original_title": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs",
+        "original_summary": "Meta is bringing Superintelligence models, research funding, and direct researcher collaboration to US universities that are using our models to solve critical issues in science and medicine. The post Meta Partners With Five US Universities to Accelerate Me..."
+      },
+      {
+        "title": "OpenAI 官方 AI / 科技更新",
+        "source": "OpenAI",
+        "date": "2026-10-28",
+        "fact": "OpenAI 發布官方 AI / 科技公告；英文原標題與摘要保留於下方供查核。",
+        "context": "這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。",
+        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
+        "original_title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "original_summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+      },
+      {
+        "title": "OpenAI 官方 AI / 科技更新",
+        "source": "OpenAI",
+        "date": "2026-10-28",
+        "fact": "OpenAI 發布官方 AI / 科技公告；英文原標題與摘要保留於下方供查核。",
+        "context": "這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。",
+        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
+        "original_title": "The future of the firm",
+        "original_summary": "How AI might enter the org chart—beneath, beside, and between us."
+      },
+      {
+        "title": "Meta 官方 AI / 科技更新",
+        "source": "Meta",
+        "date": "2026-10-28",
+        "fact": "Meta 發布官方 AI / 科技公告；英文原標題與摘要保留於下方供查核。",
+        "context": "這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。",
+        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
         "original_title": "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone",
         "original_summary": "Today we’re announcing Muse is now available in Singapore. The post Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone appeared first on Meta Newsroom ."
-      },
-      {
-        "title": "OpenAI 官方 AI / 科技更新",
-        "source": "OpenAI",
-        "date": "2026-10-27",
-        "fact": "OpenAI 發布官方 AI / 科技公告；英文原標題與摘要保留於下方供查核。",
-        "context": "這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。",
-        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
-        "original_title": "Retell uses OpenAI models to help power 100M monthly calls",
-        "original_summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
-      },
-      {
-        "title": "OpenAI 官方 AI / 科技更新",
-        "source": "OpenAI",
-        "date": "2026-10-27",
-        "fact": "OpenAI 發布官方 AI / 科技公告；英文原標題與摘要保留於下方供查核。",
-        "context": "這是官方 AI／科技公司公告，可用來追蹤產品、研究、基礎設施或商業化方向的最新進展。",
-        "limits": "官方公告本身不等同於晶片訂單、營收成長、資本支出增加或股價影響；未有明確數據時不做延伸推論。",
-        "original_title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-        "original_summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
       },
       {
         "title": "Google 官方 AI / 科技更新",
@@ -1635,8 +1643,8 @@
       {
         "title": "台股法人資金流向",
         "source": "TWSE BFI82U",
-        "date": "2026-10-27",
-        "fact": "外資及陸資 -80 億元；三大法人合計 +32 億元",
+        "date": "2026-10-28",
+        "fact": "外資及陸資 +160 億元；三大法人合計 +324 億元",
         "context": "法人買賣超提供當日資金方向資訊，可與大盤及匯率同時觀察，但不預設彼此存在因果關係。",
         "limits": "單日法人流向不能代表長期趨勢，也不能單獨解釋匯率、景氣或未來股市方向。",
         "original_title": "TWSE Institutional Flow",
@@ -1648,48 +1656,48 @@
     "ok": true,
     "data": {
       "source": "FRED / EIA",
-      "current_date": "2026-10-20",
+      "current_date": "2026-10-27",
       "current_features": {
-        "sp": -1.1899377998706047,
-        "nd": -2.865567971039962,
-        "wti": 13.10409896215536,
-        "brent": -8.395611384957864
+        "sp": 0.13004744203294952,
+        "nd": 0.20053116728894121,
+        "wti": -4.1894522198535515,
+        "brent": 6.839090435688244
       },
       "analogs": [
         {
-          "date": "2026-08-20",
-          "distance": 0.7501478704968941,
-          "sp_5d_after": 1.1756068450339991,
-          "sp_20d_after": 0.1222327500013106,
+          "date": "2026-09-18",
+          "distance": 0.44944691823099064,
+          "sp_5d_after": 1.2144304293836985,
+          "sp_20d_after": 0.11685510750930787,
           "features": {
-            "sp": -2.023723584720585,
-            "nd": -2.7454358704967334,
-            "wti": 8.433007128186548,
-            "brent": 2.1406063240247732
+            "sp": -0.08462866560967332,
+            "nd": 0.7196662443834757,
+            "wti": 0.1678680754418897,
+            "brent": 1.3552430967304712
           }
         },
         {
-          "date": "2026-08-19",
-          "distance": 0.902189073575168,
-          "sp_5d_after": -0.41878676384733415,
-          "sp_20d_after": -0.9110039206121363,
+          "date": "2026-03-19",
+          "distance": 0.4638554180751682,
+          "sp_5d_after": -1.9576204610920462,
+          "sp_20d_after": 7.864539263663469,
           "features": {
-            "sp": -0.5229399238562359,
-            "nd": -0.9680880711917129,
-            "wti": 2.718606567023658,
-            "brent": -0.16212710765239027
+            "sp": -0.9910649789737781,
+            "nd": -0.9917990245599041,
+            "wti": 0.5229578495973225,
+            "brent": 8.468450869310415
           }
         },
         {
-          "date": "2026-05-19",
-          "distance": 0.9133866142138728,
-          "sp_5d_after": 2.2675937396734396,
-          "sp_20d_after": 0.9041817556275176,
+          "date": "2026-07-07",
+          "distance": 0.5010466400754959,
+          "sp_5d_after": 0.5295948079985578,
+          "sp_20d_after": 3.10067498684009,
           "features": {
-            "sp": -0.63978186613629,
-            "nd": -0.8336719283047569,
-            "wti": 5.965210814898849,
-            "brent": 2.936158750112235
+            "sp": 0.852370091513529,
+            "nd": -0.005615771254535133,
+            "wti": 1.3747165532879801,
+            "brent": 1.8734033494181204
           }
         }
       ],
@@ -1701,30 +1709,30 @@
       "ok": true,
       "data": {
         "latest": {
+          "date": "2026-10-28",
+          "value": 7743.98
+        },
+        "previous": {
           "date": "2026-10-27",
           "value": 7722.6
         },
-        "previous": {
-          "date": "2026-10-26",
-          "value": 7676.77
-        },
-        "change": 45.82999999999993,
-        "change_pct": 0.5969958719617746
+        "change": 21.3799999999992,
+        "change_pct": 0.27684976562296637
       }
     },
     "Nasdaq Composite": {
       "ok": true,
       "data": {
         "latest": {
-          "date": "2026-10-26",
-          "value": 26169.38
+          "date": "2026-10-28",
+          "value": 26549.85
         },
         "previous": {
-          "date": "2026-10-23",
-          "value": 25955.34
+          "date": "2026-10-27",
+          "value": 26477.81
         },
-        "change": 214.04000000000087,
-        "change_pct": 0.8246472594849494
+        "change": 72.03999999999724,
+        "change_pct": 0.27207688249140405
       }
     },
     "WTI": {
@@ -1734,15 +1742,15 @@
         "series_id": "PET.RWTC.D",
         "instrument_name": "WTI Spot",
         "latest": {
-          "date": "2026-10-20",
-          "value": 107.89
+          "date": "2026-10-27",
+          "value": 103.37
         },
         "previous": {
-          "date": "2026-10-19",
-          "value": 110.01
+          "date": "2026-10-26",
+          "value": 105.25
         },
-        "change": -2.1200000000000045,
-        "change_pct": -1.927097536587587
+        "change": -1.8799999999999955,
+        "change_pct": -1.7862232779097345
       },
       "used_fallback": false
     },
@@ -1753,15 +1761,15 @@
         "series_id": "PET.RBRTE.D",
         "instrument_name": "Brent Spot",
         "latest": {
-          "date": "2026-10-20",
-          "value": 115.22
+          "date": "2026-10-27",
+          "value": 123.1
         },
         "previous": {
-          "date": "2026-10-19",
-          "value": 118.82
+          "date": "2026-10-26",
+          "value": 128.12
         },
-        "change": -3.5999999999999943,
-        "change_pct": -3.0297929641474455
+        "change": -5.02000000000001,
+        "change_pct": -3.9182016859194584
       },
       "used_fallback": false
     },
@@ -1772,31 +1780,31 @@
         "trends": [
           {
             "label": "S&P 500",
-            "latest_date": "2026-10-27",
-            "latest_value": 7722.6,
-            "ret_5": 0.13004744203294952,
-            "ret_20": 0.6747631289402493
+            "latest_date": "2026-10-28",
+            "latest_value": 7743.98,
+            "ret_5": -0.17003623744226967,
+            "ret_20": 1.2081228092645349
           },
           {
             "label": "Nasdaq Composite",
-            "latest_date": "2026-10-26",
-            "latest_value": 26169.38,
-            "ret_5": -0.9894104965818344,
-            "ret_20": -2.4272586741873154
+            "latest_date": "2026-10-28",
+            "latest_value": 26549.85,
+            "ret_5": -0.5730097824727465,
+            "ret_20": -1.1585916564722418
           },
           {
             "label": "WTI Spot",
-            "latest_date": "2026-10-20",
-            "latest_value": 107.89,
-            "ret_5": 13.10409896215536,
-            "ret_20": 11.907478477336381
+            "latest_date": "2026-10-27",
+            "latest_value": 103.37,
+            "ret_5": -4.1894522198535515,
+            "ret_20": 7.4979201331114895
           },
           {
             "label": "Brent Spot",
-            "latest_date": "2026-10-20",
-            "latest_value": 115.22,
-            "ret_5": -8.395611384957864,
-            "ret_20": 0.2872312646879609
+            "latest_date": "2026-10-27",
+            "latest_value": 123.1,
+            "ret_5": 6.839090435688244,
+            "ret_20": 8.020358020358023
           }
         ],
         "failures": []
@@ -1806,48 +1814,48 @@
       "ok": true,
       "data": {
         "source": "FRED / EIA",
-        "current_date": "2026-10-20",
+        "current_date": "2026-10-27",
         "current_features": {
-          "sp": -1.1899377998706047,
-          "nd": -2.865567971039962,
-          "wti": 13.10409896215536,
-          "brent": -8.395611384957864
+          "sp": 0.13004744203294952,
+          "nd": 0.20053116728894121,
+          "wti": -4.1894522198535515,
+          "brent": 6.839090435688244
         },
         "analogs": [
           {
-            "date": "2026-08-20",
-            "distance": 0.7501478704968941,
-            "sp_5d_after": 1.1756068450339991,
-            "sp_20d_after": 0.1222327500013106,
+            "date": "2026-09-18",
+            "distance": 0.44944691823099064,
+            "sp_5d_after": 1.2144304293836985,
+            "sp_20d_after": 0.11685510750930787,
             "features": {
-              "sp": -2.023723584720585,
-              "nd": -2.7454358704967334,
-              "wti": 8.433007128186548,
-              "brent": 2.1406063240247732
+              "sp": -0.08462866560967332,
+              "nd": 0.7196662443834757,
+              "wti": 0.1678680754418897,
+              "brent": 1.3552430967304712
             }
           },
           {
-            "date": "2026-08-19",
-            "distance": 0.902189073575168,
-            "sp_5d_after": -0.41878676384733415,
-            "sp_20d_after": -0.9110039206121363,
+            "date": "2026-03-19",
+            "distance": 0.4638554180751682,
+            "sp_5d_after": -1.9576204610920462,
+            "sp_20d_after": 7.864539263663469,
             "features": {
-              "sp": -0.5229399238562359,
-              "nd": -0.9680880711917129,
-              "wti": 2.718606567023658,
-              "brent": -0.16212710765239027
+              "sp": -0.9910649789737781,
+              "nd": -0.9917990245599041,
+              "wti": 0.5229578495973225,
+              "brent": 8.468450869310415
             }
           },
           {
-            "date": "2026-05-19",
-            "distance": 0.9133866142138728,
-            "sp_5d_after": 2.2675937396734396,
-            "sp_20d_after": 0.9041817556275176,
+            "date": "2026-07-07",
+            "distance": 0.5010466400754959,
+            "sp_5d_after": 0.5295948079985578,
+            "sp_20d_after": 3.10067498684009,
             "features": {
-              "sp": -0.63978186613629,
-              "nd": -0.8336719283047569,
-              "wti": 5.965210814898849,
-              "brent": 2.936158750112235
+              "sp": 0.852370091513529,
+              "nd": -0.005615771254535133,
+              "wti": 1.3747165532879801,
+              "brent": 1.8734033494181204
             }
           }
         ],
@@ -1859,10 +1867,10 @@
       "data": {
         "source": "Federal Reserve",
         "title": "Federal Reserve issues FOMC statement",
-        "date": "2026-09-16",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-        "policy_action": "--> --> --> --> --> --> The Federal Open Market Committee approved the following statement for release by a 12 – 0 vote: The Committee decided to raise the target range for the federal funds rate by 1/4 percentage point to 3-3/4 to 4 percent, in support of the Federal Reserve's dual mandate.",
-        "summary_text": "--> --> --> --> --> --> The Federal Open Market Committee approved the following statement for release by a 12 – 0 vote: The Committee decided to raise the target range for the federal funds rate by 1/4 percentage point to 3-3/4 to 4 percent, in support of the Federal Reserve's dual mandate. Economic activity is expanding at a solid pace. Job gains have kept pace with the workforce, and the unemployment rate has changed little. Inflation remains elevated."
+        "date": "2026-10-28",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+        "policy_action": "--> --> --> --> --> --> The Federal Open Market Committee approved the following statement for release by a 10 – 2 vote: The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent, in support of the Federal Reserve's dual mandate.",
+        "summary_text": "--> --> --> --> --> --> The Federal Open Market Committee approved the following statement for release by a 10 – 2 vote: The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent, in support of the Federal Reserve's dual mandate. Economic activity is expanding at a strong pace. Job gains have kept pace with the workforce, and the unemployment rate has changed little. Inflation remains elevated."
       }
     },
     "Fed Intelligence": {
@@ -1873,6 +1881,29 @@
         "source_url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
         "frequency": "event",
         "statements": [
+          {
+            "source": "Federal Reserve",
+            "title": "Federal Reserve issues FOMC statement",
+            "date": "2026-10-28",
+            "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+            "frequency": "event",
+            "fields": {
+              "policy_action": "--> --> --> --> --> --> The Federal Open Market Committee approved the following statement for release by a 10 – 2 vote: The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent, in support of the Federal Reserve's dual mandate.",
+              "economic_activity": "Economic activity is expanding at a strong pace.",
+              "labor_market": "Job gains have kept pace with the workforce, and the unemployment rate has changed little.",
+              "inflation": "Inflation remains elevated.",
+              "balance_sheet": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S."
+            },
+            "policy_action": {
+              "action": "hold",
+              "rate_range": {
+                "low": 3.75,
+                "high": 4.0,
+                "text": "3.75-4.00%"
+              },
+              "official_text": "--> --> --> --> --> --> The Federal Open Market Committee approved the following statement for release by a 10 – 2 vote: The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent, in support of the Federal Reserve's dual mandate."
+            }
+          },
           {
             "source": "Federal Reserve",
             "title": "Federal Reserve issues FOMC statement",
@@ -1937,28 +1968,61 @@
               },
               "official_text": "The Federal Open Market Committee approved the following statement for release by a 12 – 0 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate."
             }
-          },
-          {
-            "source": "Federal Reserve",
-            "title": "Federal Reserve issues FOMC statement",
-            "date": "2026-04-29",
-            "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm",
-            "frequency": "event",
-            "fields": {
-              "policy_action": "In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 3‑1/2 to 3‑3/4 percent.",
-              "economic_activity": "Recent indicators suggest that economic activity has been expanding at a solid pace.",
-              "labor_market": "Job gains have remained low, on average, and the unemployment rate has been little changed in recent months.",
-              "inflation": "Inflation is elevated, in part reflecting the recent increase in global energy prices.",
-              "balance_sheet": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S."
-            },
-            "policy_action": {
-              "action": "hold",
-              "rate_range": null,
-              "official_text": "In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 3‑1/2 to 3‑3/4 percent."
-            }
           }
         ],
         "comparisons": [
+          {
+            "newer_date": "2026-10-28",
+            "older_date": "2026-09-16",
+            "policy_action": {
+              "status": "changed",
+              "newer_action": {
+                "action": "hold",
+                "rate_range": {
+                  "low": 3.75,
+                  "high": 4.0,
+                  "text": "3.75-4.00%"
+                },
+                "official_text": "--> --> --> --> --> --> The Federal Open Market Committee approved the following statement for release by a 10 – 2 vote: The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent, in support of the Federal Reserve's dual mandate."
+              },
+              "older_action": {
+                "action": "hike",
+                "rate_range": null,
+                "official_text": "--> --> --> --> --> --> The Federal Open Market Committee approved the following statement for release by a 12 – 0 vote: The Committee decided to raise the target range for the federal funds rate by 1/4 percentage point to 3-3/4 to 4 percent, in support of the Federal Reserve's dual mandate."
+              }
+            },
+            "wording_changes": [
+              {
+                "field": "economic_activity",
+                "status": "changed",
+                "newer_text": "Economic activity is expanding at a strong pace.",
+                "older_text": "Economic activity is expanding at a solid pace."
+              },
+              {
+                "field": "labor_market",
+                "status": "unchanged",
+                "newer_text": "Job gains have kept pace with the workforce, and the unemployment rate has changed little.",
+                "older_text": "Job gains have kept pace with the workforce, and the unemployment rate has changed little."
+              },
+              {
+                "field": "inflation",
+                "status": "unchanged",
+                "newer_text": "Inflation remains elevated.",
+                "older_text": "Inflation remains elevated."
+              },
+              {
+                "field": "balance_sheet",
+                "status": "unchanged",
+                "newer_text": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S.",
+                "older_text": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S."
+              }
+            ],
+            "market_interpretation": {
+              "label": "policy action changed",
+              "text": "Market reading should separate the official rate decision from statement wording; any asset-price reaction requires separate market data.",
+              "limits": "This is a constrained textual interpretation from official statements only, not a price reaction, forecast, or causal claim."
+            }
+          },
           {
             "newer_date": "2026-09-16",
             "older_date": "2026-07-29",
@@ -2066,58 +2130,6 @@
               "text": "No material wording change was detected in the extracted fields; this does not rule out market movement from other information.",
               "limits": "This is a constrained textual interpretation from official statements only, not a price reaction, forecast, or causal claim."
             }
-          },
-          {
-            "newer_date": "2026-06-17",
-            "older_date": "2026-04-29",
-            "policy_action": {
-              "status": "changed",
-              "newer_action": {
-                "action": "hold",
-                "rate_range": {
-                  "low": 3.5,
-                  "high": 3.75,
-                  "text": "3.50-3.75%"
-                },
-                "official_text": "The Federal Open Market Committee approved the following statement for release by a 12 – 0 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate."
-              },
-              "older_action": {
-                "action": "hold",
-                "rate_range": null,
-                "official_text": "In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 3‑1/2 to 3‑3/4 percent."
-              }
-            },
-            "wording_changes": [
-              {
-                "field": "economic_activity",
-                "status": "changed",
-                "newer_text": "Economic activity is expanding at a solid pace despite elevated uncertainty that owes, in part, to the conflict in the Middle East.",
-                "older_text": "Recent indicators suggest that economic activity has been expanding at a solid pace."
-              },
-              {
-                "field": "labor_market",
-                "status": "changed",
-                "newer_text": "Job gains have kept pace with the workforce, and the unemployment rate has changed little.",
-                "older_text": "Job gains have remained low, on average, and the unemployment rate has been little changed in recent months."
-              },
-              {
-                "field": "inflation",
-                "status": "changed",
-                "newer_text": "Inflation remains elevated relative to the Committee's 2 percent goal, in part reflecting supply shocks that have driven price increases in certain sectors, including energy.",
-                "older_text": "Inflation is elevated, in part reflecting the recent increase in global energy prices."
-              },
-              {
-                "field": "balance_sheet",
-                "status": "unchanged",
-                "newer_text": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S.",
-                "older_text": "Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S."
-              }
-            ],
-            "market_interpretation": {
-              "label": "policy action changed",
-              "text": "Market reading should separate the official rate decision from statement wording; any asset-price reaction requires separate market data.",
-              "limits": "This is a constrained textual interpretation from official statements only, not a price reaction, forecast, or causal claim."
-            }
           }
         ],
         "guardrails": [
@@ -2135,26 +2147,34 @@
           {
             "source": "Meta",
             "date": "2026-10-28",
+            "title": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs",
+            "summary": "Meta is bringing Superintelligence models, research funding, and direct researcher collaboration to US universities that are using our models to solve critical issues in science and medicine. The post Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs appeared first on Meta Newsroom .",
+            "link": "https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities-to-accelerate-medical-and-scientific-breakthroughs/",
+            "sort_key": 1793206849.0
+          },
+          {
+            "source": "OpenAI",
+            "date": "2026-10-28",
+            "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+            "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+            "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+            "sort_key": 1793193300.0
+          },
+          {
+            "source": "OpenAI",
+            "date": "2026-10-28",
+            "title": "The future of the firm",
+            "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+            "link": "https://openai.com/index/the-future-of-the-firm",
+            "sort_key": 1793181600.0
+          },
+          {
+            "source": "Meta",
+            "date": "2026-10-28",
             "title": "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone",
             "summary": "Today we’re announcing Muse is now available in Singapore. The post Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone appeared first on Meta Newsroom .",
             "link": "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/",
             "sort_key": 1793145603.0
-          },
-          {
-            "source": "OpenAI",
-            "date": "2026-10-27",
-            "title": "Retell uses OpenAI models to help power 100M monthly calls",
-            "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-            "link": "https://openai.com/index/retell-ai",
-            "sort_key": 1793113200.0
-          },
-          {
-            "source": "OpenAI",
-            "date": "2026-10-27",
-            "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-            "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-            "link": "https://openai.com/index/oracle-apps-in-chatgpt",
-            "sort_key": 1793084400.0
           },
           {
             "source": "Google",
@@ -2180,7 +2200,7 @@
           },
           "Meta": {
             "ok": true,
-            "count": 1
+            "count": 2
           },
           "TSMC": {
             "ok": false,
@@ -2388,14 +2408,14 @@
         "source": "EIA",
         "series_id": "PET.WCESTUS1.W",
         "latest": {
+          "date": "2026-10-23",
+          "value_mmbbl": 410.625
+        },
+        "previous": {
           "date": "2026-10-16",
           "value_mmbbl": 412.517
         },
-        "previous": {
-          "date": "2026-10-09",
-          "value_mmbbl": 415.577
-        },
-        "change_mmbbl": -3.06
+        "change_mmbbl": -1.892
       }
     },
     "EIA Gasoline Inventory": {
@@ -2410,16 +2430,16 @@
         "unit": "million barrels",
         "change_unit": "million barrels",
         "latest": {
+          "date": "2026-10-23",
+          "value": 209.18,
+          "raw_value": 209180.0
+        },
+        "previous": {
           "date": "2026-10-16",
           "value": 205.31,
           "raw_value": 205310.0
         },
-        "previous": {
-          "date": "2026-10-09",
-          "value": 208.262,
-          "raw_value": 208262.0
-        },
-        "change": -2.951999999999998,
+        "change": 3.8700000000000045,
         "interpretation_limits": "EIA weekly petroleum data only; no inventory-surprise, demand causality, price forecast, or market reaction is inferred."
       }
     },
@@ -2435,16 +2455,16 @@
         "unit": "million barrels",
         "change_unit": "million barrels",
         "latest": {
+          "date": "2026-10-23",
+          "value": 102.824,
+          "raw_value": 102824.0
+        },
+        "previous": {
           "date": "2026-10-16",
           "value": 104.286,
           "raw_value": 104286.0
         },
-        "previous": {
-          "date": "2026-10-09",
-          "value": 102.611,
-          "raw_value": 102611.0
-        },
-        "change": 1.6749999999999972,
+        "change": -1.4620000000000033,
         "interpretation_limits": "EIA weekly petroleum data only; no inventory-surprise, demand causality, price forecast, or market reaction is inferred."
       }
     },
@@ -2460,16 +2480,16 @@
         "unit": "million barrels per day",
         "change_unit": "million barrels per day",
         "latest": {
+          "date": "2026-10-23",
+          "value": 13.992,
+          "raw_value": 13992.0
+        },
+        "previous": {
           "date": "2026-10-16",
           "value": 13.269,
           "raw_value": 13269.0
         },
-        "previous": {
-          "date": "2026-10-09",
-          "value": 13.679,
-          "raw_value": 13679.0
-        },
-        "change": -0.41000000000000014,
+        "change": 0.7230000000000008,
         "interpretation_limits": "EIA weekly petroleum data only; no inventory-surprise, demand causality, price forecast, or market reaction is inferred."
       }
     },
@@ -2485,16 +2505,16 @@
         "unit": "million barrels per day",
         "change_unit": "million barrels per day",
         "latest": {
+          "date": "2026-10-23",
+          "value": 6.3740000000000006,
+          "raw_value": 6374.0
+        },
+        "previous": {
           "date": "2026-10-16",
           "value": 5.758,
           "raw_value": 5758.0
         },
-        "previous": {
-          "date": "2026-10-09",
-          "value": 6.049,
-          "raw_value": 6049.0
-        },
-        "change": -0.29100000000000037,
+        "change": 0.6160000000000005,
         "interpretation_limits": "EIA weekly petroleum data only; no inventory-surprise, demand causality, price forecast, or market reaction is inferred."
       }
     },
@@ -2510,16 +2530,16 @@
         "unit": "percent",
         "change_unit": "percentage points",
         "latest": {
+          "date": "2026-10-23",
+          "value": 92.8,
+          "raw_value": 92.8
+        },
+        "previous": {
           "date": "2026-10-16",
           "value": 93.4,
           "raw_value": 93.4
         },
-        "previous": {
-          "date": "2026-10-09",
-          "value": 93.5,
-          "raw_value": 93.5
-        },
-        "change": -0.09999999999999432,
+        "change": -0.6000000000000085,
         "interpretation_limits": "EIA weekly petroleum data only; no inventory-surprise, demand causality, price forecast, or market reaction is inferred."
       }
     },
@@ -2534,11 +2554,11 @@
             {
               "label": "Commercial crude oil inventories ex-SPR",
               "status": "available",
-              "date": "2026-10-16",
+              "date": "2026-10-23",
               "frequency": "weekly",
-              "value": 412.517,
-              "value_text": "412.5 million barrels",
-              "change": -3.06,
+              "value": 410.625,
+              "value_text": "410.6 million barrels",
+              "change": -1.892,
               "change_unit": "million barrels",
               "source": "EIA",
               "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCESTUS1&f=W",
@@ -2549,11 +2569,11 @@
             {
               "label": "Total motor gasoline stocks",
               "status": "available",
-              "date": "2026-10-16",
+              "date": "2026-10-23",
               "frequency": "weekly",
-              "value": 205.31,
-              "value_text": "205.3 million barrels",
-              "change": -2.951999999999998,
+              "value": 209.18,
+              "value_text": "209.2 million barrels",
+              "change": 3.8700000000000045,
               "change_unit": "million barrels",
               "source": "EIA",
               "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WGTSTUS1&f=W",
@@ -2564,11 +2584,11 @@
             {
               "label": "Distillate fuel oil stocks",
               "status": "available",
-              "date": "2026-10-16",
+              "date": "2026-10-23",
               "frequency": "weekly",
-              "value": 104.286,
-              "value_text": "104.3 million barrels",
-              "change": 1.6749999999999972,
+              "value": 102.824,
+              "value_text": "102.8 million barrels",
+              "change": -1.4620000000000033,
               "change_unit": "million barrels",
               "source": "EIA",
               "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WDISTUS1&f=W",
@@ -2581,11 +2601,11 @@
             {
               "label": "U.S. crude oil field production",
               "status": "available",
-              "date": "2026-10-16",
+              "date": "2026-10-23",
               "frequency": "weekly",
-              "value": 13.269,
-              "value_text": "13.269 million barrels per day",
-              "change": -0.41000000000000014,
+              "value": 13.992,
+              "value_text": "13.992 million barrels per day",
+              "change": 0.7230000000000008,
               "change_unit": "million barrels per day",
               "source": "EIA",
               "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCRFPUS2&f=W",
@@ -2596,11 +2616,11 @@
             {
               "label": "U.S. crude oil imports",
               "status": "available",
-              "date": "2026-10-16",
+              "date": "2026-10-23",
               "frequency": "weekly",
-              "value": 5.758,
-              "value_text": "5.758 million barrels per day",
-              "change": -0.29100000000000037,
+              "value": 6.3740000000000006,
+              "value_text": "6.374 million barrels per day",
+              "change": 0.6160000000000005,
               "change_unit": "million barrels per day",
               "source": "EIA",
               "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCRIMUS2&f=W",
@@ -2613,11 +2633,11 @@
             {
               "label": "Refinery operable capacity utilization",
               "status": "available",
-              "date": "2026-10-16",
+              "date": "2026-10-23",
               "frequency": "weekly",
-              "value": 93.4,
-              "value_text": "93.4 percent",
-              "change": -0.09999999999999432,
+              "value": 92.8,
+              "value_text": "92.8 percent",
+              "change": -0.6000000000000085,
               "change_unit": "percentage points",
               "source": "EIA",
               "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WPULEUS3&f=W",
@@ -2640,14 +2660,14 @@
       "data": {
         "source": "U.S. Treasury",
         "latest": {
+          "date": "2026-10-28",
+          "value": 5.05
+        },
+        "previous": {
           "date": "2026-10-27",
           "value": 4.99
         },
-        "previous": {
-          "date": "2026-10-26",
-          "value": 5.0
-        },
-        "change_bps": -0.9999999999999787
+        "change_bps": 5.999999999999961
       }
     },
     "US 2Y Treasury": {
@@ -2658,14 +2678,14 @@
         "label": "2-year Treasury par yield",
         "frequency": "daily",
         "latest": {
+          "date": "2026-10-28",
+          "value": 4.67
+        },
+        "previous": {
           "date": "2026-10-27",
           "value": 4.7
         },
-        "previous": {
-          "date": "2026-10-26",
-          "value": 4.68
-        },
-        "change_bps": 2.000000000000046
+        "change_bps": -3.000000000000025
       }
     },
     "2Y-10Y Yield Spread": {
@@ -2676,18 +2696,18 @@
         "label": "2Y-10Y Treasury yield spread",
         "frequency": "daily",
         "latest": {
+          "date": "2026-10-28",
+          "spread_bps": 37.999999999999986,
+          "two_year": 4.67,
+          "ten_year": 5.05
+        },
+        "previous": {
           "date": "2026-10-27",
           "spread_bps": 29.000000000000004,
           "two_year": 4.7,
           "ten_year": 4.99
         },
-        "previous": {
-          "date": "2026-10-26",
-          "spread_bps": 32.00000000000003,
-          "two_year": 4.68,
-          "ten_year": 5.0
-        },
-        "change_bps": -3.000000000000025,
+        "change_bps": 8.999999999999982,
         "interpretation_limits": "Spread is computed only from same-date official Treasury curve fields; it is not a recession forecast."
       }
     },
@@ -2696,15 +2716,15 @@
       "data": {
         "source": "CBC Taiwan",
         "latest": {
+          "date": "2026-10-28",
+          "value": 32.418
+        },
+        "previous": {
           "date": "2026-10-27",
           "value": 32.452
         },
-        "previous": {
-          "date": "2026-10-22",
-          "value": 32.508
-        },
-        "change": -0.05600000000000449,
-        "change_pct": -0.1722652885443721
+        "change": -0.03399999999999892,
+        "change_pct": -0.10477012202637409
       }
     },
     "Taiwan Exports": {
@@ -3043,11 +3063,11 @@
       "ok": true,
       "data": {
         "source": "TWSE OpenAPI",
-        "date": "1151027",
-        "close": "46096.23",
+        "date": "1151028",
+        "close": "47035.58",
         "direction": "+",
-        "change": "54.80",
-        "change_pct": "0.12"
+        "change": "939.35",
+        "change_pct": "2.04"
       }
     },
     "TAIEX History": {
@@ -3057,6 +3077,16 @@
         "source_url": "https://www.twse.com.tw/exchangeReport/MI_INDEX",
         "frequency": "daily",
         "history": [
+          {
+            "date": "2026-10-28",
+            "close": 47035.58,
+            "official_direction": "<p style ='color:red'>+</p>",
+            "official_change": 939.35,
+            "official_change_pct": 2.04,
+            "previous_close": 46096.23,
+            "consecutive_close_change": 939.3499999999985,
+            "consecutive_close_change_pct": 2.037802223739335
+          },
           {
             "date": "2026-10-27",
             "close": 46096.23,
@@ -3142,28 +3172,18 @@
             "close": 48341.31,
             "official_direction": "<p style ='color:green'>-</p>",
             "official_change": 960.65,
-            "official_change_pct": -1.95,
-            "previous_close": 49301.96,
-            "consecutive_close_change": -960.6500000000015,
-            "consecutive_close_change_pct": -1.948502655878187
-          },
-          {
-            "date": "2026-10-12",
-            "close": 49301.96,
-            "official_direction": "<p style ='color:green'>-</p>",
-            "official_change": 11.48,
-            "official_change_pct": -0.02
+            "official_change_pct": -1.95
           }
         ],
         "latest": {
-          "date": "2026-10-27",
-          "close": 46096.23,
+          "date": "2026-10-28",
+          "close": 47035.58,
           "official_direction": "<p style ='color:red'>+</p>",
-          "official_change": 54.8,
-          "official_change_pct": 0.12,
-          "previous_close": 46041.43,
-          "consecutive_close_change": 54.80000000000291,
-          "consecutive_close_change_pct": 0.11902323624614376
+          "official_change": 939.35,
+          "official_change_pct": 2.04,
+          "previous_close": 46096.23,
+          "consecutive_close_change": 939.3499999999985,
+          "consecutive_close_change_pct": 2.037802223739335
         },
         "interpretation_limits": "TAIEX history is daily market data; it does not explain monthly exports or fund flows without same-date evidence."
       }
@@ -3171,12 +3191,12 @@
     "TSMC 2330": {
       "ok": true,
       "data": {
-        "date": "115/10/27",
-        "open": "2,380.00",
-        "high": "2,405.00",
-        "low": "2,380.00",
-        "close": "2,400.00",
-        "change": "+15.00"
+        "date": "115/10/28",
+        "open": "2,420.00",
+        "high": "2,430.00",
+        "low": "2,410.00",
+        "close": "2,425.00",
+        "change": "+25.00"
       }
     },
     "TSMC History": {
@@ -3187,6 +3207,18 @@
         "stock_no": "2330",
         "frequency": "daily",
         "history": [
+          {
+            "date": "2026-10-28",
+            "open": 2420.0,
+            "high": 2430.0,
+            "low": 2410.0,
+            "close": 2425.0,
+            "official_change": 25.0,
+            "volume_shares": 21866835.0,
+            "previous_close": 2400.0,
+            "consecutive_close_change": 25.0,
+            "consecutive_close_change_pct": 1.0416666666666665
+          },
           {
             "date": "2026-10-27",
             "open": 2380.0,
@@ -3414,31 +3446,19 @@
             "previous_close": 2500.0,
             "consecutive_close_change": -25.0,
             "consecutive_close_change_pct": -1.0
-          },
-          {
-            "date": "2026-09-23",
-            "open": 2475.0,
-            "high": 2505.0,
-            "low": 2475.0,
-            "close": 2500.0,
-            "official_change": 40.0,
-            "volume_shares": 22817873.0,
-            "previous_close": 2460.0,
-            "consecutive_close_change": 40.0,
-            "consecutive_close_change_pct": 1.6260162601626018
           }
         ],
         "latest": {
-          "date": "2026-10-27",
-          "open": 2380.0,
-          "high": 2405.0,
-          "low": 2380.0,
-          "close": 2400.0,
-          "official_change": 15.0,
-          "volume_shares": 38173147.0,
-          "previous_close": 2385.0,
-          "consecutive_close_change": 15.0,
-          "consecutive_close_change_pct": 0.628930817610063
+          "date": "2026-10-28",
+          "open": 2420.0,
+          "high": 2430.0,
+          "low": 2410.0,
+          "close": 2425.0,
+          "official_change": 25.0,
+          "volume_shares": 21866835.0,
+          "previous_close": 2400.0,
+          "consecutive_close_change": 25.0,
+          "consecutive_close_change_pct": 1.0416666666666665
         },
         "interpretation_limits": "TSMC price history describes one listed stock only; it is not used to infer orders, demand, or macro causality."
       }
@@ -3447,12 +3467,12 @@
       "ok": true,
       "data": {
         "source": "TWSE BFI82U",
-        "date": "2026-10-27",
-        "foreign_net_twd": -8038873139.0,
-        "investment_trust_net_twd": 23604506258.0,
-        "dealer_proprietary_net_twd": 768221086.0,
-        "dealer_hedge_net_twd": -13166995196.0,
-        "institutional_total_net_twd": 3166859009.0
+        "date": "2026-10-28",
+        "foreign_net_twd": 15956619788.0,
+        "investment_trust_net_twd": 14319652303.0,
+        "dealer_proprietary_net_twd": 2448373766.0,
+        "dealer_hedge_net_twd": -283088783.0,
+        "institutional_total_net_twd": 32441557074.0
       }
     },
     "TWSE Institutional Flow History": {
@@ -3462,6 +3482,19 @@
         "source_url": "https://www.twse.com.tw/rwd/zh/fund/BFI82U",
         "frequency": "daily",
         "history": [
+          {
+            "date": "2026-10-28",
+            "foreign_net_twd": 15956619788.0,
+            "investment_trust_net_twd": 14319652303.0,
+            "dealer_proprietary_net_twd": 2448373766.0,
+            "dealer_hedge_net_twd": -283088783.0,
+            "institutional_total_net_twd": 32441557074.0,
+            "foreign_net_change_twd": 23995492927.0,
+            "investment_trust_net_change_twd": -9284853955.0,
+            "dealer_proprietary_net_change_twd": 1680152680.0,
+            "dealer_hedge_net_change_twd": 12883906413.0,
+            "institutional_total_net_change_twd": 29274698065.0
+          },
           {
             "date": "2026-10-27",
             "foreign_net_twd": -8038873139.0,
@@ -3572,34 +3605,21 @@
             "investment_trust_net_twd": 24625145557.0,
             "dealer_proprietary_net_twd": -9247031180.0,
             "dealer_hedge_net_twd": -47728908158.0,
-            "institutional_total_net_twd": -197641301866.0,
-            "foreign_net_change_twd": -113092361629.0,
-            "investment_trust_net_change_twd": 17484220490.0,
-            "dealer_proprietary_net_change_twd": -8447658152.0,
-            "dealer_hedge_net_change_twd": -34234177545.0,
-            "institutional_total_net_change_twd": -138289976836.0
-          },
-          {
-            "date": "2026-10-12",
-            "foreign_net_twd": -52198146456.0,
-            "investment_trust_net_twd": 7140925067.0,
-            "dealer_proprietary_net_twd": -799373028.0,
-            "dealer_hedge_net_twd": -13494730613.0,
-            "institutional_total_net_twd": -59351325030.0
+            "institutional_total_net_twd": -197641301866.0
           }
         ],
         "latest": {
-          "date": "2026-10-27",
-          "foreign_net_twd": -8038873139.0,
-          "investment_trust_net_twd": 23604506258.0,
-          "dealer_proprietary_net_twd": 768221086.0,
-          "dealer_hedge_net_twd": -13166995196.0,
-          "institutional_total_net_twd": 3166859009.0,
-          "foreign_net_change_twd": 73543228313.0,
-          "investment_trust_net_change_twd": 14112305740.0,
-          "dealer_proprietary_net_change_twd": 4484485844.0,
-          "dealer_hedge_net_change_twd": 10494104653.0,
-          "institutional_total_net_change_twd": 102634124550.0
+          "date": "2026-10-28",
+          "foreign_net_twd": 15956619788.0,
+          "investment_trust_net_twd": 14319652303.0,
+          "dealer_proprietary_net_twd": 2448373766.0,
+          "dealer_hedge_net_twd": -283088783.0,
+          "institutional_total_net_twd": 32441557074.0,
+          "foreign_net_change_twd": 23995492927.0,
+          "investment_trust_net_change_twd": -9284853955.0,
+          "dealer_proprietary_net_change_twd": 1680152680.0,
+          "dealer_hedge_net_change_twd": 12883906413.0,
+          "institutional_total_net_change_twd": 29274698065.0
         },
         "interpretation_limits": "Institutional-flow history is descriptive daily trading data; it is not a causal explanation for TAIEX, TSMC, FX, or exports."
       }
@@ -3619,16 +3639,26 @@
               "source_url": "https://www.twse.com.tw/exchangeReport/MI_INDEX",
               "frequency": "daily",
               "latest": {
-                "date": "2026-10-27",
-                "close": 46096.23,
+                "date": "2026-10-28",
+                "close": 47035.58,
                 "official_direction": "<p style ='color:red'>+</p>",
-                "official_change": 54.8,
-                "official_change_pct": 0.12,
-                "previous_close": 46041.43,
-                "consecutive_close_change": 54.80000000000291,
-                "consecutive_close_change_pct": 0.11902323624614376
+                "official_change": 939.35,
+                "official_change_pct": 2.04,
+                "previous_close": 46096.23,
+                "consecutive_close_change": 939.3499999999985,
+                "consecutive_close_change_pct": 2.037802223739335
               },
               "history": [
+                {
+                  "date": "2026-10-28",
+                  "close": 47035.58,
+                  "official_direction": "<p style ='color:red'>+</p>",
+                  "official_change": 939.35,
+                  "official_change_pct": 2.04,
+                  "previous_close": 46096.23,
+                  "consecutive_close_change": 939.3499999999985,
+                  "consecutive_close_change_pct": 2.037802223739335
+                },
                 {
                   "date": "2026-10-27",
                   "close": 46096.23,
@@ -3714,17 +3744,7 @@
                   "close": 48341.31,
                   "official_direction": "<p style ='color:green'>-</p>",
                   "official_change": 960.65,
-                  "official_change_pct": -1.95,
-                  "previous_close": 49301.96,
-                  "consecutive_close_change": -960.6500000000015,
-                  "consecutive_close_change_pct": -1.948502655878187
-                },
-                {
-                  "date": "2026-10-12",
-                  "close": 49301.96,
-                  "official_direction": "<p style ='color:green'>-</p>",
-                  "official_change": 11.48,
-                  "official_change_pct": -0.02
+                  "official_change_pct": -1.95
                 }
               ],
               "interpretation_limits": "TAIEX history is daily market data; it does not explain monthly exports or fund flows without same-date evidence."
@@ -3738,18 +3758,30 @@
               "source_url": "https://www.twse.com.tw/exchangeReport/STOCK_DAY",
               "frequency": "daily",
               "latest": {
-                "date": "2026-10-27",
-                "open": 2380.0,
-                "high": 2405.0,
-                "low": 2380.0,
-                "close": 2400.0,
-                "official_change": 15.0,
-                "volume_shares": 38173147.0,
-                "previous_close": 2385.0,
-                "consecutive_close_change": 15.0,
-                "consecutive_close_change_pct": 0.628930817610063
+                "date": "2026-10-28",
+                "open": 2420.0,
+                "high": 2430.0,
+                "low": 2410.0,
+                "close": 2425.0,
+                "official_change": 25.0,
+                "volume_shares": 21866835.0,
+                "previous_close": 2400.0,
+                "consecutive_close_change": 25.0,
+                "consecutive_close_change_pct": 1.0416666666666665
               },
               "history": [
+                {
+                  "date": "2026-10-28",
+                  "open": 2420.0,
+                  "high": 2430.0,
+                  "low": 2410.0,
+                  "close": 2425.0,
+                  "official_change": 25.0,
+                  "volume_shares": 21866835.0,
+                  "previous_close": 2400.0,
+                  "consecutive_close_change": 25.0,
+                  "consecutive_close_change_pct": 1.0416666666666665
+                },
                 {
                   "date": "2026-10-27",
                   "open": 2380.0,
@@ -3977,18 +4009,6 @@
                   "previous_close": 2500.0,
                   "consecutive_close_change": -25.0,
                   "consecutive_close_change_pct": -1.0
-                },
-                {
-                  "date": "2026-09-23",
-                  "open": 2475.0,
-                  "high": 2505.0,
-                  "low": 2475.0,
-                  "close": 2500.0,
-                  "official_change": 40.0,
-                  "volume_shares": 22817873.0,
-                  "previous_close": 2460.0,
-                  "consecutive_close_change": 40.0,
-                  "consecutive_close_change_pct": 1.6260162601626018
                 }
               ],
               "interpretation_limits": "TSMC price history describes one listed stock only; it is not used to infer orders, demand, or macro causality."
@@ -4002,19 +4022,32 @@
               "source_url": "https://www.twse.com.tw/rwd/zh/fund/BFI82U",
               "frequency": "daily",
               "latest": {
-                "date": "2026-10-27",
-                "foreign_net_twd": -8038873139.0,
-                "investment_trust_net_twd": 23604506258.0,
-                "dealer_proprietary_net_twd": 768221086.0,
-                "dealer_hedge_net_twd": -13166995196.0,
-                "institutional_total_net_twd": 3166859009.0,
-                "foreign_net_change_twd": 73543228313.0,
-                "investment_trust_net_change_twd": 14112305740.0,
-                "dealer_proprietary_net_change_twd": 4484485844.0,
-                "dealer_hedge_net_change_twd": 10494104653.0,
-                "institutional_total_net_change_twd": 102634124550.0
+                "date": "2026-10-28",
+                "foreign_net_twd": 15956619788.0,
+                "investment_trust_net_twd": 14319652303.0,
+                "dealer_proprietary_net_twd": 2448373766.0,
+                "dealer_hedge_net_twd": -283088783.0,
+                "institutional_total_net_twd": 32441557074.0,
+                "foreign_net_change_twd": 23995492927.0,
+                "investment_trust_net_change_twd": -9284853955.0,
+                "dealer_proprietary_net_change_twd": 1680152680.0,
+                "dealer_hedge_net_change_twd": 12883906413.0,
+                "institutional_total_net_change_twd": 29274698065.0
               },
               "history": [
+                {
+                  "date": "2026-10-28",
+                  "foreign_net_twd": 15956619788.0,
+                  "investment_trust_net_twd": 14319652303.0,
+                  "dealer_proprietary_net_twd": 2448373766.0,
+                  "dealer_hedge_net_twd": -283088783.0,
+                  "institutional_total_net_twd": 32441557074.0,
+                  "foreign_net_change_twd": 23995492927.0,
+                  "investment_trust_net_change_twd": -9284853955.0,
+                  "dealer_proprietary_net_change_twd": 1680152680.0,
+                  "dealer_hedge_net_change_twd": 12883906413.0,
+                  "institutional_total_net_change_twd": 29274698065.0
+                },
                 {
                   "date": "2026-10-27",
                   "foreign_net_twd": -8038873139.0,
@@ -4125,20 +4158,7 @@
                   "investment_trust_net_twd": 24625145557.0,
                   "dealer_proprietary_net_twd": -9247031180.0,
                   "dealer_hedge_net_twd": -47728908158.0,
-                  "institutional_total_net_twd": -197641301866.0,
-                  "foreign_net_change_twd": -113092361629.0,
-                  "investment_trust_net_change_twd": 17484220490.0,
-                  "dealer_proprietary_net_change_twd": -8447658152.0,
-                  "dealer_hedge_net_change_twd": -34234177545.0,
-                  "institutional_total_net_change_twd": -138289976836.0
-                },
-                {
-                  "date": "2026-10-12",
-                  "foreign_net_twd": -52198146456.0,
-                  "investment_trust_net_twd": 7140925067.0,
-                  "dealer_proprietary_net_twd": -799373028.0,
-                  "dealer_hedge_net_twd": -13494730613.0,
-                  "institutional_total_net_twd": -59351325030.0
+                  "institutional_total_net_twd": -197641301866.0
                 }
               ],
               "interpretation_limits": "Institutional-flow history is descriptive daily trading data; it is not a causal explanation for TAIEX, TSMC, FX, or exports."
