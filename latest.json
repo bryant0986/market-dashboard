@@ -1,7 +1,7 @@
 {
-  "report_date": "2026-10-31",
-  "generated_at": "2026-10-31T11:46:13.088702+08:00",
-  "message": "📊 Daily Market Brief\n日期：2026-10-31\n\n🔑 Today in 3\n1. 台灣加權指數10月30日收盤下跌1,156.50點，三大法人合計賣超1,402億元，其中外資單日賣超1,125億元。\n2. 台灣9月出口金額為872億美元，年增60.9%，其中資通與視聽產品年增103.0%。\n3. 納斯達克指數截至10月29日最新資料（⚠️較舊資料）下跌1.38%，同時美國9月Core PCE年增3.12%顯示通膨仍高。\n\n🌐 Cross-Market\n- 聯準會10月28日聲明維持聯邦基金利率目標區間於3.75%至4.00%。\n- 美國10年期公債殖利率於10月30日收於4.94%，下降4.0 bps。\n- 原油價格截至10月27日最新資料（🔴較舊資料），WTI原油收於每桶103.37美元，布蘭特原油收於每桶123.10美元。\n- 台積電10月30日收盤為2,370元，下跌45元；同日新台幣兌美元匯率收於32.478元。\n- AI官方訊息方面，OpenAI與Meta分別發布網站訓練偏好設定及AI眼鏡輔助工具等最新技術與公益合作。\n\n🚨 Event Focus\n- 11月4日 EIA 週度石油庫存：觀察庫存變化與能源市場情勢。\n- 11月8日 台灣出口統計（估計發布窗口）：觀察最新月度外需與資通產品出口數據。\n\n👀 Watch Next\n- 關注11月10日美國CPI數據（估計發布窗口），評估通膨軌跡對聯準會政策預期的方向性影響。\n- 後續需等待企業官方財報、營收與財測等數據發布，以獨立驗證個別公司之營運與基本面情況。\n\n🎯 Bottom Line\n目前市場呈現台灣外需出口成長與美國高通膨並存的現象，主要不確定性來自聯準會後續利率政策走向與外資資金方向。\n\n📚 Sources\nEIA｜Federal Reserve｜OpenAI｜Meta｜BEA via FRED｜BLS｜U.S. Treasury｜Taiwan MOF｜CBC Taiwan｜TWSE",
+  "report_date": "2026-11-01",
+  "generated_at": "2026-11-01T11:54:58.371053+08:00",
+  "message": "📊 Daily Market Brief\n日期：2026-11-01\n\n🔑 Today in 3\n根據10月30日最新可得資料，台灣證券交易所外資單日淨賣超1,125億元，加權指數收在45,211.83點。\n美股科技股指數出現調整，那斯達克指數下跌1.38%至26,184.72點（採10月29日較舊資料）。\n美國9月通膨指標呈現溫和，CPI年增率為3.72%、核心PCE年增率為3.12%，聯準會政策利率維持在3.75%至4.00%。\n\n🌐 Cross-Market\n- 利率與公債：聯準會決策維持政策利率不變，美國10年期公債殖利率下降4.0 bps至4.94%（10月30日較舊資料）。\n- 原油市場：WTI原油期貨價格下跌1.79%至每桶103.37美元，截至10月23日當週EIA原油庫存減少190萬桶（10月27日較舊資料）。\n- 台灣外需數據：9月出口金額為872億美元，年增率為60.9%，其中資通與視聽產品年增103.0%。\n- 企業動態：OpenAI發布網站AI訓練偏好機制，Meta則宣布與非營利組織合作拓展AI眼鏡應用。\n\n🚨 Event Focus\n- EIA週度石油庫存報告：預計於11月4日公布，關注庫存數據變動。\n- 美國10月CPI數據：預計於11月10日迎來估計發布窗口，為觀察通膨走向之重要指標。\n\n👀 Watch Next\n- 觀察後續美國通膨與勞動市場數據公布，評估央行政策利率預期的調整方向。\n- 觀察個別企業未來公布之官方財報、營收與財測數據，獨立驗證產業基本面發展。\n\n🎯 Bottom Line\n目前市場同時出現通膨數據偏高與外資資金淨賣出等現象，主要關注焦點集中於政策利率走向與後續官方經濟數據發布。\n\n📚 Sources\nEIA｜Federal Reserve｜OpenAI｜Meta｜BEA via FRED｜BLS｜U.S. Treasury｜Taiwan MOF｜CBC Taiwan｜TWSE",
   "data_health": {
     "total": 38,
     "success": 38,
@@ -31,8 +31,8 @@
       {
         "name": "S&P 500",
         "score": 0,
-        "direction": "up",
-        "evidence": "+0.28%"
+        "direction": "down",
+        "evidence": "-0.30%"
       },
       {
         "name": "US 10Y",
@@ -105,7 +105,7 @@
       "date": "2026-11-04",
       "label": "EIA 週度石油庫存",
       "certainty": "scheduled-cadence",
-      "days_ahead": 4,
+      "days_ahead": 3,
       "priority": "WATCH",
       "related_data": [
         "WTI",
@@ -117,8 +117,8 @@
       "date": "2026-11-08",
       "label": "台灣出口",
       "certainty": "estimated-window",
-      "days_ahead": 8,
-      "priority": "MONITOR",
+      "days_ahead": 7,
+      "priority": "WATCH",
       "related_data": [
         "Taiwan Exports",
         "TAIEX",
@@ -130,7 +130,7 @@
       "date": "2026-11-10",
       "label": "美國 CPI",
       "certainty": "estimated-window",
-      "days_ahead": 10,
+      "days_ahead": 9,
       "priority": "MONITOR",
       "related_data": [
         "CPI",
@@ -141,7 +141,7 @@
       "date": "2026-11-28",
       "label": "PCE / Core PCE",
       "certainty": "estimated-window",
-      "days_ahead": 28,
+      "days_ahead": 27,
       "priority": "MONITOR",
       "related_data": [
         "PCE",
@@ -1705,15 +1705,15 @@
       "ok": true,
       "data": {
         "latest": {
+          "date": "2026-10-29",
+          "value": 7720.39
+        },
+        "previous": {
           "date": "2026-10-28",
           "value": 7743.98
         },
-        "previous": {
-          "date": "2026-10-27",
-          "value": 7722.6
-        },
-        "change": 21.3799999999992,
-        "change_pct": 0.27684976562296637
+        "change": -23.589999999999236,
+        "change_pct": -0.3046237206191033
       }
     },
     "Nasdaq Composite": {
